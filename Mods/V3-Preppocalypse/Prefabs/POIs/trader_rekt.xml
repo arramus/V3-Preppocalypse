@@ -34,12 +34,12 @@
   <property name="WallVolumeSize" value="4, 4, 3#4, 4, 3#3, 2, 3#3, 2, 1" />
   <property name="WallVolumeStart" value="23, 2, 47#30, 2, 47#27, 4, 47#27, 2, 49" />
   <property class="Stats">
-    <property name="LightsVolume" value="19560.15" />
-    <property name="TotalVertices" value="1494102" />
-    <property name="TotalTriangles" value="605736" />
+    <property name="LightsVolume" value="19672.39" />
+    <property name="TotalVertices" value="1505777" />
+    <property name="TotalTriangles" value="611887" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1390612" />
-      <property name="Triangles" value="539686" />
+      <property name="Vertices" value="1402335" />
+      <property name="Triangles" value="545861" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="78298" />
@@ -54,8 +54,8 @@
       <property name="Triangles" value="870" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="15000" />
-      <property name="Triangles" value="7500" />
+      <property name="Vertices" value="14952" />
+      <property name="Triangles" value="7476" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />

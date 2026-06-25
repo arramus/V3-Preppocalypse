@@ -773,7 +773,6 @@
 			<property name="FertileLevel" value="0" />
 			<property name="Next" value="cntBirdnest" />
 			<property name="GrowthRate" value="360" /> <!-- For testing, this rate (in minutes) should be set no lower than 2 -->
-			<property name="FertileLevel" value="15" />
 			<property name="IsRandom" value="false" />
 		</property>
 		<drop event="Harvest" name="resourceCloth" count="1" prob="0.3" tag="allHarvest"/>

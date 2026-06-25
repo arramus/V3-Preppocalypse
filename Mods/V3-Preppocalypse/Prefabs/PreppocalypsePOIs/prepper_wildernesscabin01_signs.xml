@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="c6acf570-09a3-4595-a72c-9985537f5246" name="New Sign" modified="2026-06-25 18:23:18Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.01" rot="0" scale="0.2443519, 0.2443519" color="#260909FF" mode="ColorOnly" font="Stardos Stencil" text="HIRNSTURZ" direction="0" spacing="1.13" softness="0" dilate="0.12" />
+  </sign>
+  <sign guid="92bf09fc-ce1e-4d21-929b-5b76aaae5af0" name="New Sign" modified="2026-06-25 18:23:33Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.01" rot="0" scale="0.429592, 0.429592" color="#260909FF" mode="ColorOnly" font="Stardos Stencil" text="CABIN" direction="0" spacing="1.1" softness="0" dilate="0.12" />
+  </sign>
+</signs>
