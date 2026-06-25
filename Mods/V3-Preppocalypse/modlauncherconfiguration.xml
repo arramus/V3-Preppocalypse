@@ -1,0 +1,35 @@
+<Servers>
+  <ServerGroup Name="Preppocalypse">
+    <Server Name="Preppocalypse" Logo="https://i.imgur.com/yCvXBl1.jpg">
+      <Description>7D2D from the perspective of a Prepper.
+	  
+Features Include:
+- Updated to current version
+- Crafting from Containers and Auto-Sort feature when also using 0-Score Mod (recommended)
+- Upgraded default zombies in the biomes, hordes, and Game Stage linked POIs
+- A greater abundance of Prepper style quest POIs (custom and TFP conversions)
+- Additional recipes that accommodate Prepper/Survivalist/Bushcrafter traits
+- Upgraded and custom items, weapons, vehicles, and mods to facilitate survival against stronger hostiles
+- Oakraven Collection quality of life additions
+- Custom questing opportunities
+- POIs made by streamers and for streamers
+- Custom Preppo Town with boss zombies, and Old West Town Expansion
+as well as other game play features that are in context with a Prepper’s experience of the afterwards.
+  
+Brought to you by arramus, with kind support from the community.
+
+* Installing 0-Score Mod will automatically activate its 'Crafting from Containers' and 'Auto-Sort' feature *
+* Compatible with Bdubs Vehicles, Vehicle Madness, and Oakraven Vehicles, all at exactly the same time *
+* Other compatibility mods are found on Nexus connected to other creations *
+	  </Description>
+        <Version>Latest</Version>
+		<RSS/>
+        <Excludes></Excludes>
+        <ReleaseNotes></ReleaseNotes>
+        <Discord>https://discord.gg/PFMY8rqQVs</Discord>
+        <Donate></Donate>
+        <DownloadMode>Clone</DownloadMode>
+      <Downloads><Download>https://github.com/arramus/V3-Preppocalypse</Download></Downloads>
+    </Server>
+  </ServerGroup>
+</Servers>
