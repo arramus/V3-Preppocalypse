@@ -24,15 +24,15 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
     <property name="LightsVolume" value="12405.27" />
-    <property name="TotalVertices" value="835776" />
-    <property name="TotalTriangles" value="324164" />
+    <property name="TotalVertices" value="833400" />
+    <property name="TotalTriangles" value="330028" />
     <property class="BlockEntities">
-      <property name="Vertices" value="760462" />
-      <property name="Triangles" value="278274" />
+      <property name="Vertices" value="758674" />
+      <property name="Triangles" value="284814" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="69372" />
-      <property name="Triangles" value="36286" />
+      <property name="Vertices" value="68784" />
+      <property name="Triangles" value="35610" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -87,6 +87,10 @@
     <property class="challenge_steel">
       <property name="0" value="23, 6, 4" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="30, 6, 21" />
+      <property name="1" value="32, 6, 21" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="44, 11, 20" />
     </property>
@@ -99,10 +103,6 @@
     <property class="challenge_mech_parts">
       <property name="0" value="39, 8, 19" />
       <property name="1" value="39, 11, 20" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="30, 6, 21" />
-      <property name="1" value="32, 6, 21" />
     </property>
     <property class="Rally">
       <property name="0" value="38, 7, 3" />
