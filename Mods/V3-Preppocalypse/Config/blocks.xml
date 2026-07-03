@@ -15,7 +15,7 @@
             <property name="CustomIconTint" value="008000"/>
             <!--property name="TintColor" value="008000"/-->
 			<property name="CreativeMode" value="Player"/>
-			<property name="Class" value="CompositeTileEntity"/>
+			<!--property name="Class" value="CompositeTileEntity"/-->
 			<property class="CompositeFeatures">
 				<property class="TEFeatureStorage">
 					<property name="LootList" value="playerSteelWritableStorage"/>
@@ -25,6 +25,7 @@
 					<property name="FontSize" value="90"/>
 					<property name="LineCount" value="3"/>
 					<property name="LineWidth" value="0.55"/>
+					<property name="LineSpacing" value="1" />
 				</property>
 			</property>
 
