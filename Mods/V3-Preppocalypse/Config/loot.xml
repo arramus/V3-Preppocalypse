@@ -250,7 +250,7 @@
 		<item group="groupRareToolsTiered"/>
 		<item group="vehicleModSchematics" count="1"/>
 		<item group="groupPrepperPlannerBooks"/>
-		<item name="qt_prepperdanny"/>	
+		<item name="qt_prepperdanny" loot_prob_template="high"/>
 	</lootgroup>
 	</insertBefore>
 	
