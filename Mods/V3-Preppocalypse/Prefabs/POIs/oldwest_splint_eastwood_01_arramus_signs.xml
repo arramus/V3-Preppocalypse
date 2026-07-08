@@ -23,7 +23,7 @@
     <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.01786155, 0.001968042" color="#9E8181FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.8933903" />
     <layer name="Text 01" type="TextSignLayer" pos="-0.5510618, 0.303433" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Name: Jean" direction="0" spacing="1" softness="0" dilate="0.1" />
     <layer name="Text 02" type="TextSignLayer" pos="-0.7393994, 0.1150953" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Scurvy" direction="0" spacing="1" softness="0" dilate="0.1" />
-    <layer name="Text 03" type="TextSignLayer" pos="-0.2301904, -0.06277892" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="(Sings seas shanties)" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 03" type="TextSignLayer" pos="-0.2301904, -0.06277892" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="(Sings sea shanties)" direction="0" spacing="1" softness="0" dilate="0.1" />
   </sign>
   <sign guid="f4b55557-db1d-4b1a-ac11-d5d1ddb04822" name="New Sign (1)" modified="2026-07-09 02:08:37Z" next_poly_id="1" next_text_id="3" next_noise_id="1" next_group_id="0">
     <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.081513, 1.081513" color="#362F2FFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
