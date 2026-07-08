@@ -71,7 +71,7 @@
 	<!-- Adding Double Trouble Pistol to toilet and adding Quality Tier from 1 - 5 based on V1 parameters -->
 	<set xpath="/lootcontainers/lootcontainer[@name='toilet']/@loot_quality_template">qualBaseTemplate</set> <!-- Toilet, all tiered items were QL 1 -->
 	<append xpath="/lootcontainers/lootgroup[@name='groupToilet01']">
-	<item name="gun22HandgunT0Pistol" count="1" loot_prob_template="veryLow"/>
+	<item name="gun22HandgunT0Pistol" count="1" loot_prob_template="lower"/>
 	</append>
 	
 	<append xpath="/lootcontainers/lootgroup[@name='perkBooks']">
@@ -187,13 +187,13 @@
 	
 	<!-- Adding the Clothing Skill Magazine to the clothing groups at med to medLow template for dimininshing returns but overlap  -->
 	<append xpath="/lootcontainers/lootgroup[@name='groupT1Clothing']">
-	<item name="clothingSkillMagazine" count="1" loot_prob_template="med"/>
+	<item name="clothingSkillMagazine" count="1,2" loot_prob_template="med"/>
 	</append>
 	<append xpath="/lootcontainers/lootgroup[@name='groupT2Clothing']">
-	<item name="clothingSkillMagazine" count="1" loot_prob_template="medLow"/>
+	<item name="clothingSkillMagazine" count="1,2" loot_prob_template="medLow"/>
 	</append>
 	<append xpath="/lootcontainers/lootgroup[@name='groupT3Clothing']">
-	<item name="clothingSkillMagazine" count="1" loot_prob_template="medLow"/>
+	<item name="clothingSkillMagazine" count="1,2" loot_prob_template="medLow"/>
 	</append>
 	
 	<insertAfter xpath="/lootcontainers/lootgroup[@name='groupQuestBicycle']">
@@ -250,6 +250,7 @@
 		<item group="groupRareToolsTiered"/>
 		<item group="vehicleModSchematics" count="1"/>
 		<item group="groupPrepperPlannerBooks"/>
+		<item group="vehiclePartsTiered" loot_prob_template="high"/>
 		<item name="qt_prepperdanny" loot_prob_template="high"/>
 	</lootgroup>
 	</insertBefore>

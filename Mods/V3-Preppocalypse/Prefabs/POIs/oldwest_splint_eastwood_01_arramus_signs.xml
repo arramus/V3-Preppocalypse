@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="21cd5dbc-95aa-4b07-a7e1-2af758ce7a53" name="New Sign" modified="2026-07-09 01:39:48Z" next_poly_id="0" next_text_id="1" next_noise_id="1" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#665A5AFF" mode="ColorOnly" font="Stardos Stencil" text="EASTWOOD" direction="0" spacing="1.1" softness="0" dilate="0.2613364" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#898484FF" mode="ColorOnly" font="Stardos Stencil" text="EASTWOOD" direction="0" spacing="1.1" softness="0" dilate="0.1013364" />
+  </sign>
+  <sign guid="7542c181-47f3-4093-9784-1ddbe0497943" name="New Sign" modified="2026-07-09 01:40:34Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.4760022, 0.4760022" color="#665A5AFF" mode="ColorOnly" font="Stardos Stencil" text="RURAL" direction="0" spacing="1.15" softness="0" dilate="0.26" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.4760022, 0.4760022" color="#898484FF" mode="ColorOnly" font="Stardos Stencil" text="RURAL" direction="0" spacing="1.15" softness="0" dilate="0.1" />
+  </sign>
+  <sign guid="e4caf3fc-163f-4172-af8e-fb329adbd5c0" name="New Sign" modified="2026-07-09 01:41:07Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#665A5AFF" mode="ColorOnly" font="Stardos Stencil" text="HOSPITAL" direction="0" spacing="1.14" softness="0" dilate="0.26" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#898484FF" mode="ColorOnly" font="Stardos Stencil" text="HOSPITAL" direction="0" spacing="1.14" softness="0" dilate="0.1" />
+  </sign>
+  <sign guid="202dd1c9-89ec-49a0-bd09-ecb93b8507a4" name="New Sign" modified="2026-07-09 01:38:11Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="AMBULANCE" direction="0" spacing="1" softness="0" dilate="0.06" />
+  </sign>
+  <sign guid="ad2e8427-ac98-4eee-8f3b-6941ce951302" name="New Sign" modified="2026-07-09 01:38:23Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="STATION" direction="0" spacing="1" softness="0" dilate="0.06" />
+  </sign>
+  <sign guid="dc1c71e5-698d-40b6-ab71-92da94353c89" name="New Sign" modified="2026-07-09 02:27:03Z" next_poly_id="1" next_text_id="3" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.081513, 1.081513" color="#362F2FFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.01786155, 0.001968042" color="#9E8181FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.8933903" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.5510618, 0.303433" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Name: Jean" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.7393994, 0.1150953" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Scurvy" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 03" type="TextSignLayer" pos="-0.2301904, -0.06277892" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="(Sings seas shanties)" direction="0" spacing="1" softness="0" dilate="0.1" />
+  </sign>
+  <sign guid="f4b55557-db1d-4b1a-ac11-d5d1ddb04822" name="New Sign (1)" modified="2026-07-09 02:08:37Z" next_poly_id="1" next_text_id="3" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.081513, 1.081513" color="#362F2FFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.01786155, 0.001968042" color="#9E8181FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.8933903" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.4115525, 0.2859943" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Name: Spartan" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.352261, 0.09416889" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Broken both legs" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 03" type="TextSignLayer" pos="-0.380163, -0.09068101" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="(Repeat patient)" direction="0" spacing="1" softness="0" dilate="0.1" />
+  </sign>
+  <sign guid="b4cc3b1f-c322-4bbc-9cc4-18b6a68a0cf5" name="New Sign (2)" modified="2026-07-09 01:57:01Z" next_poly_id="1" next_text_id="3" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="-0.01395071, -0.06975466" rot="0" scale="1.081513, 1.081513" color="#362F2FFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.01786155, 0.001968042" color="#9E8181FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.8933903" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.1918252, 0.2685556" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Name: Donkey Ponch" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.2232148, 0.08719346" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Abandoned on island" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 03" type="TextSignLayer" pos="-0.537111, -0.09416875" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="(by Spartan)" direction="0" spacing="1" softness="0" dilate="0.1" />
+  </sign>
+  <sign guid="6ca9c4c6-67cb-4e2a-bc6e-d9920a993dad" name="New Sign (3)" modified="2026-07-09 02:01:30Z" next_poly_id="1" next_text_id="3" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="-0.01395071, -0.06975466" rot="0" scale="1.081513, 1.081513" color="#362F2FFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.01786155, 0.001968042" color="#9E8181FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.8933903" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.509209, 0.2546047" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Name: Tabby" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.1325339, 0.080218" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Cat scratch fever victim" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 03" type="TextSignLayer" pos="-0.2755311, -0.1116074" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="(Purrs in her sleep)" direction="0" spacing="1" softness="0" dilate="0.1" />
+  </sign>
+  <sign guid="bc2a7e50-bd2e-4ad9-ac92-88f523a8646b" name="New Sign (4)" modified="2026-07-09 02:07:20Z" next_poly_id="1" next_text_id="3" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="-0.01395071, -0.06975466" rot="0" scale="1.081513, 1.081513" color="#362F2FFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.01786155, 0.001968042" color="#9E8181FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.8933903" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.4778194, 0.2546047" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Name: Softest" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.3836507, 0.08021801" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Severe insomnia" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 03" type="TextSignLayer" pos="-0.3383104, -0.1081197" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="(Coffee addiction)" direction="0" spacing="1" softness="0" dilate="0.1" />
+  </sign>
+  <sign guid="b7182a29-29ed-45bb-a21d-813160b118b3" name="New Sign (5)" modified="2026-07-09 02:10:50Z" next_poly_id="1" next_text_id="3" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="-0.01395071, -0.06975466" rot="0" scale="1.081513, 1.081513" color="#362F2FFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.01786155, 0.001968042" color="#9E8181FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.8933903" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.4778194, 0.2546047" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Name: Venom" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.3836507, 0.08021801" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Snakebite victim" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 03" type="TextSignLayer" pos="-0.1569482, -0.09416877" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="(Pet snake altercation)" direction="0" spacing="1" softness="0" dilate="0.1" />
+  </sign>
+  <sign guid="5a3c8451-5ff7-4f8c-9917-0b5381a58f60" name="New Sign (6)" modified="2026-07-09 02:14:17Z" next_poly_id="1" next_text_id="3" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="-0.01395071, -0.06975466" rot="0" scale="1.081513, 1.081513" color="#362F2FFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.01786155, 0.001968042" color="#9E8181FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.8933903" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.4150402, 0.251117" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Name: Rattdogg" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.2127517, 0.08370574" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Bat &amp; scorpion victim" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 03" type="TextSignLayer" pos="-0.1360218, -0.08370557" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="(Frothing at the mouth)" direction="0" spacing="1" softness="0" dilate="0.1" />
+  </sign>
+  <sign guid="ef8212c9-1927-4496-b859-05de01a850c7" name="New Sign (7)" modified="2026-07-09 02:21:00Z" next_poly_id="1" next_text_id="3" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="-0.01395071, -0.06975466" rot="0" scale="1.081513, 1.081513" color="#362F2FFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.01786155, 0.001968042" color="#9E8181FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.8933903" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.2057761, 0.2546047" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Name: Bearded Horde" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.4289913, 0.07673027" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Tossed by a dog" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 03" type="TextSignLayer" pos="-0.05929166, -0.1011442" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="(Hides jerky under pillow)" direction="0" spacing="1" softness="0" dilate="0.1" />
+  </sign>
+  <sign guid="5f98f9af-b3c0-49ac-8191-fd37585bd9a3" name="New Sign (8)" modified="2026-07-09 02:23:03Z" next_poly_id="1" next_text_id="3" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="-0.01395071, -0.06975466" rot="0" scale="1.081513, 1.081513" color="#362F2FFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.01786155, 0.001968042" color="#9E8181FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.8933903" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.09068093, 0.2546047" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Name: Hourglass Enigma" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.5929146, 0.06277934" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Narcolepsy" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 03" type="TextSignLayer" pos="-0.1360218, -0.1185829" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="(Recurring nightmares)" direction="0" spacing="1" softness="0" dilate="0.1" />
+  </sign>
+  <sign guid="10f28b3a-d687-4929-b9c7-3f763eaa32e7" name="New Sign (9)" modified="2026-07-09 02:26:10Z" next_poly_id="1" next_text_id="3" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="-0.01395071, -0.06975466" rot="0" scale="1.081513, 1.081513" color="#362F2FFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.01786155, 0.001968042" color="#9E8181FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.8933903" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.5126963, 0.2301905" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Name: Shade" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.2999449, 0.06626707" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="Severely concussed" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 03" type="TextSignLayer" pos="-0.3208717, -0.1116074" rot="0" scale="0.162108, 0.162108" color="#FFFFFF72" mode="ColorOnly" font="Stardos Stencil" text="(Horseshoe strike)" direction="0" spacing="1" softness="0" dilate="0.1" />
+  </sign>
+</signs>
