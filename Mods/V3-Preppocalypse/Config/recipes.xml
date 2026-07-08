@@ -464,6 +464,17 @@
 		</effect_group>
 	</recipe>
 	
+	<recipe name="foodRadPastryBake" count="1" craft_time="60" craft_area="campfire" craft_tool="toolCookingPot" tags="learnable,perkMasterChef">
+		<ingredient name="foodWheatFlour" count="1"/>
+		<ingredient name="foodWildRice" count="30"/>
+		<ingredient name="foodCropMushroomsRadiated" count="8"/>
+		<ingredient name="foodRottingFlesh" count="15"/>
+		<ingredient name="foodHoneyComb" count="5"/>
+		<effect_group>
+			<passive_effect name="CraftingIngredientCount" level="1,3" operation="base_add" value="-1,-2" tags="foodRottingFlesh"/>
+		</effect_group>
+	</recipe>
+	
 	<recipe name="foodGrilledYuccaFruit" count="1" craft_area="campfire" craft_tool="toolCookingGrill" tags="perkMasterChef,learnable">
 		<ingredient name="foodCropYuccaFruit" count="5"/>
 		<effect_group>

@@ -85,7 +85,7 @@ foodT3-3,progression,Attribute,,,,Tier 3: Fish Tacos & Crawfish Boil,,Stufe 3: F
 foodT3-4,progression,Attribute,,,,Tier 3: Chili Dog & Fruit Pie Trio,,Stufe 3: Chili-Hotdog und Fruchtkuchen-Trio,,,,,,,,,,,
 foodT3-5,progression,Attribute,,,,"Tier 3: Sham Chowder, Honey Glazed Sham, Fish Pie & Super Fluffy Omelette",,"Stufe 3: Sham-Suppe, Honigglasierter Sham, Fischpastete und Super Fluffiges Omelett",,,,,,,,,,,
 foodT4-3,progression,Attribute,,,,"Tier 4: Grandpa's Learning Elixir, Honey Brisket & Spicy Wild Rice Meatballs",,"Stufe 4: Großvaters Lernelexir, Honig-Rinderbrust und Würzige Wildreis-Frikadellen",,,,,,,,,,,
-foodT4-4,progression,Attribute,,,,Tier 4: Spaghetti & Fish Pie Mountain,,Stufe 4: Spaghetti und Fischkuchenberg,,,,,,,,,,,
+foodT4-4,progression,Attribute,,,,"Tier 4: Spaghetti, Rad Pastry Bake & Fish Pie Mountain",,"Stufe 4: Spaghetti, Radikales Gebäck-Backen und Fischkuchenberg",,,,,,,,,,,
 foodT4-5,progression,Attribute,,,,Tier 4: Gumbo Stew & Super Corn Supper,,Stufe 4: Gumbo-Eintopf und Super Mais Abendessen,,,,,,,,,,,
 
 seedsT1-1,progression,Attribute,,,,Tier 1: Cotton & Prickly Cactus,,Stufe 1: Baumwolle und Stacheliger Kaktus,,,,,,,,,,,
@@ -410,6 +410,8 @@ foodSuperCornFluffyOmelette,items,Food,,,,Super Fluffy Omelette,,Super Fluffiges
 foodSuperCornFluffyOmeletteDesc,items,Food,,,,"Super Fluffy Omelette puts those eggs, and other special ingredients, to good use as a sweet dessert. Mix up the eggs with your auger until full of air and fluffy. Gently fold in other ingredients and bake in your cooking pot.",,"Dieses Super Fluffiges Omelett nutzt Eier und andere besondere Zutaten optimal für ein süßes Dessert. Schlagen Sie die Eier mit einem Erdbohrer, bis sie schön luftig sind. Heben Sie die restlichen Zutaten vorsichtig unter und backen Sie das Omelett im Topf.",,,,,,,,,,,
 foodSpicyWildRiceMeatballs,items,Food,,,,Spicy Wild Rice Meatballs,,Würzige Wildreis-Frikadellen,,,,,,,,,,,
 foodSpicyWildRiceMeatballsDesc,items,Food,,,,"Spicy Wild Rice Meatballs provides a high end recipe for that growing stash of wild rice. Served with mashed potato.",,"Würzige Wildreis-Fleischbällchen sind ein erstklassiges Rezept für Ihren wachsenden Wildreisvorrat. Serviert mit Kartoffelpüree.",,,,,,,,,,,
+foodRadPastryBake,items,Food,,,,Rad Pastry Bake,,Radikales Gebäck-Backen,,,,,,,,,,,
+foodRadPastryBakeDesc,items,Food,,,,"Rad Pastry Bake radiates you from the inside out.",,"Radikales Gebäck-Backen lässt dich von innen heraus strahlen.",,,,,,,,,,,
 foodGrilledYuccaFruit,items,Food,,,,Grilled Yucca Fruit,,Gegrillte Yucca-Früchte,,,,,,,,,,,
 foodGrilledYuccaFruitDesc,items,Food,,,,"Grilled Yucca Fruit is sweet and tasty.",,"Gegrillte Yucca-Früchte sind süß und lecker.",,,,,,,,,,,
 foodYuccaFruitPie,items,Food,,,,Yucca Fruit Pie,,Yucca-Obstkuchen,,,,,,,,,,,

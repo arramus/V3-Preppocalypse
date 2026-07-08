@@ -21,24 +21,22 @@
 			<decoration type="block" blockname="plantedPotato3Harvest" prob="0.04" rotatemax="7"/>
 			<decoration type="block" blockname="plantedHop3Harvest" prob="0.04" rotatemax="7"/>
 			<decoration type="block" blockname="plantedPumpkin3Harvest" prob="0.04" rotatemax="7"/>
-			<decoration type="block" blockname="plantedMushroom3Harvest" prob="0.04" rotatemax="7"/>
-			<decoration type="block" blockname="modularFireWoodStackC" onslopes="false" prob=".00006" rotatemax="7"/>	
+			<decoration type="block" blockname="plantedMushroom3Harvest" prob="0.04" rotatemax="7"/>	
 	</append>
 	<!-- *** Pine Forest: Decorations Main -->
 	<append xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations">
-			<decoration type="prefab" name="deco_forestsmallcamp_01" onslopes="false" prob=".0004" rotatemax="3"/>
-			<decoration type="prefab" name="deco_forestsmallcamp_02" onslopes="false" prob=".0004" rotatemax="3"/>
-			<decoration type="prefab" name="deco_preppo_grave_01" onslopes="false" prob=".0003" rotatemax="3"/>
-			<decoration type="prefab" name="deco_preppo_grave_02" onslopes="false" prob=".0003" rotatemax="3"/>
-			<decoration type="prefab" name="deco_prepperstump_01" onslopes="false" prob=".0003" rotatemax="3"/>
+			<decoration type="prefab" name="deco_forestsmallcamp_01" onslopes="false" prob=".0005" rotatemax="3"/>
+			<decoration type="prefab" name="deco_forestsmallcamp_02" onslopes="false" prob=".0005" rotatemax="3"/>
+			<decoration type="prefab" name="deco_preppo_grave_01" onslopes="false" prob=".00035" rotatemax="3"/>
+			<decoration type="prefab" name="deco_preppo_grave_02" onslopes="false" prob=".00035" rotatemax="3"/>
+			<decoration type="prefab" name="deco_prepperstump_01" onslopes="false" prob=".00035" rotatemax="3"/>
 			<decoration type="prefab" name="deco_preppocomm_01" onslopes="false" prob=".0004" rotatemax="3"/>
 			<decoration type="prefab" name="deco_preppocomm_02" onslopes="false" prob=".0004" rotatemax="3"/>
-			<decoration type="block" blockname="modularFireWoodStackC" onslopes="false" prob=".00003" rotatemax="7"/>
 	</append>
 	
 	<!-- *** Burnt Forest: Sub Biome: Mushrooms, Thick Grass, and Shrubs -->
 	<append xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@noise='.033, 0, .3']/decorations">
-			<decoration type="block" blockname="plantedCoffee3Harvest" prob=".00125" rotatemax="7"/>
+			<decoration type="block" blockname="plantedCoffee3Harvest" prob=".00175" rotatemax="7"/>
 	</append>
 
 	<!-- *** Desert: Sub Biome: Ring of Smaller Clustered Cactus and Desert Shrub -->
@@ -76,11 +74,11 @@
 	
 	<!-- Decorations Main: Snow -->	
 	<append xpath="/worldgeneration/biomes/biome[@name='snow']/decorations">
-			<decoration type="prefab" name="deco_snowprepper8x8_01" onslopes="false" prob=".0025" rotatemax="3"/>
-			<decoration type="prefab" name="deco_snowprepper8x8_02" onslopes="false" prob=".0025" rotatemax="3"/>
-			<decoration type="prefab" name="deco_preppo_snowfishing_01"  onslopes="false" prob=".0025" rotatemax="3"/>
-			<decoration type="prefab" name="deco_preppocomm_01" onslopes="false" prob=".0025" rotatemax="3"/>
-			<decoration type="prefab" name="deco_preppocomm_02" onslopes="false" prob=".0025" rotatemax="3"/>
+			<decoration type="prefab" name="deco_snowprepper8x8_01" onslopes="false" prob=".002" rotatemax="3"/>
+			<decoration type="prefab" name="deco_snowprepper8x8_02" onslopes="false" prob=".002" rotatemax="3"/>
+			<decoration type="prefab" name="deco_preppo_snowfishing_01"  onslopes="false" prob=".002" rotatemax="3"/>
+			<decoration type="prefab" name="deco_preppocomm_01" onslopes="false" prob=".002" rotatemax="3"/>
+			<decoration type="prefab" name="deco_preppocomm_02" onslopes="false" prob=".002" rotatemax="3"/>
 	</append>
 
 	<!-- Thickening the Wasteland tree density -->
@@ -116,7 +114,7 @@
 	<!-- ***** Street Parameters -->
 	<append xpath="/worldgeneration/pois/poi[@name='City Asphalt']">
 		<blockontop blockname="plantedCottonHarvestRandomHelper" prob="0.0025"/>
-		<blockontop blockname="plantedtreeGrassSeedRandomHelper" prob="0.003"/>
+		<blockontop blockname="plantedtreeGrassSeedRandomHelper" prob="0.0035"/>
 		<blockontop blockname="decoWildWestWagon" prob="0.00005" rotatemax="7"/>
 		<blockontop blockname="hubcapNoMine" onslopes="false" prob="0.005"/>
 		<blockontop blockname="cntLuggageMediumRandomLootHelper" prob="0.0001" rotatemax="7"/>		
@@ -132,7 +130,7 @@
 	</append>
 	<append xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']">
 		<blockontop blockname="plantedCottonHarvestRandomHelper" prob="0.005" rotatemax="7"/>
-		<blockontop blockname="plantedtreeGrassSeedRandomHelper" prob="0.0075" rotatemax="7"/>
+		<blockontop blockname="plantedtreeGrassSeedRandomHelper" prob="0.008" rotatemax="7"/>
 		<blockontop blockname="decoWildWestWagon" prob="0.00005" rotatemax="7"/>
 		<blockontop blockname="hubcapNoMine" onslopes="false" prob="0.0035"/>
 		<blockontop blockname="cntLuggageMediumRandomLootHelper" prob="0.0001" rotatemax="7"/>		
@@ -148,7 +146,7 @@
 	</append>
 	<append xpath="/worldgeneration/pois/poi[@name='Road Gravel']">
 		<blockontop blockname="plantedCottonHarvestRandomHelper" prob="0.0075" rotatemax="7"/>
-		<blockontop blockname="plantedtreeGrassSeedRandomHelper" prob="0.01" rotatemax="7"/>
+		<blockontop blockname="plantedtreeGrassSeedRandomHelper" prob="0.0125" rotatemax="7"/>
 		<blockontop blockname="decoWildWestWagon" prob="0.0005" rotatemax="7"/>
 		<blockontop blockname="hubcapNoMine" onslopes="false" prob="0.0025"/>
 		<blockontop blockname="cntLuggageMediumRandomLootHelper" prob="0.0001" rotatemax="7"/>		
