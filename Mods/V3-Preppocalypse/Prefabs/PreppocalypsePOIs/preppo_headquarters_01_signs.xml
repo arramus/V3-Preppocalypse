@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="c547a75a-5221-4561-ab88-b373e2a25e84" name="New Sign" modified="2026-07-12 02:44:38Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.285, 0.285" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="WELL - BEING" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="d63b3117-f0ff-4034-8339-f56cd5d4fa9b" name="New Sign" modified="2026-07-12 02:44:57Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.4760022, 0.4760022" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="CLINIC" direction="0" spacing="1.1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="aa7d60dc-d027-4395-a26e-b097f9228f0a" name="New Sign" modified="2026-07-12 02:45:54Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.305, 0.305" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="UNIVERSAL" direction="0" spacing="1.1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="c414b71b-aea9-4da4-b3e2-c20e508b11aa" name="New Sign" modified="2026-07-12 02:03:40Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3877067, 0.3877067" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="NAVCARE" direction="0" spacing="1.05" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3877067, 0.3877067" color="#416AAFFF" mode="ColorOnly" font="LiberationSans" text="NAVCARE" direction="0" spacing="1.05" softness="0" dilate="2.980232E-09" />
+  </sign>
+  <sign guid="e2df4045-133c-4dff-ac93-559fbfc4ddd4" name="New Sign" modified="2026-07-12 02:00:34Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.33241, 0.33241" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="BIO - TECH" direction="0" spacing="1.06" softness="0" dilate="0" />
+  </sign>
+  <sign guid="8b3dc323-2a6d-47e2-a63e-30a907ce1260" name="New Sign" modified="2026-07-12 01:45:34Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.2572125, 0.2572125" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="CORPORATION" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="29f6d4cf-883a-464b-a7a3-d4e2d56787cb" name="New Sign" modified="2026-07-12 01:51:44Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="2.722745, 2.722745" color="#195527FF" mode="ColorOnly" font="LiberationSans" text="P" direction="0" spacing="1" softness="0" dilate="0.2" />
+  </sign>
+  <sign guid="33a91115-4a68-4e38-979d-eae5f2bbe0cb" name="New Sign" modified="2026-07-12 01:53:47Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="2.722745, 2.722745" color="#DDC23FFF" mode="ColorOnly" font="LiberationSans" text="R" direction="0" spacing="1" softness="0" dilate="0.2" />
+  </sign>
+  <sign guid="40eb54bd-1a7f-4bc6-b4b0-cdaee73d3807" name="New Sign" modified="2026-07-12 01:54:06Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="2.722745, 2.722745" color="#DDC23FFF" mode="ColorOnly" font="LiberationSans" text="E" direction="0" spacing="1" softness="0" dilate="0.2" />
+  </sign>
+  <sign guid="30da2420-6840-4301-a109-4d8997e7153d" name="New Sign" modified="2026-07-12 01:54:45Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="2.722745, 2.722745" color="#BA700DFF" mode="ColorOnly" font="LiberationSans" text="P" direction="0" spacing="1" softness="0" dilate="0.2" />
+  </sign>
+  <sign guid="add9e914-b4bd-4b70-8df3-2edd12b0099a" name="New Sign" modified="2026-07-12 01:55:09Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="2.722745, 2.722745" color="#BA700DFF" mode="ColorOnly" font="LiberationSans" text="P" direction="0" spacing="1" softness="0" dilate="0.2" />
+  </sign>
+  <sign guid="02c7e574-ef6f-4271-b1d0-5172bde85661" name="New Sign" modified="2026-07-12 01:58:23Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="2.722745, 2.722745" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="🛇🛇" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="8c031310-cd27-439c-9708-f8b8b43eb67c" name="New Sign" modified="2026-07-12 02:06:58Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.6475412, 0.6475412" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="CARE" direction="0" spacing="1.07" softness="0" dilate="0.2" />
+  </sign>
+</signs>
