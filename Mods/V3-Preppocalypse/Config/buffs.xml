@@ -258,6 +258,20 @@
 			</effect_group>
 		</buff>
 		
+		<buff name="animalBossZombieGraceWastelandRocketPREPPERDeco" hidden="true">
+			<effect_group>
+				<triggered_effect trigger="onSelfBuffStart" action="AttachPrefabToEntity" prefab="@:Entities/Electrical/motion_sensorPrefab.prefab" local_offset="0,-.0275,0.25" local_rotation="0,0,0" local_scale=".65,.65,.65" parent_transform="Head"/>			
+				<triggered_effect trigger="onSelfBuffStart" action="AttachPrefabToEntity" prefab="@:Other/Items/Weapons/Ranged/RocketLauncher/rocketlauncherPrefab.prefab" local_offset="0,0,0.275" local_rotation="-15,-180,180" local_scale=".35,.35,.35" parent_transform="Head"/>
+			</effect_group>
+		</buff>
+		
+		<buff name="animalBossZombieGraceWastelandScorcherPREPPERDeco" hidden="true">
+			<effect_group>
+				<triggered_effect trigger="onSelfBuffStart" action="AttachPrefabToEntity" prefab="@:Entities/Electrical/motion_sensorPrefab.prefab" local_offset="0,-.0275,0.25" local_rotation="0,0,0" local_scale=".65,.65,.65" parent_transform="Head"/>			
+				<triggered_effect trigger="onSelfBuffStart" action="AttachParticleEffectToEntity" particle="p_twitch_zombie_fire_left" local_offset="0,-.0275,0.25" local_rotation="0,0,90" parent_transform="Head"/>
+			</effect_group>
+		</buff>
+		
 		<buff name="animalPaindeerPREPPERDeco" hidden="true">
 			<effect_group>
 				<triggered_effect trigger="onSelfBuffStart" action="AttachPrefabToEntity" prefab="@:Other/Items/Weapons/Melee/Axe/steelAxePrefab.prefab" local_offset="0,0.2,0.27" local_rotation="50,0,0" local_scale=".5,.5,.5" parent_transform="Head"/>

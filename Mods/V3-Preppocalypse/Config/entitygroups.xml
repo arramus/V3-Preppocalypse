@@ -545,6 +545,8 @@
 		<e n="zombieSkateboarderUndertakerClaret" p="0.03" />
 		<e n="zombieRocketWastelandPREPPER" p="0.03" />
 		<e n="zombieScorcherWastelandPREPPER" p="0.03" />
+		<e n="animalBossZombieGraceWastelandRocketPREPPER" p="0.03" />
+		<e n="animalBossZombieGraceWastelandScorcherPREPPER" p="0.03" />
 		<e n="zombieBogeymanMilitaryPREPPER" p="0.03" />
 		<e n="zombieChuckMilitaryPREPPER" p="0.03" />
 		<e n="zombieSpiderBomberMilitaryPREPPER" p="0.03" />
