@@ -648,7 +648,7 @@
 		<item group="twitch_preppoammoall" />		
 	</lootgroup>
 	
-	<lootcontainer name="twitch_preppoammo" count="1" size="6,2" destroy_on_close="true" sound_open="SupplyDrops/open_supply_crate" sound_close="SupplyDrops/close_supply_crate"  open_time="0.25" loot_quality_template="qualBaseTemplate" ignore_loot_abundance="true" unmodified_lootstage="true">
+	<lootcontainer name="twitch_preppoammo" count="1" size="6,2" destroy_on_close="true" sound_open="SupplyDrops/open_supply_crate" sound_close="SupplyDrops/close_supply_crate" open_time="0.25" loot_quality_template="qualBaseTemplate" ignore_loot_abundance="true" unmodified_lootstage="true">
 		<item group="twitch_preppoammo" />
 	</lootcontainer>
 

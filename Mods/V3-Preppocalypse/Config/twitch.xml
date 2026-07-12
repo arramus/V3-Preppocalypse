@@ -101,14 +101,13 @@
 
 	<!-- Preppo Ammo -->
 	
-	<action name="twitch_PreppoAmmoCrate" extends="twitch_spawnWeapon1">
+	<action name="twitch_PreppoAmmoCrate" extends="twitch_AmmoCrate0">
 		<property name="command" value="#supply_preppoammo" />
 		<property name="command_key" value="TwitchAction_SupplyPreppoAmmoCommand" />
 		<property name="title_key" value="TwitchAction_SupplyPreppoAmmo" />
 		<property name="description_key" value="TwitchAction_SupplyPreppoAmmoDesc" />
-		<property name="event_name" value="spawn_preppoammo" />
-		<property name="special_requirement" value="None" />
 		<property name="start_gamestage" value="10" />
+		<property name="event_name" value="spawn_preppoammo" />
 		<property name="default_cost" value="333" />
 		<property name="cooldown" value="600" />
 		<property name="presets" value="casual,standard,hardcore" />
