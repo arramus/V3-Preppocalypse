@@ -577,6 +577,22 @@
 		<ingredient name="drinkJarBoiledWater" count="1"/>
 	</recipe>
 	
+	<recipe name="drugPainkillers" count="1" craft_area="campfire" craft_tool="toolBeaker">
+		<ingredient name="foodCropMushroomsRadiated" count="10"/>
+		<ingredient name="resourceCropAloeLeaf" count="6"/>
+		<ingredient name="resourceCropGoldenrodPlant" count="3"/>
+		<ingredient name="resourceBone" count="4"/>
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+	</recipe>
+	
+	<recipe name="drugPainkillers" count="1" craft_area="chemistryStation" craft_tool="toolBeaker" tags="chemStationCrafting">
+		<ingredient name="foodCropMushroomsRadiated" count="5"/>
+		<ingredient name="resourceCropAloeLeaf" count="3"/>
+		<ingredient name="resourceCropGoldenrodPlant" count="3"/>
+		<ingredient name="resourceBone" count="4"/>
+		<ingredient name="drinkJarBoiledWater" count="1"/>		
+	</recipe>
+	
 	<recipe name="foodCanStock" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable">
 		<ingredient name="drinkJarBoneBroth" count="1"/>
 		<ingredient name="foodCropPotato" count="2"/>
@@ -791,7 +807,7 @@
 	
 	<!-- Oakraven Rock Drill -->
 	
-	<recipe name="DrillGasCan" count="1" craft_time="30" craft_area="chemistryStation" tags="chemStationCrafting">
+	<recipe name="DrillGasCan" count="1" craft_time="15" craft_area="chemistryStation" tags="chemStationCrafting">
 		<ingredient name="resourceOilShale" count="100"/>
 	</recipe>
 
