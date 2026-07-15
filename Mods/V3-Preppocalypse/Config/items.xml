@@ -262,7 +262,10 @@
 	<set xpath="/items/item[@name='toolApiarySmoker']/property[@name='Stacknumber']/@value">25</set><!-- 1 default -->
 	<set xpath="/items/item[@name='resourceLockPick']/property[@name='Stacknumber']/@value">250</set><!-- 50 default -->
 	<set xpath="/items/item[@name='resourceLockPickBundle']/property[@name='Stacknumber']/@value">25</set><!-- 5 default -->
-	
+
+	<!-- Adding Painkillers to the Medical group for Chemistry Table and Campfire -->
+	<append xpath="/items/item[@name='drugPainkillers']/property[@name='Group']/@value">,CFMedical,Medical</append>
+
 	<!-- Adding Prepper Planning Schematic Perk Book Unlock to Stock -->
 	<append xpath="/items/item[@name='foodCanStock']">
 	<property name="UnlockedBy" value="perkPrepperPlanner2Stock"/>
