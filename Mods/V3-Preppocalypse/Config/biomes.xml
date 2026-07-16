@@ -36,7 +36,7 @@
 	
 	<!-- *** Burnt Forest: Sub Biome: Mushrooms, Thick Grass, and Shrubs -->
 	<append xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@noise='.033, 0, .3']/decorations">
-			<decoration type="block" blockname="plantedCoffee3Harvest" prob=".002" rotatemax="7"/>
+			<decoration type="block" blockname="plantedCoffee3Harvest" prob=".0025" rotatemax="7"/>
 	</append>
 
 	<!-- *** Desert: Sub Biome: Ring of Smaller Clustered Cactus and Desert Shrub -->
