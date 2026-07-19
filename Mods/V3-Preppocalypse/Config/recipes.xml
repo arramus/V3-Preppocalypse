@@ -45,7 +45,19 @@
 	
 	<!-- Addition of Beaker -->
 	
-	<recipe name="toolBeaker" count="1" material_based="true" craft_area="forge" craft_tool="toolForgeCrucible" tags="perkAdvancedEngineering">
+	<recipe name="toolBeaker" count="1" material_based="true" craft_area="forge" is_trackable="false" craft_tool="toolForgeCrucible" tags="use_smelter,perkAdvancedEngineering">
+		<ingredient name="unit_glass" count="110"/>
+		<ingredient name="unit_stone" count="10"/>
+		<ingredient name="unit_lead" count="40"/>
+		<ingredient name="unit_iron" count="20"/>
+		<ingredient name="unit_clay" count="20"/>
+	<effect_group>
+		<passive_effect name="CraftingIngredientCount" operation="perc_add" level="0,1,2,3,4" value=".25,.25,.25,.12,.06" tags="unit_clay,unit_stone,unit_glass,unit_iron,unit_lead"/>
+	</effect_group>
+	</recipe>
+	
+<!-- ### FORGE_SANDBOX_OPTION_VERSION -->	
+	<recipe name="toolBeaker" count="1" craft_area="forge" is_trackable="false" craft_tool="toolForgeCrucible" tags="replace_smelter,perkAdvancedEngineering">
 		<ingredient name="unit_glass" count="110"/>
 		<ingredient name="unit_stone" count="10"/>
 		<ingredient name="unit_lead" count="40"/>
@@ -219,12 +231,19 @@
 	</recipe>
 	
 	<!-- Steel Nail for ammo variants -->
-	<recipe name="resourceSteelNail" count="1" material_based="true" craft_area="forge" tags="perkAdvancedEngineering">
+	<recipe name="resourceSteelNail" count="1" material_based="true" craft_area="forge" is_trackable="false" tags="use_smelter,perkAdvancedEngineering">
 		<ingredient name="unit_iron" count="3"/>
 		<ingredient name="unit_clay" count="1"/>
 		<ingredient name="unit_glass" count="1"/>
 	</recipe>
-	
+
+<!-- ### FORGE_SANDBOX_OPTION_VERSION -->
+	<recipe name="resourceSteelNail" count="1" craft_area="forge" is_trackable="false" tags="replace_smelter,perkAdvancedEngineering">
+		<ingredient name="unit_iron" count="3"/>
+		<ingredient name="unit_clay" count="1"/>
+		<ingredient name="unit_glass" count="1"/>
+	</recipe>
+
 	<recipe name="resourceSteelNailFlaming" count="1" craft_time="5" craft_area="workbench" tags="learnable,workbenchCrafting">
 		<ingredient name="resourceSteelNail" count="1"/>
 		<ingredient name="resourceScrapPolymers" count="1"/>
@@ -727,7 +746,13 @@
 		<ingredient name="resourceYuccaFibers" count="8"/>
 	</recipe>
 	
-	<recipe name="resourceHook" count="1" material_based="true" craft_area="forge">
+	<recipe name="resourceHook" count="1" material_based="true" craft_area="forge" is_trackable="false" tags="use_smelter,perkAdvancedEngineering">
+		<ingredient name="unit_iron" count="10"/>
+		<ingredient name="unit_clay" count="3"/>
+	</recipe>
+	
+	<!-- ### FORGE_SANDBOX_OPTION_VERSION -->	
+	<recipe name="resourceHook" count="1" craft_area="forge" is_trackable="false" tags="replace_smelter,perkAdvancedEngineering">
 		<ingredient name="unit_iron" count="10"/>
 		<ingredient name="unit_clay" count="3"/>
 	</recipe>
@@ -821,7 +846,19 @@
 	
 	<!-- Clear bullet proof glass -->
 	
-	<recipe name="glassClearBulletproofBlockVariantHelper" count="1" material_based="true" craft_area="forge" is_trackable="false" craft_tool="toolForgeCrucible" tags="perkAdvancedEngineering">
+	<recipe name="glassClearBulletproofBlockVariantHelper" count="1" material_based="true" craft_area="forge" is_trackable="false" craft_tool="toolForgeCrucible" tags="use_smelter,perkAdvancedEngineering">
+		<ingredient name="unit_glass" count="110"/>
+		<ingredient name="unit_stone" count="10"/>
+		<ingredient name="unit_lead" count="40"/>
+		<ingredient name="unit_iron" count="20"/>
+		<ingredient name="unit_clay" count="20"/>
+	<effect_group>
+		<passive_effect name="CraftingIngredientCount" operation="perc_add" level="0,1,2,3,4" value=".25,.25,.25,.12,.06" tags="unit_clay,unit_stone,unit_glass,unit_iron,unit_lead"/>
+	</effect_group>
+	</recipe>
+	
+<!-- ### FORGE_SANDBOX_OPTION_VERSION -->	
+	<recipe name="glassClearBulletproofBlockVariantHelper" count="1" craft_area="forge" is_trackable="false" craft_tool="toolForgeCrucible" tags="replace_smelter,perkAdvancedEngineering">
 		<ingredient name="unit_glass" count="110"/>
 		<ingredient name="unit_stone" count="10"/>
 		<ingredient name="unit_lead" count="40"/>
