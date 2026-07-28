@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="cd800034-1c09-4be5-8101-3f77e5aee1d2" name="New Sign" modified="2026-07-28 18:18:14Z" next_poly_id="0" next_text_id="1" next_noise_id="1" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.5551858, 0.5551859" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="CIVIC" direction="0" spacing="1.11" softness="0" dilate="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.06117203, 0.04058278" color="#9A9292FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.7725658" />
+  </sign>
+  <sign guid="87adc2c4-e249-4f01-9e6e-a2ffa0da952c" name="New Sign" modified="2026-07-28 18:16:43Z" next_poly_id="0" next_text_id="1" next_noise_id="1" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.6816224, 0.6816224" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="0233" direction="0" spacing="1.13" softness="0" dilate="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.06439161, 0.0449671" color="#9A9292FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.7441366" />
+  </sign>
+</signs>

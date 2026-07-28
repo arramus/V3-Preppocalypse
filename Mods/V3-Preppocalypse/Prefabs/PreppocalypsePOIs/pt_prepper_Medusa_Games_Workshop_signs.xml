@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="b0d753ab-163f-4826-9b6c-a28a47aec9ac" name="New Sign" modified="2026-07-28 14:24:07Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3877067, 0.3877067" color="#FFFFFFFF" mode="ColorOnly" font="Sedwick Ave Display" text="MEDUSA" direction="0" spacing="1.21" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3877067, 0.3877067" color="#C31313FF" mode="ColorOnly" font="Sedwick Ave Display" text="MEDUSA" direction="0" spacing="1.21" softness="0" dilate="0" />
+  </sign>
+  <sign guid="838beb94-b854-4d8d-86b4-c81e6f9d757e" name="New Sign" modified="2026-07-28 14:24:32Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.4522021, 0.4522021" color="#FFFFFFFF" mode="ColorOnly" font="Sedwick Ave Display" text="GAMES" direction="0" spacing="1.24" softness="0" dilate="0.2039803" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.4522021, 0.4522021" color="#C31313FF" mode="ColorOnly" font="Sedwick Ave Display" text="GAMES" direction="0" spacing="1.24" softness="0" dilate="0" />
+  </sign>
+  <sign guid="c1cb7106-fba6-48ef-b957-4d779e07ce48" name="New Sign (1)" modified="2026-07-28 15:39:25Z" next_poly_id="0" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.18" rot="0" scale="0.1796211, 0.1796211" color="#FFFFFFFF" mode="ColorOnly" font="Sedwick Ave Display" text="Madam Arcadia's" direction="0" spacing="1.24" softness="0" dilate="0.2039803" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.18" rot="0" scale="0.1796211, 0.1796211" color="#C31313FF" mode="ColorOnly" font="Sedwick Ave Display" text="Madam Arcadia's" direction="0" spacing="1.24" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.11" rot="0" scale="0.33241, 0.33241" color="#FFFFFFFF" mode="ColorOnly" font="Dancing Script" text="Boutique" direction="0" spacing="1.14" softness="0" dilate="0.4" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.11" rot="0" scale="0.33241, 0.33241" color="#3838ABFF" mode="ColorOnly" font="Dancing Script" text="Boutique" direction="0" spacing="1.14" softness="0" dilate="0.12" />
+  </sign>
+  <sign guid="baad1ae3-246e-4031-ba34-b541997a4cfa" name="New Sign" modified="2026-07-28 15:45:01Z" next_poly_id="1" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 0.3324102" color="#3E3775FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.14" rot="0" scale="0.3499053, 0.3499053" color="#FFFFFFFF" mode="ColorOnly" font="Montserrat" text="Chip's" direction="0" spacing="1.14" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.14" rot="0" scale="0.3499053, 0.3499053" color="#C31313FF" mode="ColorOnly" font="Montserrat" text="Chip's" direction="0" spacing="1.14" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.13" rot="0" scale="0.3499053, 0.3499053" color="#E1CB73FF" mode="ColorOnly" font="Permanent Marker" text="Beverages" direction="0" spacing="1.04" softness="0" dilate="-0.3219614" />
+  </sign>
+  <sign guid="0f0138b5-0578-49d2-a233-640d70b58de7" name="New Sign" modified="2026-07-28 15:50:31Z" next_poly_id="1" next_text_id="1" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 0.3324102" color="#1F2780FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="-3.411, 4.296888" rot="0" scale="1.806326, 2.10681" color="#646464FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="1.890352, -0.1918253" rot="0" scale="1.806326, 2.10681" color="#838282FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="-1.356727, 0.3313348" rot="0" scale="1.806326, 2.10681" color="#CB1515FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="-2.416997, 0.1778746" rot="0" scale="1.806326, 2.10681" color="#F5FF53FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.05" rot="0" scale="0.33241, 0.5551859" color="#FFFFFFFF" mode="ColorOnly" font="Dancing Script" text="The Spacebar" direction="0" spacing="1.03" softness="0" dilate="0.2039803" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.05" rot="0" scale="0.33241, 0.5551859" color="#4A4A4AFF" mode="ColorOnly" font="Dancing Script" text="The Spacebar" direction="0" spacing="1.03" softness="0" dilate="-0.02345395" />
+  </sign>
+  <sign guid="8dfc064c-9aff-4e62-903b-71d4f6f92a3b" name="New Sign" modified="2026-07-28 15:54:39Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 0.2572126" color="#767676FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.2095012, 0.2095012" color="#DA1616FF" mode="ColorOnly" font="LiberationSans" text="Gaming Leaderboard" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="e7911e9b-3837-4702-832c-00a01e30dc60" name="New Sign" modified="2026-07-28 15:54:51Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 1.027437" color="#767676FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#DCB82AFF" mode="ColorOnly" font="Stardos Stencil" text="Medusa" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="b2b372b4-3d0f-448f-a63c-17a5ea026671" name="New Sign (2)" modified="2026-07-28 15:55:28Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 1.027437" color="#767676FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#DCB82AFF" mode="ColorOnly" font="Stardos Stencil" text="Spec" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="c02b7c8b-93ab-4b5a-9e44-97ef83fd7c8a" name="New Sign (3)" modified="2026-07-28 15:55:56Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 1.027437" color="#767676FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#DCB82AFF" mode="ColorOnly" font="Stardos Stencil" text="Cem" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="47b6ab07-31ab-4eb6-a207-f842b4a5483a" name="New Sign (4)" modified="2026-07-28 15:56:10Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 1.027437" color="#767676FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#DCB82AFF" mode="ColorOnly" font="Stardos Stencil" text="amysfer" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="02e28244-aad5-4d60-8b52-8d8b1858013f" name="New Sign (5)" modified="2026-07-28 15:56:51Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 1.027437" color="#767676FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#DCB82AFF" mode="ColorOnly" font="Stardos Stencil" text="RumGezocke!!!" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="5909a5a5-46f8-467a-a8fe-d08a84e1dda8" name="New Sign (6)" modified="2026-07-28 15:57:25Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 1.027437" color="#767676FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#DCB82AFF" mode="ColorOnly" font="Stardos Stencil" text="arramus" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="901870b0-089f-4aed-8bc9-2d0df2c7a105" name="New Sign (7)" modified="2026-07-28 15:58:18Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 1.027437" color="#767676FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.16" rot="0" scale="0.3, 0.3" color="#DCB82AFF" mode="ColorOnly" font="Stardos Stencil" text="Jean's" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.16" rot="0" scale="0.3, 0.3" color="#DCB82AFF" mode="ColorOnly" font="Stardos Stencil" text="Gaming" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="33dd433b-8e76-4b0e-a2a9-01301c465879" name="New Sign (8)" modified="2026-07-28 15:58:57Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 1.027437" color="#767676FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#DCB82AFF" mode="ColorOnly" font="Stardos Stencil" text="Spartan-85" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="b0def07c-a1e6-4227-af28-8b5547becf9e" name="New Sign (9)" modified="2026-07-28 15:59:27Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 1.027437" color="#767676FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#DCB82AFF" mode="ColorOnly" font="Stardos Stencil" text="Bdubyah" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="eac190c8-217f-4fa5-9045-421cf68ad2c1" name="New Sign (10)" modified="2026-07-28 15:59:49Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 1.027437" color="#767676FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.285, 0.285" color="#DCB82AFF" mode="ColorOnly" font="Stardos Stencil" text="Darkstardragon" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="1667cfdb-1b6d-4069-b357-953b3d9b7e07" name="New Sign (11)" modified="2026-07-28 16:00:15Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 1.027437" color="#767676FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#DCB82AFF" mode="ColorOnly" font="Stardos Stencil" text="Takachan" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="197db436-54d2-4ca9-adbd-bbba963da28a" name="New Sign (12)" modified="2026-07-28 16:00:38Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 1.027437" color="#767676FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#DCB82AFF" mode="ColorOnly" font="Stardos Stencil" text="Oakraven" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+</signs>

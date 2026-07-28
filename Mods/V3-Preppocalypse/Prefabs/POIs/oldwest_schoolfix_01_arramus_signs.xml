@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="2bb67f91-5cdb-44c5-ae6d-d1461b25ecad" name="New Sign" modified="2026-07-28 11:21:35Z" next_poly_id="1" next_text_id="1" next_noise_id="2" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 0.3324102" color="#837474FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.33241, 0.33241" color="#202020FF" mode="ColorOnly" font="Dancing Script" text="Sunny Side Up" direction="0" spacing="1" softness="0" dilate="0.36" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.33241, 0.33241" color="#F6F996FF" mode="ColorOnly" font="Dancing Script" text="Sunny Side Up" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.17064, 0.04496707" color="#C0C0C0FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.5522389" />
+    <layer name="Noise 02" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.3, 0.0751032" color="#AD9A9AFF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.6801707" />
+  </sign>
+</signs>

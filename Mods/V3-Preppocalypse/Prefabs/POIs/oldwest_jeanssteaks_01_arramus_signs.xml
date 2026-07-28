@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="c163034a-41ae-4817-a718-c535d55df7ff" name="New Sign" modified="2026-06-29 00:51:26Z" next_poly_id="2" next_text_id="1" next_noise_id="1" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.04" rot="0" scale="0.4760025, 0.4760025" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Jean's" direction="0" spacing="1.003405" softness="0" dilate="0.16" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.04" rot="0" scale="0.4760025, 0.4760025" color="#3C6482FF" mode="ColorOnly" font="LiberationSans" text="Jean's" direction="0" spacing="1.003405" softness="0" dilate="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.14, 0.03" color="#FFFFFFFF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.1108882" fade="1" />
+  </sign>
+  <sign guid="c878bb18-bdaf-40e8-ae40-9fc98117f2aa" name="New Sign" modified="2026-06-29 00:51:48Z" next_poly_id="0" next_text_id="1" next_noise_id="1" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.03" rot="0" scale="0.3793769, 0.3793769" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Steakhouse" direction="0" spacing="1" softness="0" dilate="0.16" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.03" rot="0" scale="0.3793769, 0.3793769" color="#3C6482FF" mode="ColorOnly" font="LiberationSans" text="Steakhouse" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.14, 0.03" color="#FFFFFFFF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.1229565" fade="1" />
+  </sign>
+</signs>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="eaf7bba2-505d-4de2-854c-d98d21b1d0b4" name="New Sign" modified="2026-07-28 11:00:15Z" next_poly_id="2" next_text_id="2" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 1.027437" color="#422626FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.4899998" rot="0" scale="0.3683214, 0.3683214" color="#9E4141FF" mode="ColorOnly" font="Stardos Stencil" text="Bric-a-Brac" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.4899998" rot="0" scale="0.3683214, 0.3683214" color="#C08C8CFF" mode="ColorOnly" font="Stardos Stencil" text="Bric-a-Brac" direction="0" spacing="1" softness="0" dilate="0.0008388662" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.3, 0.01382093" color="#593232FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.1087418" fade="0.5948828" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.08999999, 0" rot="0" scale="0.2572125, 0.2572125" color="#C78080FF" mode="ColorOnly" font="Dancing Script" text="Knick-Knacks" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.27" rot="0" scale="0.2572125, 0.2572125" color="#C78080FF" mode="ColorOnly" font="Dancing Script" text="Odds and Ends" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.31, -0.5499998" rot="0" scale="0.2572125, 0.2572125" color="#C78080FF" mode="ColorOnly" font="Dancing Script" text="Trinkets" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="-0.8605437, -0.006512256" rot="0" scale="0.06778064, 0.06778064" color="#9E4141FF" mode="ColorOnly" sides="16" smoothness="0" starify="0.2679461" softness="0" dilate="0.1186924" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="-0.8605437, -0.006512256" rot="0" scale="0.05244736, 0.05244736" color="#BA6F6FFF" mode="ColorOnly" sides="16" smoothness="0" starify="0.2679461" softness="0" dilate="0.1186924" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="-0.8605437, -0.2765123" rot="0" scale="0.06778064, 0.06778064" color="#9E4141FF" mode="ColorOnly" sides="16" smoothness="0" starify="0.2679461" softness="0" dilate="0.1186924" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="-0.8605437, -0.2765123" rot="0" scale="0.05520775, 0.05520775" color="#BA6F6FFF" mode="ColorOnly" sides="16" smoothness="0" starify="0.2679461" softness="0" dilate="0.1186924" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="-0.8605437, -0.5565121" rot="0" scale="0.06778064, 0.06778064" color="#9E4141FF" mode="ColorOnly" sides="16" smoothness="0" starify="0.2679461" softness="0" dilate="0.1186924" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="-0.8605437, -0.5565121" rot="0" scale="0.05244736, 0.05244736" color="#BA6F6FFF" mode="ColorOnly" sides="16" smoothness="0" starify="0.2679461" softness="0" dilate="0.1186924" frequency="5" shapeMode="Normal" />
+  </sign>
+</signs>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="461ff75c-8197-41f4-bb3c-260cb1bc4864" name="New Sign" modified="2026-07-28 16:42:35Z" next_poly_id="1" next_text_id="2" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 0.2572126" color="#84A0DDFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.244352, 0.244352" color="#6F8BC6FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.01" rot="0" scale="0.3499053, 0.3499053" color="#504696FF" mode="ColorOnly" font="Dancing Script" text="LumuNaughty" direction="0" spacing="1" softness="0" dilate="0.36" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.01" rot="0" scale="0.3499053, 0.3499053" color="#BB0EBBFF" mode="ColorOnly" font="Dancing Script" text="LumuNaughty" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.6277916, 0.2022886" rot="0" scale="0.04982499, 0.04982499" color="#504696FF" mode="ColorOnly" font="LiberationSans" text="Governed by The Children of the" direction="0" spacing="1" softness="0" dilate="0.36" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.6277916, 0.2022886" rot="0" scale="0.04982499, 0.04982499" color="#BB0EBBFF" mode="ColorOnly" font="LiberationSans" text="Governed by The Children of the" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+</signs>

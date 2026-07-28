@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="c6260451-b2c0-4503-ac72-040aab75b481" name="New Sign" modified="2026-07-23 10:31:59Z" next_poly_id="0" next_text_id="2" next_noise_id="1" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.2321343, 0.2321343" color="#615656FF" mode="ColorOnly" font="LiberationSans" text="BUNKERLANDS" direction="0" spacing="1.09" softness="0.08" dilate="0.26" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.2321343, 0.2321343" color="#59705BFF" mode="ColorOnly" font="LiberationSans" text="BUNKERLANDS" direction="0" spacing="1.09" softness="0" dilate="0.01918995" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.01696848, 0.003833781" color="#554545FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.9360342" />
+  </sign>
+</signs>
