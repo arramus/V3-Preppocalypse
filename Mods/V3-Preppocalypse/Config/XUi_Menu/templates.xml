@@ -1,6 +1,0 @@
-<Preppocalypse>
-
-  <set xpath="/templates/mainmenubutton/@color_hovered">0,150,0,255</set>
-  <set xpath="/templates/mainmenubutton/@text_color_hovered">0,150,0,255</set>
-
-</Preppocalypse>
