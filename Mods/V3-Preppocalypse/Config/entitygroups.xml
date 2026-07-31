@@ -1838,6 +1838,99 @@
 		<e n="zombieMiniWightRadiated" p="0.4" />
 	</entitygroup>
 	
+	<!-- Prepper Burnt Entities for GS -->
+	
+	<entitygroup name="PrepperMixedBurntEntitiesGroupGS01">
+		<e n="zombieBurntStoneSpear" />		
+		<e n="zombieMiniBurntStoneSpear" />
+		<e n="zombieBurntFeralIronSpear" />
+		<e n="zombieMiniBurntFeralIronSpear" />
+		<e n="zombieBurntRadiatedSteelSpear" />
+		<e n="zombieMiniBurntRadiatedSteelSpear" />
+		<e n="zombieBurntToaster" />
+		<e n="zombieMiniBurntToaster" />
+		<e n="zombieBurntCharged" />
+		<e n="zombieBurntInfernal" />
+		<e n="zombieBurntSirenClaret" p="0.25" />
+		<e n="zombieMiniCrispyPREPPER" p="0.25" />
+		<e n="zombieCrispyPREPPER" p="0.25" />
+	</entitygroup>
+	<entitygroup name="PrepperMixedBurntEntitiesGroupGS50">
+		<e n="zombieBurntStoneSpear" />		
+		<e n="zombieMiniBurntStoneSpear" />
+		<e n="zombieBurntFeralIronSpear" />
+		<e n="zombieMiniBurntFeralIronSpear" />
+		<e n="zombieBurntRadiatedSteelSpear" />
+		<e n="zombieMiniBurntRadiatedSteelSpear" />
+		<e n="zombieBurntToaster" />
+		<e n="zombieMiniBurntToaster" />
+		<e n="zombieBurntCharged" />
+		<e n="zombieBurntInfernal" />
+		<e n="zombieBurntSirenClaret" p="0.5" />
+		<e n="zombieMiniCrispyPREPPER" p="0.5" />
+		<e n="zombieCrispyPREPPER" p="0.5" />
+	</entitygroup>
+	<entitygroup name="PrepperMixedBurntEntitiesGroupGS100">
+		<e n="zombieBurntStoneSpear" />		
+		<e n="zombieMiniBurntStoneSpear" />
+		<e n="zombieBurntFeralIronSpear" />
+		<e n="zombieMiniBurntFeralIronSpear" />
+		<e n="zombieBurntRadiatedSteelSpear" />
+		<e n="zombieMiniBurntRadiatedSteelSpear" />
+		<e n="zombieBurntToaster" />
+		<e n="zombieMiniBurntToaster" />
+		<e n="zombieBurntCharged" />
+		<e n="zombieBurntInfernal" />
+		<e n="zombieBurntSirenClaret" p="0.75" />
+		<e n="zombieMiniCrispyPREPPER" p="0.75" />
+		<e n="zombieCrispyPREPPER" p="0.75" />
+	</entitygroup>
+	<entitygroup name="PrepperMixedBurntEntitiesGroupGS200">
+		<e n="zombieBurntStoneSpear" />		
+		<e n="zombieMiniBurntStoneSpear" />
+		<e n="zombieBurntFeralIronSpear" />
+		<e n="zombieMiniBurntFeralIronSpear" />
+		<e n="zombieBurntRadiatedSteelSpear" />
+		<e n="zombieMiniBurntRadiatedSteelSpear" />
+		<e n="zombieBurntToaster" />
+		<e n="zombieMiniBurntToaster" />
+		<e n="zombieBurntCharged" />
+		<e n="zombieBurntInfernal" />
+		<e n="zombieBurntSirenClaret" />
+		<e n="zombieMiniCrispyPREPPER" />
+		<e n="zombieCrispyPREPPER" />
+	</entitygroup>
+	<entitygroup name="PrepperMixedBurntEntitiesGroupGS400">
+		<e n="zombieBurntStoneSpear" />		
+		<e n="zombieMiniBurntStoneSpear" />
+		<e n="zombieBurntFeralIronSpear" />
+		<e n="zombieMiniBurntFeralIronSpear" />
+		<e n="zombieBurntRadiatedSteelSpear" />
+		<e n="zombieMiniBurntRadiatedSteelSpear" />
+		<e n="zombieBurntToaster" />
+		<e n="zombieMiniBurntToaster" />
+		<e n="zombieBurntCharged" />
+		<e n="zombieBurntInfernal" />
+		<e n="zombieBurntSirenClaret" p="1.25" />
+		<e n="zombieMiniCrispyPREPPER" p="1.25" />
+		<e n="zombieCrispyPREPPER" p="1.25" />
+	</entitygroup>
+	<entitygroup name="PrepperMixedBurntEntitiesGroupGS800">
+		<e n="zombieBurntStoneSpear" />		
+		<e n="zombieMiniBurntStoneSpear" />
+		<e n="zombieBurntFeralIronSpear" />
+		<e n="zombieMiniBurntFeralIronSpear" />
+		<e n="zombieBurntRadiatedSteelSpear" />
+		<e n="zombieMiniBurntRadiatedSteelSpear" />
+		<e n="zombieBurntToaster" />
+		<e n="zombieMiniBurntToaster" />
+		<e n="zombieBurntCharged" />
+		<e n="zombieBurntInfernal" />
+		<e n="zombieBurntSirenClaret" p="1.5" />
+		<e n="zombieMiniCrispyPREPPER" p="1.5" />
+		<e n="zombieCrispyPREPPER" p="1.5" />
+	</entitygroup>
+	
 	</append>
 	
 	<!-- *** INTEGRATION FOR ANIMALS -->
