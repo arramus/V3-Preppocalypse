@@ -395,7 +395,7 @@
 	<!-- *** PREPPER_PLANNER_VOLUME_07_QUICK_FINGERS -->
 	<book name="perkPrepperPlanner7QuickFingers" parent="skillPrepperPlanner" max_level="1" base_skill_point_cost="0" desc_key="perkPrepperPlanner7QuickFingersDesc" long_desc_key="perkPrepperPlanner7QuickFingersLongDesc">
 		<effect_group>
-			<passive_effect name="ScavengingTime" operation="perc_subtract" level="1" value=".1"/>
+			<passive_effect name="LootStage" operation="perc_add" level="1" value=".1"/>
 		</effect_group>
 	</book>
 	<!-- *** 7/7 PREPPER_PLANNER_COMPLETE -->
