@@ -3834,7 +3834,7 @@
 	<property name="EconomicBundleSize" value="1"/>
 	<property name="EconomicValue" value="550"/> <!-- Default 500 -->
 	<property name="TraderStageTemplate" value="baseTierPreppoSpecialTier1"/> <!-- baseTier1 revision -->
-	<!--property name="UnlockedBy" value="craftingClubs"/--><!-- perkPummelPete,meleeWpnClubT1BaseballBatSchematic, -->
+	<property name="UnlockedBy" value="craftingClubs"/><!-- perkPummelPete,meleeWpnClubT1BaseballBatSchematic, -->
 	<property name="ShowQuality" value="true"/>
 	<property name="SoundUnholster" value="weapon_unholster"/>
 	<property name="SoundHolster" value="weapon_holster"/>
@@ -3973,7 +3973,7 @@
 	<property name="ScrapTimeOverride" value="10.0"/>
 	<property name="TraderStageTemplate" value="baseTierPreppoSpecialTier3"/> <!-- baseTier3 revision -->
 	<property name="EconomicValue" value="1210"/>	
-	<!--property name="UnlockedBy" value="craftingKnuckles"/--><!-- meleeWpnKnucklesT3SteelKnucklesSchematic, -->
+	<property name="UnlockedBy" value="craftingKnuckles"/><!-- meleeWpnKnucklesT3SteelKnucklesSchematic, -->
 	<property name="SoundUnholster" value="weapon_unholster"/>
 	<property name="SoundHolster" value="weapon_holster"/>
 	<property name="SoundPickup" value="machete_grab"/>
@@ -4262,7 +4262,7 @@
 	<property name="LightValue" value=".45"/>
 	<property name="EconomicValue" value="250"/> <!-- Default 500 -->
 	<property name="TraderStageTemplate" value="baseTierPreppoSpecialTier0"/><!-- baseTier0 revision -->
-	<!-- property name="UnlockedBy" value="craftingHandguns"/ --><!-- Toilet Pistol and Trader Only -->
+	<property name="UnlockedBy" value="craftingHandguns"/>
 	<property name="ShowQuality" value="true"/>
 	<property name="SoundUnholster" value="weapon_unholster"/>
 	<property name="SoundHolster" value="weapon_holster"/>
