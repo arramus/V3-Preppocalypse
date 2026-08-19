@@ -3352,6 +3352,77 @@
 	<property name="NavObject" value="twitch_spawn,twitch_spawn_other,animaltracking_direwolf,clear_sleeper" />
 </entity_class>
 
+		<!-- *** MILITARY_MEGA_BLASTER_GIANT_DIRE_WOLF -->
+<entity_class name="animalGiantDireMegaMilitaryWolf" extends="animalWolf">
+	<property name="UserSpawnType" value="Menu"/>
+	<property name="EntityFlags" value="animal,zombie"/>
+	<property name="Tags" value="entity,animal,zombie,zombieAnimal,hostile,wolf,perkAT02,perkAT03,perkAT04,perkAT05"/>
+	<property name="PhysicsBody" value="AWolf"/>
+	<property name="Class" value="EntityZombieCop"/>
+	<property name="Mass" value="450"/>
+	<property name="Prefab" value="@:Entities/Animals/DireWolf/animalDireWolfPrefab.prefab"/>
+	<property name="PrefabCombined" value="true"/>
+	<property name="SizeScale" value="2.3"/>
+	<property name="DismemberMultiplierHead" value="0"/>
+	<property name="CanClimbLadders" value="true"/>
+
+	<property name="AITask" value="
+	BreakBlock|
+	ApproachDistraction|
+	RangedAttackTarget itemType=1;cooldown=2;duration=5|
+	ApproachAndAttackTarget class=EntityPlayer,0,EntityBandit,0,EntityNPC,0|
+	ApproachSpot|
+	Look|
+	Wander|
+	"/>
+	<property name="AITarget" value="
+	SetAsTargetIfHurt class=EntityPlayer,EntityBandit,EntityNPC|
+	BlockingTargetTask|
+	SetNearestCorpseAsTarget flags=edible|
+	SetNearestEntityAsTarget class=EntityPlayer,28,20,EntityBandit,0,-10,EntityNPC,0,0|
+	"/>
+
+	<property name="SoundAlert" value="wolfdirealert"/>
+	<property name="SoundAttack" value="wolfdireattack"/>
+	<property name="SoundDeath" value="wolfdiredeath"/>
+	<property name="SoundGiveUp" value="wolfdiregiveup"/>
+	<property name="SoundHurt" value="wolfdirepain"/>
+	<property name="SoundRandom" value="wolfdireroam"/>
+	<property name="SoundSense" value="wolfdiresense"/>
+
+	<!-- Gameplay  -->
+	<property name="MoveSpeedAggro" value="1.4, 1.6"/>
+	<property name="JumpMaxDistance" value="5, 6"/>
+	<property name="HandItem" value="meleeHandAnimalGiantDireMegaMilitaryWolf"/>
+	<property name="ExplodeHealthThreshold" value="0"/>
+	<property name="Immunity" value="sickness;disease;wellness"/> <!-- bleeding; -->
+	<property name="PainResistPerHit" value=".95"/>
+	<property name="DeadBodyHitPoints" value="400"/>
+
+	<property name="ExperienceGain" value="8000"/><!-- XP strong -->
+	<property name="LootDropEntityClass" value="EntityLootContainerBoss"/>
+	<property name="LootDropProb" value="1"/> <!-- Dire Wolf -->
+	<property name="StompsSpikes" value="true"/>
+
+	<drop event="Harvest" name="foodRawMeat" count="0" tool_category="Butcher"/>
+	<drop event="Harvest" name="foodRottingFlesh" tag="butcherHarvest" count="50"/> <!-- animalGiantDireFireWolf -->
+	<drop event="Harvest" name="resourceLeather" tag="butcherHarvest" count="25"/>
+	<drop event="Harvest" name="resourceAnimalFat" tag="butcherHarvest" count="5"/>
+	<drop event="Harvest" name="resourceBone" tag="butcherHarvest" count="22"/>
+	<drop event="Harvest" name="resourceBone" tag="allToolsHarvest" count="10"/>
+	<drop event="Harvest" name="resourceSilverNugget" tag="butcherHarvest" count="2"/>
+
+	<effect_group name="Base Effects">
+		<passive_effect name="HealthMax" operation="base_set" value="9500"/>
+		<passive_effect name="PhysicalDamageResist" operation="base_set" value="95"/>
+		<triggered_effect trigger="onSelfFirstSpawn" action="AddBuff" target="self" buff="animalGiantDireMegaMilitaryWolfDeco"/>
+		<triggered_effect trigger="onOtherDamagedSelf" action="ModifyCVar" target="self" cvar="RadiatedRegenAmount" operation="set" value="7"/>
+		<triggered_effect trigger="onOtherDamagedSelf" action="AddBuff" target="self" buff="buffRadiatedRegen"/>
+	</effect_group>
+
+	<property name="NavObject" value="twitch_spawn,twitch_spawn_other,animaltracking_direwolf,clear_sleeper" />
+</entity_class>
+
 		<!-- *** MINI_MOUNTAIN_LION -->
 <entity_class name="animalMiniMountainLion" extends="animalWolf">
 	<property name="UserSpawnType" value="Menu"/>
