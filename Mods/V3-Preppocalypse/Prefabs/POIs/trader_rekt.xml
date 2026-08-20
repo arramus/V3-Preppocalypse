@@ -33,29 +33,30 @@
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="WallVolumeSize" value="4, 4, 3#4, 4, 3#3, 2, 3#3, 2, 1" />
   <property name="WallVolumeStart" value="23, 2, 47#30, 2, 47#27, 4, 47#27, 2, 49" />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="LightsVolume" value="19672.39" />
-    <property name="TotalVertices" value="1505777" />
-    <property name="TotalTriangles" value="611887" />
+    <property name="LightsVolume" value="9380.529" />
+    <property name="TotalVertices" value="1571322" />
+    <property name="TotalTriangles" value="636956" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1402335" />
-      <property name="Triangles" value="545861" />
+      <property name="Vertices" value="1459111" />
+      <property name="Triangles" value="565605" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="78298" />
-      <property name="Triangles" value="42868" />
+      <property name="Vertices" value="87055" />
+      <property name="Triangles" value="48201" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="1342" />
-      <property name="Triangles" value="870" />
+      <property name="Vertices" value="1378" />
+      <property name="Triangles" value="874" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="14952" />
-      <property name="Triangles" value="7476" />
+      <property name="Vertices" value="14928" />
+      <property name="Triangles" value="7464" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -76,6 +77,7 @@
     <property class="POILight">
       <property name="0" value="48, 4, 52" />
       <property name="1" value="52, 4, 52" />
+      <property name="2" value="50, 2, 54" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="48, 1, 55" />
@@ -91,15 +93,15 @@
       <property name="0" value="23, 2, 38" />
       <property name="1" value="23, 2, 39" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="35, 1, 56" />
+      <property name="1" value="36, 1, 57" />
+    </property>
     <property class="Trader">
       <property name="0" value="28, 2, 48" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="40, 1, 51" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="35, 1, 56" />
-      <property name="1" value="36, 1, 57" />
     </property>
   </property>
 </prefab>
