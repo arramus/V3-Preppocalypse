@@ -35,24 +35,24 @@
   <property name="WallVolumeStart" value="23, 2, 47#30, 2, 47#27, 4, 47#27, 2, 49" />
   <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="LightsVolume" value="9380.529" />
-    <property name="TotalVertices" value="1571322" />
-    <property name="TotalTriangles" value="636956" />
+    <property name="LightsVolume" value="9648.613" />
+    <property name="TotalVertices" value="1594720" />
+    <property name="TotalTriangles" value="645557" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1459111" />
-      <property name="Triangles" value="565605" />
+      <property name="Vertices" value="1479389" />
+      <property name="Triangles" value="571929" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="87055" />
-      <property name="Triangles" value="48201" />
+      <property name="Vertices" value="90095" />
+      <property name="Triangles" value="50438" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="1378" />
-      <property name="Triangles" value="874" />
+      <property name="Vertices" value="1458" />
+      <property name="Triangles" value="914" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="14928" />
@@ -102,6 +102,9 @@
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="40, 1, 51" />
+    </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="31, 11, 40" />
     </property>
   </property>
 </prefab>
