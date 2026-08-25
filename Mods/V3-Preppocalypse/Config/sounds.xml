@@ -6,6 +6,8 @@
 	<set xpath="/Sounds/SoundDataNode[@name='vwheel_bounce']/AudioClip/@ClipName">@:Sounds/Misc/silencefiller.wav</set>
 	<!-- Storm Warning Sound -->
 	<set xpath="/Sounds/SoundDataNode[@name='ui_weather_alert']/AudioClip/@ClipName">#@modfolder:Resources/PreppoSound.unity3d?OogahHorn02</set>
+	<!-- Silencing Nerd Outfit and Intellect Mastery Point Chance -->
+	<set xpath="/Sounds/SoundDataNode[@name='nerd_outfit_perk']/AudioClip/@ClipName">@:Sounds/Misc/silencefiller.wav</set>
 
 	<append xpath="/Sounds">
 	
