@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="27048ee5-0431-4cab-88be-4299eaf2212b" name="New Sign" modified="2026-08-26 19:08:22Z" next_poly_id="0" next_text_id="2" next_noise_id="1" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.32" rot="0" scale="0.3, 0.3" color="#634040FF" mode="ColorOnly" font="Dancing Script" text="All are Welcome" direction="0" spacing="1" softness="0" dilate="0.38" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.32" rot="0" scale="0.3, 0.3" color="#C5C1C1FF" mode="ColorOnly" font="Dancing Script" text="All are Welcome" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.05999999" rot="0" scale="0.3, 0.3" color="#C5C1C1FF" mode="ColorOnly" font="Stardos Stencil" text="Old West" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.3399999" rot="0" scale="0.3, 0.3" color="#C5C1C1FF" mode="ColorOnly" font="Stardos Stencil" text="Church of Snek" direction="0" spacing="0.93" softness="0" dilate="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.01069437, 0.0006048905" color="#FFFFFFFF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.8720683" />
+  </sign>
+</signs>

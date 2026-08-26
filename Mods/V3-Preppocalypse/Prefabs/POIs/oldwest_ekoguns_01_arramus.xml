@@ -24,16 +24,18 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="453908" />
-    <property name="TotalTriangles" value="168639" />
+    <property name="LightsVolume" value="6428.936" />
+    <property name="TotalVertices" value="527827" />
+    <property name="TotalTriangles" value="196277" />
     <property class="BlockEntities">
-      <property name="Vertices" value="391433" />
-      <property name="Triangles" value="130140" />
+      <property name="Vertices" value="464498" />
+      <property name="Triangles" value="158190" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="59979" />
-      <property name="Triangles" value="34483" />
+      <property name="Vertices" value="60833" />
+      <property name="Triangles" value="34071" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -57,6 +59,9 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_cars">
+      <property name="0" value="3, 5, 13" />
+    </property>
     <property class="QuestRestorePower">
       <property name="0" value="15, 1, 8" />
     </property>
@@ -85,9 +90,6 @@
       <property name="2" value="12, 9, 15" />
       <property name="3" value="14, 13, 17" />
     </property>
-    <property class="challenge_cars">
-      <property name="0" value="3, 5, 10" />
-    </property>
     <property class="challenge_steel">
       <property name="0" value="8, 11, 16" />
     </property>
@@ -104,11 +106,14 @@
     <property class="challenge_stump">
       <property name="0" value="22, 5, 7" />
     </property>
+    <property class="FetchContainer">
+      <property name="0" value="12, 17, 14" />
+    </property>
     <property class="challenge_gore">
       <property name="0" value="21, 6, 18" />
     </property>
     <property class="Rally">
-      <property name="0" value="12, 6, 23" />
+      <property name="0" value="12, 5, 23" />
     </property>
   </property>
 </prefab>

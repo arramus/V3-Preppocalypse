@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="9f46cf13-68e4-44f8-b46f-d51fb0c6e17f" name="New Sign" modified="2026-08-26 18:48:35Z" next_poly_id="0" next_text_id="1" next_noise_id="2" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.5844061, 0.8368541" color="#000000FF" mode="ColorOnly" font="Montserrat" text="EKO" direction="0" spacing="1.18" softness="0" dilate="0.46" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.5844061, 0.836854" color="#38594FFF" mode="ColorOnly" font="Montserrat" text="EKO" direction="0" spacing="1.18" softness="0" dilate="0.14" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.1463026, 0.07134815" color="#000101FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.003453951" fade="0.5767023" />
+  </sign>
+</signs>
