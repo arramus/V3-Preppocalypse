@@ -1,6 +1,11 @@
 <Preppocalypse>
 
 	<!-- VANILLA TWEAKS and TOGGLES -->
+	<!-- Revising Trader inventory cost of Workstation Tools to be more in line with the Crucible -->
+	<set xpath="/items/item[@name='toolCookingGrill']/property[@name='TraderQualityMod']/@value">1,6</set><!-- Default is 1,20 -->
+	<set xpath="/items/item[@name='toolCookingPot']/property[@name='TraderQualityMod']/@value">1,6</set><!-- Default is 1,20 -->
+	<set xpath="/items/item[@name='toolBellows']/property[@name='TraderQualityMod']/@value">1,6</set><!-- Default is 1,20 -->
+	<set xpath="/items/item[@name='toolAnvil']/property[@name='TraderQualityMod']/@value">1,6</set><!-- Default is 1,20 -->
 	<!-- Perk Penetrator for 44AP with additional Dead Eye Perk Hookup -->	
 	<append xpath="/items/item[@name='ammo44MagnumBulletBall']/effect_group/passive_effect[@name='EntityDamage']/@tags">,perkDeadEye</append>
 	<append xpath="/items/item[@name='ammo44MagnumBulletBall']/effect_group/passive_effect[@name='EntityPenetrationCount']/@tags">,perkDeadEye</append>
@@ -15,21 +20,21 @@
 	<append xpath="/items/item[@name='gunBowT3CompoundBow']/property[@class='Action0']/property[@name='Magazine_items']/@value">,ammoArrowSteelBeeswaxAP</append>
 	<append xpath="/items/item[@name='gunBowT1IronCrossbow']/property[@class='Action0']/property[@name='Magazine_items']/@value">,ammoCrossbowBoltSteelBeeswaxAP</append>
 	<append xpath="/items/item[@name='gunBowT3CompoundCrossbow']/property[@class='Action0']/property[@name='Magazine_items']/@value">,ammoCrossbowBoltSteelBeeswaxAP</append>
-	<!-- V2 Zombie Reach Adjust KhaineGB -->
-	<set xpath="/items/item[@name='meleeHandMaster']/property[@class='Action0']/property[@name='Range']/@value">1.325</set>
-	<set xpath="/items/item[@name='meleeHandZombie01']/property[@class='Action0']/property[@name='Range']/@value">1.325</set>
-	<set xpath="/items/item[@name='meleeHandZombieShort']/property[@class='Action0']/property[@name='Range']/@value">1.325</set>
-	<set xpath="/items/item[@name='meleeHandZombieShortFeral']/property[@class='Action0']/property[@name='Range']/@value">1.325</set>
-	<set xpath="/items/item[@name='meleeHandZombieBurning']/property[@class='Action0']/property[@name='Range']/@value">1.325</set>
-	<set xpath="/items/item[@name='meleeHandZombieBurningFeral']/property[@class='Action0']/property[@name='Range']/@value">1.325</set>
-	<set xpath="/items/item[@name='meleeHandZombieCop']/property[@class='Action0']/property[@name='Range']/@value">1.5</set>
-	<set xpath="/items/item[@name='meleeHandzombieMutated']/property[@class='Action0']/property[@name='Range']/@value">1.5</set>
-	<set xpath="/items/item[@name='meleeHandzombieMutatedFeral']/property[@class='Action0']/property[@name='Range']/@value">1.5</set>
-	<set xpath="/items/item[@name='meleeHandzombieMutatedRadiated']/property[@class='Action0']/property[@name='Range']/@value">1.5</set>
-	<set xpath="/items/item[@name='meleeHandzombieMutatedCharged']/property[@class='Action0']/property[@name='Range']/@value">1.5</set>
-	<set xpath="/items/item[@name='meleeHandzombieMutatedInfernal']/property[@class='Action0']/property[@name='Range']/@value">1.5</set>    
-	<set xpath="/items/item[@name='meleeHandZombieRancher']/property[@class='Action0']/property[@name='Range']/@value">1.5</set>
-	<set xpath="/items/item[@name='meleeHandZombieChuck']/property[@class='Action0']/property[@name='Range']/@value">1.5</set>
+	<!-- Zombie Melee Range Reduced -->
+	<set xpath="/items/item[@name='meleeHandMaster']/property[@class='Action0']/property[@name='Range']/@value">1.35</set> <!-- Default 1.65 -->
+	<set xpath="/items/item[@name='meleeHandZombie01']/property[@class='Action0']/property[@name='Range']/@value">1.3</set> <!-- Default 1.6 -->
+	<set xpath="/items/item[@name='meleeHandZombieShort']/property[@class='Action0']/property[@name='Range']/@value">1.1</set> <!-- Default 1.4 -->
+	<set xpath="/items/item[@name='meleeHandZombieShortFeral']/property[@class='Action0']/property[@name='Range']/@value">1.1</set> <!-- Default 1.4 -->
+	<set xpath="/items/item[@name='meleeHandZombieBurning']/property[@class='Action0']/property[@name='Range']/@value">1.1</set> <!-- Default 1.4 -->
+	<set xpath="/items/item[@name='meleeHandZombieBurningFeral']/property[@class='Action0']/property[@name='Range']/@value">1.1</set> <!-- Default 1.4 -->
+	<set xpath="/items/item[@name='meleeHandZombieCop']/property[@class='Action0']/property[@name='Range']/@value">1.45</set> <!-- Default 1.75 -->
+	<set xpath="/items/item[@name='meleeHandzombieMutated']/property[@class='Action0']/property[@name='Range']/@value">1.4</set> <!-- Default 1.7 -->
+	<set xpath="/items/item[@name='meleeHandzombieMutatedFeral']/property[@class='Action0']/property[@name='Range']/@value">1.4</set> <!-- Default 1.7 -->
+	<set xpath="/items/item[@name='meleeHandzombieMutatedRadiated']/property[@class='Action0']/property[@name='Range']/@value">1.4</set> <!-- Default 1.7 -->
+	<set xpath="/items/item[@name='meleeHandzombieMutatedCharged']/property[@class='Action0']/property[@name='Range']/@value">1.4</set> <!-- Default 1.7 -->
+	<set xpath="/items/item[@name='meleeHandzombieMutatedInfernal']/property[@class='Action0']/property[@name='Range']/@value">1.4</set> <!-- Default 1.7 -->
+	<set xpath="/items/item[@name='meleeHandZombieRancher']/property[@class='Action0']/property[@name='Range']/@value">1.45</set> <!-- Default 1.75 -->
+	<set xpath="/items/item[@name='meleeHandZombieChuck']/property[@class='Action0']/property[@name='Range']/@value">1.45</set> <!-- Default 1.75 -->
 	<!-- Lotions, Potions, and Nutrition -->
 	<set xpath="/items/item[@name='medicalFirstAidBandage']/effect_group/triggered_effect[@cvar='medicalRegHealthAmount']/@value">35</set> <!-- 30 Default -->
 	<set xpath="/items/item[@name='medicalFirstAidBandage']/effect_group/display_value[@name='foodHealthAmount']/@value">35</set> <!-- 30 Default -->
