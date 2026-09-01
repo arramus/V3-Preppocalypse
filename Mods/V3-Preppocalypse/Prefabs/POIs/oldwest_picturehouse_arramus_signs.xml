@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="0994c7c5-a547-42c1-bf6f-b401ad3d6d98" name="New Sign" modified="2026-09-01 22:01:21Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.02" rot="0" scale="0.4522021, 0.4522021" color="#22675BFF" mode="ColorOnly" font="Dancing Script" text="DISCO" direction="0" spacing="1.2" softness="0" dilate="0.26" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.02" rot="0" scale="0.4522021, 0.4522021" color="#B66060FF" mode="ColorOnly" font="Dancing Script" text="DISCO" direction="0" spacing="1.2" softness="0" dilate="0" />
+  </sign>
+  <sign guid="1a482224-8dfa-4d37-83d2-f1f17bd2d3fe" name="New Sign" modified="2026-09-01 22:00:58Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.01" rot="0" scale="0.3, 0.3" color="#22675BFF" mode="ColorOnly" font="Dancing Script" text="INFERNO" direction="0" spacing="1.2" softness="0" dilate="0.26" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.01" rot="0" scale="0.3, 0.3" color="#B66060FF" mode="ColorOnly" font="Dancing Script" text="INFERNO" direction="0" spacing="1.2" softness="0" dilate="0" />
+  </sign>
+  <sign guid="529b00be-d92d-46d9-98f6-14f00c4b7cb4" name="New Sign" modified="2026-09-01 22:10:58Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.5551858, 0.5274271" color="#9F1919FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.3358778" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.5551858, 0.5274271" color="#B66A6AFF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.16" fade="0.4358778" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3683214, 0.3683214" color="#371111FF" mode="ColorOnly" font="Montserrat" text="PICTURE" direction="0" spacing="1" softness="0" dilate="0.05918995" />
+  </sign>
+  <sign guid="7b16244f-f48f-4d5e-b964-44408866b5b2" name="New Sign" modified="2026-09-01 22:11:57Z" next_poly_id="0" next_text_id="1" next_noise_id="1" next_group_id="0">
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.5551858, 0.5274271" color="#9F1919FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.3358778" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.5551858, 0.5274271" color="#B66A6AFF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.16" fade="0.4358778" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.5274265, 0.5274265" color="#371111FF" mode="ColorOnly" font="Montserrat" text="HOUSE" direction="0" spacing="1" softness="0" dilate="0.06" />
+  </sign>
+</signs>

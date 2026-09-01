@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="bb6190fe-d02e-4eb2-8277-02677fa7811f" name="New Sign" modified="2026-09-01 22:37:01Z" next_poly_id="0" next_text_id="2" next_noise_id="1" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="-0.0104635, 0.03836506" rot="0" scale="0.285, 0.285" color="#1F1D0CFF" mode="ColorOnly" font="Stardos Stencil" text="Mr T's" direction="0" spacing="1" softness="0" dilate="0.28" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.0104635, 0.03836506" rot="0" scale="0.285, 0.285" color="#CDC249FF" mode="ColorOnly" font="Stardos Stencil" text="Mr T's" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.01395073, -0.1150951" rot="0" scale="0.079056, 0.079056" color="#1F1D0CFF" mode="ColorOnly" font="LiberationSans" text="Super Special Catacorn" direction="0" spacing="1" softness="0" dilate="0.5877756" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.01395073, -0.1150951" rot="0" scale="0.079056, 0.079056" color="#CDC249FF" mode="ColorOnly" font="LiberationSans" text="Super Special Catacorn" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="-0.1674111, -0.1360216" rot="90" scale="0.1796212, 0.03855368" color="#6A5D5DFF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.58" />
+  </sign>
+</signs>
