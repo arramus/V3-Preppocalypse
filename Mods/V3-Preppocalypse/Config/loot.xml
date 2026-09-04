@@ -544,17 +544,16 @@
 		<lootcontainer name="RockDrill" count="2,5" size="6,2" destroy_on_close="true" sound_open="UseActions/open_cooler" sound_close="silencefiller" loot_quality_template="qualBaseTemplate">
 		<item name="resourceRockSmall" count="1000,2000" prob="0.7"/>
 		<item name="resourceCrushedSand" count="1000,2000" prob="0.7"/>
-		<item name="resourceScrapIron" count="350,500" prob="0.5"/>
 		<item name="resourceClayLump" count="1000,2000" prob="0.5"/>
-		<item name="resourceOilShale" count="350,500" prob="0.35"/>
-		<item name="resourceScrapLead" count="350,500" prob="0.35"/>
-		<item name="resourceCoal" count="350,500" prob="0.35"/>
-		<item name="resourcePotassiumNitratePowder" count="350,500" prob="0.35"/>
+		<item name="resourceScrapIron" count="500,1000" prob="0.5"/>
+		<item name="resourceCoal" count="400,750" prob="0.35"/>
+		<item name="resourcePotassiumNitratePowder" count="400,750" prob="0.35"/>
+		<item name="resourceOilShale" count="350,600" prob="0.35"/>
+		<item name="resourceScrapLead" count="350,600" prob="0.35"/>
 		<item name="resourceSilverNugget" count="1,3" prob="0.1"/>
 		<item name="resourceGoldNugget" count="1,2" prob="0.1"/>
 		<item name="resourceRawDiamond" count="1" prob="0.075"/>
-	</lootcontainer>
-	
+	</lootcontainer>	
 	</append>
 	
 	<!-- Oaks T1 Pot, T3 Pan, and Can Can -->
@@ -572,22 +571,19 @@
 <!-- *** T1_Melee_Weapons -->	
 	<append xpath="/lootcontainers/lootgroup[@name='groupWeaponsT1_Melee']">
 		<item name="meleeWpnClubT1CanCanBat"/>
-		<item name="meleeWpnKnucklesT3SteelOakravenBristonKnuckles"/>
 		<item name="meleeWpnClubT1Pot"/>
 	</append>
 
 <!-- *** Quest_Rewards -->	
 	<append xpath="/lootcontainers/lootgroup[@name='groupQuestWeaponsMeleeT1']">
 		<item name="meleeWpnClubT1CanCanBat"/>
-		<item name="meleeWpnKnucklesT3SteelOakravenBristonKnuckles"/>
 		<item name="meleeWpnClubT1Pot"/>	
 	</append>
 
 <!-- *** T2&T3_Melee_Weapons -->	
 	<append xpath="/lootcontainers/lootgroup[@name='groupWeaponsT2_Melee']">
-		<item name="meleeWpnClubT1CanCanBat"/>
+		<item name="meleeWpnClubT3Pan"/>
 		<item name="meleeWpnKnucklesT3SteelOakravenBristonKnuckles"/>
-		<item name="meleeWpnClubT3Pan"/>	
 	</append>
 	
 	<append xpath="/lootcontainers/lootgroup[@name='groupQuestWeaponsMeleeT2']">
@@ -600,13 +596,25 @@
 		<item name="meleeWpnKnucklesT3SteelOakravenBristonKnuckles"/>		
 	</append>
 	
-	<!-- Swiss Vetterli Rifle -->
+	<!-- Swiss Vetterli Rifle and to T2 and T3 for exposure and cross over features -->
 	
 	<append xpath="/lootcontainers/lootgroup[@name='groupWeaponsT2_DeadEye']">
 		<item name="gunRifleT2LeverActionRifleSwissVetterli"/>	
 	</append>
 	
 	<append xpath="/lootcontainers/lootgroup[@name='groupQuestWeaponsRangedT2']">
+		<item name="gunRifleT2LeverActionRifleSwissVetterli"/>	
+	</append>
+	
+	<append xpath="/lootcontainers/lootgroup[@name='groupWeaponsT3_DeadEye']">
+		<item name="gunRifleT2LeverActionRifleSwissVetterli"/>	
+	</append>
+	
+	<append xpath="/lootcontainers/lootgroup[@name='groupQuestWeaponsRangedT3']">
+		<item name="gunRifleT2LeverActionRifleSwissVetterli"/>	
+	</append>
+	
+	<append xpath="/lootcontainers/lootgroup[@name='groupInfestedT5MeleeRanged']">
 		<item name="gunRifleT2LeverActionRifleSwissVetterli"/>	
 	</append>
 	
