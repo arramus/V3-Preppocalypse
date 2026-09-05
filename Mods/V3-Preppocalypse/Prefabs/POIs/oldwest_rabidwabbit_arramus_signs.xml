@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="fbecba08-0145-405f-a5e3-4e213f245d68" name="New Sign" modified="2026-09-05 16:05:40Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3683214, 0.3683214" color="#D2BA7EFF" mode="ColorOnly" font="LiberationSans" text="Wabbits" direction="0" spacing="1.2" softness="0" dilate="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.09220704, 0.09220704" color="#688612FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.003453951" fade="0.6967023" />
+    <layer name="Noise 02" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.04982499, 0.04982499" color="#2E3C05FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.7" />
+  </sign>
+  <sign guid="5d47ad06-87c2-41ee-9457-be723615720f" name="New Sign" modified="2026-09-05 17:36:43Z" next_poly_id="0" next_text_id="1" next_noise_id="2" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.295, 0.295" color="#D2BA7EFF" mode="ColorOnly" font="LiberationSans" text="The Rabid" direction="0" spacing="1.2" softness="0" dilate="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.09220704, 0.09220704" color="#688612FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.003453951" fade="0.6967023" />
+    <layer name="Noise 02" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.04982499, 0.04982499" color="#2E3C05FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.7" />
+  </sign>
+  <sign guid="03dd5fb3-7b75-4320-b153-ada0ba1d9756" name="New Sign" modified="2026-09-05 17:37:38Z" next_poly_id="8" next_text_id="0" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="-0.3413342, 0.07904612" rot="-15" scale="0.1389874, 0.2205276" color="#D2BA7EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0.09858296, -0.1158037" rot="0" scale="0.501055, 0.189075" color="#D2BA7EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 03" type="PolygonSignLayer" pos="-0.4803808, 0.2204086" rot="110" scale="0.03140217, 0.1254362" color="#D2BA7EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 03" type="PolygonSignLayer" pos="-0.1641412, 0.217384" rot="70" scale="0.03140217, 0.1254362" color="#D2BA7EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 04" type="PolygonSignLayer" pos="0.5894268, -0.05651219" rot="35" scale="0.0751032, 0.04058277" color="#D2BA7EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 05" type="PolygonSignLayer" pos="-0.4150403, 0.1457762" rot="0" scale="0.04496706, 0.01612005" color="#F60000FF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 05" type="PolygonSignLayer" pos="-0.2550405, 0.1357762" rot="0" scale="0.04496706, 0.01612005" color="#F60000FF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 06" type="PolygonSignLayer" pos="-0.3752856, -0.1007085" rot="-5" scale="0.01382093, 0.02083285" color="#F60000FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 07" type="PolygonSignLayer" pos="-0.3752854, -0.1037331" rot="-5" scale="0.00345999, 0.02083291" color="#D2BA7EFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 08" type="PolygonSignLayer" pos="-0.2232147, -0.2841412" rot="0" scale="0.08759668, 0.0427187" color="#D2BA7EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 08" type="PolygonSignLayer" pos="-0.3125061, -0.2108988" rot="0" scale="0.08759668, 0.0427187" color="#D2BA7EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 08" type="PolygonSignLayer" pos="0.4952584, -0.2532146" rot="0" scale="0.1463025, 0.04058277" color="#D2BA7EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 08" type="PolygonSignLayer" pos="0.5022337, -0.1725336" rot="0" scale="0.1463025, 0.04058277" color="#D2BA7EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.09220704, 0.09220704" color="#688612FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.003453951" fade="0.6967023" />
+    <layer name="Noise 02" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.04982499, 0.04982499" color="#2E3C05FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.7" />
+  </sign>
+</signs>

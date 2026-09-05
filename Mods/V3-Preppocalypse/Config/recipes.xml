@@ -494,6 +494,17 @@
 		</effect_group>
 	</recipe>
 	
+	<recipe name="foodRadChiliPotato" count="1" craft_time="60" craft_area="campfire" craft_tool="toolCookingPot" tags="learnable,perkMasterChef">
+		<ingredient name="foodCropPotato" count="2"/>
+		<ingredient name="foodCanChili" count="2"/>
+		<ingredient name="foodCropMushroomsRadiated" count="8"/>
+		<ingredient name="foodCropGraceCorn" count="2"/>
+		<ingredient name="foodWildRice" count="20"/>
+		<effect_group>
+			<passive_effect name="CraftingIngredientCount" level="1,3" operation="base_add" value="-1,-2" tags="foodCropMushroomsRadiated"/>
+		</effect_group>
+	</recipe>
+	
 	<recipe name="foodGrilledYuccaFruit" count="1" craft_area="campfire" craft_tool="toolCookingGrill" tags="perkMasterChef,learnable">
 		<ingredient name="foodCropYuccaFruit" count="5"/>
 		<effect_group>

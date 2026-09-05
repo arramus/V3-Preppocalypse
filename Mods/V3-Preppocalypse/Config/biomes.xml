@@ -21,7 +21,8 @@
 			<decoration type="block" blockname="plantedPotato3Harvest" prob="0.04" rotatemax="7"/>
 			<decoration type="block" blockname="plantedHop3Harvest" prob="0.04" rotatemax="7"/>
 			<decoration type="block" blockname="plantedPumpkin3Harvest" prob="0.04" rotatemax="7"/>
-			<decoration type="block" blockname="plantedMushroom3Harvest" prob="0.04" rotatemax="7"/>	
+			<decoration type="block" blockname="plantedMushroom3Harvest" prob="0.04" rotatemax="7"/>
+			<decoration type="block" blockname="forestFlower" prob="0.02" rotatemax="7"/>
 	</append>
 	<!-- *** Pine Forest: Decorations Main -->
 	<append xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations">
@@ -36,7 +37,7 @@
 	
 	<!-- *** Burnt Forest: Sub Biome: Mushrooms, Thick Grass, and Shrubs -->
 	<append xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/subbiome[@noise='.033, 0, .3']/decorations">
-			<decoration type="block" blockname="plantedCoffee3Harvest" prob=".0025" rotatemax="7"/>
+			<decoration type="block" blockname="plantedCoffee3Harvest" prob=".003" rotatemax="7"/>
 	</append>
 
 	<!-- *** Desert: Sub Biome: Ring of Smaller Clustered Cactus and Desert Shrub -->

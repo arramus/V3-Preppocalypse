@@ -336,6 +336,7 @@
 		<item name="foodBlueberryBreadPudding"/>
 		<item name="foodSuperMeatStew"/>
 		<item name="foodSpicyWildRiceMeatballs"/>
+		<item name="foodRadChiliPotato"/>
 	</append>
 	
 	<!-- *** Prepper_Buried_Treasure_Map -->
@@ -378,6 +379,7 @@
 		<item name="foodNavezganeHDR"/>
 		<item name="foodFruitPieTrio"/>
 		<item name="foodSuperCornSupper"/>
+		<item name="foodRadChiliPotato"/>
 	</append>
 	
 	<!-- *** twitch_foodT1 -->
