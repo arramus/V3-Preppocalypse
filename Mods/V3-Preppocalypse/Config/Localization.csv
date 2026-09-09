@@ -727,6 +727,7 @@ zombieNailgunUtilityWorkerPREPPER,entityclasses,Entity,,,,Nailgun Utility Worker
 zombieNailgunUtilityWorkerRadiatedPREPPER,entityclasses,Entity,,,,Radiated Nailgun Utility Worker,,,,,,,,,,,,,
 zombieSwissVetterliWightPREPPER,entityclasses,Entity,,,,Swiss Vetterli Wight,,,,,,,,,,,,,
 zombieSwissVetterliWightRadiatedPREPPER,entityclasses,Entity,,,,Radiated Swiss Vetterli Wight,,,,,,,,,,,,,
+zombieSwissVetterliWightMilitaryPREPPER,entityclasses,Entity,,,,Military Swiss Vetterli Wight,,,,,,,,,,,,,
 zombieChainsawMoePREPPER,entityclasses,Entity,,,,Chainsaw Moe,,,,,,,,,,,,,
 zombieChainsawMoeRadiatedPREPPER,entityclasses,Entity,,,,Radiated Chainsaw Moe,,,,,,,,,,,,,
 zombieChainsawMoeChargedPREPPER,entityclasses,Entity,,,,Charged Chainsaw Moe,,,,,,,,,,,,,

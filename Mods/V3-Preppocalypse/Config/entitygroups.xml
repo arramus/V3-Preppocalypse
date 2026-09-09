@@ -556,6 +556,7 @@
 		<e n="zombieBigRancherMilitaryPREPPER" p="0.04" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.04" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.04" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" p="0.04" />
 		<e n="zombieBogeymanPlasmaPREPPER" p="0.04" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" p="0.04" />
 		<e n="animalZombieMegaPlasmaVulturePREPPER" p="0.04" />
@@ -881,6 +882,7 @@
 		<e n="zombieBigRancherMilitaryPREPPER" p="0.25" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.25" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.25" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" p="0.25" />
 		<e n="zombieBogeymanPlasmaPREPPER" p="0.25" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" p="0.25" />
 	</entitygroup>
@@ -957,6 +959,7 @@
 		<e n="zombieBigRancherMilitaryPREPPER" p="0.25" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.25" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.25" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" p="0.25" />
 		<e n="zombieBogeymanPlasmaPREPPER" p="0.25" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" p="0.25" />
 	</entitygroup>
@@ -1033,6 +1036,7 @@
 		<e n="zombieBigRancherMilitaryPREPPER" p="0.25" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.25" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.25" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" p="0.25" />
 		<e n="zombieBogeymanPlasmaPREPPER" p="0.25" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" p="0.25" />
 	</entitygroup>
@@ -1109,6 +1113,7 @@
 		<e n="zombieBigRancherMilitaryPREPPER" p="0.25" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.25" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.25" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" p="0.25" />
 		<e n="zombieBogeymanPlasmaPREPPER" p="0.25" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" p="0.25" />
 	</entitygroup>
@@ -1185,6 +1190,7 @@
 		<e n="zombieBigRancherMilitaryPREPPER" p="0.25" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.25" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.25" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" p="0.25" />
 		<e n="zombieBogeymanPlasmaPREPPER" p="0.25" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" p="0.25" />
 	</entitygroup>
@@ -1261,6 +1267,7 @@
 		<e n="zombieBigRancherMilitaryPREPPER" p="0.5" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.5" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.5" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" p="0.5" />
 		<e n="zombieBogeymanPlasmaPREPPER" p="0.5" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" p="0.5" />
 	</entitygroup>
@@ -1283,6 +1290,7 @@
 		<e n="zombieBigRancherMilitaryPREPPER" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" />
 		<e n="zombieBogeymanPlasmaPREPPER" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" />
 		<e n="zombieBogeymanMegaPlasmaPREPPER" />
@@ -1305,6 +1313,7 @@
 		<e n="zombieBigRancherMilitaryPREPPER" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" />
 		<e n="zombieBogeymanPlasmaPREPPER" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" />
 		<e n="zombieBogeymanMegaPlasmaPREPPER" />
@@ -1327,6 +1336,7 @@
 		<e n="zombieBigRancherMilitaryPREPPER" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" />
 		<e n="zombieBogeymanPlasmaPREPPER" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" />
 		<e n="zombieBogeymanMegaPlasmaPREPPER" />
@@ -1349,6 +1359,7 @@
 		<e n="zombieBigRancherMilitaryPREPPER" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" />
 		<e n="zombieBogeymanPlasmaPREPPER" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" />
 		<e n="zombieBogeymanMegaPlasmaPREPPER" />
@@ -1371,6 +1382,7 @@
 		<e n="zombieBigRancherMilitaryPREPPER" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" />
 		<e n="zombieBogeymanPlasmaPREPPER" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" />
 		<e n="zombieBogeymanMegaPlasmaPREPPER" />
@@ -1393,6 +1405,7 @@
 		<e n="zombieBigRancherMilitaryPREPPER" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" />
 		<e n="zombieBogeymanPlasmaPREPPER" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" />
 		<e n="zombieBogeymanMegaPlasmaPREPPER" />
@@ -1466,181 +1479,187 @@
 	<!-- Prepper Mixed Soldier Entities for GS -->
 	
 	<entitygroup name="PrepperMixedSoldierEntitiesGroupGS01">
-		<e n="zombieMiniSoldier" />		
+		<e n="zombieMiniSoldier" />
 		<e n="zombieMiniSoldierFeral" />
-		<e n="zombieMiniSoldierRadiated" />		
+		<e n="zombieMiniSoldierRadiated" />
 		<e n="zombieMiniTARifleSoldierPREPPER" />
 		<e n="zombieMiniTARifleSoldierRadiatedPREPPER" />
-		<e n="zombieMiniDemolition" />		
-		<e n="zombieMutated" />		
+		<e n="zombieMiniDemolition" />
+		<e n="zombieMutated" />
 		<e n="zombieMutatedFeral" />
-		<e n="zombieMutatedRadiated" />		
+		<e n="zombieMutatedRadiated" />
 		<e n="zombieTARifleSoldierPREPPER" />
 		<e n="zombieTARifleSoldierRadiatedPREPPER" />
 		<e n="zombieBogeymanPREPPER" />
-		<e n="zombieDemolition" />		
+		<e n="zombieDemolition" />
 		<e n="animalZombieBunnyBomberPREPPER" />
-		<e n="zombieSpiderFeralBomberPREPPER" />		
-		<e n="zombieSpiderFeralGliderPREPPER" />		
-		<e n="zombieBogeymanClaretPREPPER" p="0.5" />
-		<e n="zombieSpiderGliderClaretPREPPER" p="0.5" />		
-		<e n="zombieSpiderBomberClaretPREPPER" p="0.5" />		
-		<e n="zombieBogeymanMilitaryPREPPER" p="0.25" />
-		<e n="zombieChuckMilitaryPREPPER" p="0.25" />		
-		<e n="zombieSpiderBomberMilitaryPREPPER" p="0.25" />
-		<e n="zombieBigRancherMilitaryPREPPER" p="0.25" />
-		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.25" />
-		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.25" />
-		<e n="zombieBogeymanPlasmaPREPPER" p="0.25" />
-		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" p="0.25" />
+		<e n="zombieSpiderFeralBomberPREPPER" />
+		<e n="zombieSpiderFeralGliderPREPPER" />
+		<e n="zombieBogeymanClaretPREPPER" p="0.25" />
+		<e n="zombieSpiderGliderClaretPREPPER" p="0.25" />
+		<e n="zombieSpiderBomberClaretPREPPER" p="0.25" />
+		<e n="zombieBogeymanMilitaryPREPPER" p="0.15" />
+		<e n="zombieChuckMilitaryPREPPER" p="0.15" />		
+		<e n="zombieSpiderBomberMilitaryPREPPER" p="0.15" />
+		<e n="zombieBigRancherMilitaryPREPPER" p="0.15" />
+		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.15" />
+		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.15" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" p="0.15" />
+		<e n="zombieBogeymanPlasmaPREPPER" p="0.15" />
+		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" p="0.15" />
 	</entitygroup>
 	
 	<entitygroup name="PrepperMixedSoldierEntitiesGroupGS50">
-		<e n="zombieMiniSoldier" />		
+		<e n="zombieMiniSoldier" />
 		<e n="zombieMiniSoldierFeral" />
-		<e n="zombieMiniSoldierRadiated" />		
+		<e n="zombieMiniSoldierRadiated" />
 		<e n="zombieMiniTARifleSoldierPREPPER" />
 		<e n="zombieMiniTARifleSoldierRadiatedPREPPER" />
-		<e n="zombieMiniDemolition" />		
-		<e n="zombieMutated" />		
+		<e n="zombieMiniDemolition" />
+		<e n="zombieMutated" />
 		<e n="zombieMutatedFeral" />
-		<e n="zombieMutatedRadiated" />		
+		<e n="zombieMutatedRadiated" />
 		<e n="zombieTARifleSoldierPREPPER" />
 		<e n="zombieTARifleSoldierRadiatedPREPPER" />
 		<e n="zombieBogeymanPREPPER" />
-		<e n="zombieDemolition" />		
+		<e n="zombieDemolition" />
 		<e n="animalZombieBunnyBomberPREPPER" />
-		<e n="zombieSpiderFeralBomberPREPPER" />		
-		<e n="zombieSpiderFeralGliderPREPPER" />		
-		<e n="zombieBogeymanClaretPREPPER" p="0.5" />
-		<e n="zombieSpiderGliderClaretPREPPER" p="0.5" />		
-		<e n="zombieSpiderBomberClaretPREPPER" p="0.5" />		
-		<e n="zombieBogeymanMilitaryPREPPER" p="0.25" />
-		<e n="zombieChuckMilitaryPREPPER" p="0.25" />		
-		<e n="zombieSpiderBomberMilitaryPREPPER" p="0.25" />
-		<e n="zombieBigRancherMilitaryPREPPER" p="0.25" />
-		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.25" />
-		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.25" />
-		<e n="zombieBogeymanPlasmaPREPPER" p="0.25" />
-		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" p="0.25" />
+		<e n="zombieSpiderFeralBomberPREPPER" />
+		<e n="zombieSpiderFeralGliderPREPPER" />
+		<e n="zombieBogeymanClaretPREPPER" p="0.25" />
+		<e n="zombieSpiderGliderClaretPREPPER" p="0.25" />
+		<e n="zombieSpiderBomberClaretPREPPER" p="0.25" />
+		<e n="zombieBogeymanMilitaryPREPPER" p="0.15" />
+		<e n="zombieChuckMilitaryPREPPER" p="0.15" />		
+		<e n="zombieSpiderBomberMilitaryPREPPER" p="0.15" />
+		<e n="zombieBigRancherMilitaryPREPPER" p="0.15" />
+		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.15" />
+		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.15" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" p="0.15" />
+		<e n="zombieBogeymanPlasmaPREPPER" p="0.15" />
+		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" p="0.15" />
 	</entitygroup>
 	
 	<entitygroup name="PrepperMixedSoldierEntitiesGroupGS100">
-		<e n="zombieMiniSoldier" />		
+		<e n="zombieMiniSoldier" />	
 		<e n="zombieMiniSoldierFeral" />
-		<e n="zombieMiniSoldierRadiated" />		
+		<e n="zombieMiniSoldierRadiated" />
 		<e n="zombieMiniTARifleSoldierPREPPER" />
 		<e n="zombieMiniTARifleSoldierRadiatedPREPPER" />
-		<e n="zombieMiniDemolition" />		
-		<e n="zombieMutated" />		
+		<e n="zombieMiniDemolition" />
+		<e n="zombieMutated" />
 		<e n="zombieMutatedFeral" />
-		<e n="zombieMutatedRadiated" />		
+		<e n="zombieMutatedRadiated" />
 		<e n="zombieTARifleSoldierPREPPER" />
 		<e n="zombieTARifleSoldierRadiatedPREPPER" />
 		<e n="zombieBogeymanPREPPER" />
-		<e n="zombieDemolition" />		
+		<e n="zombieDemolition" />
 		<e n="animalZombieBunnyBomberPREPPER" />
-		<e n="zombieSpiderFeralBomberPREPPER" />		
-		<e n="zombieSpiderFeralGliderPREPPER" />		
+		<e n="zombieSpiderFeralBomberPREPPER" />
+		<e n="zombieSpiderFeralGliderPREPPER" />
 		<e n="zombieBogeymanClaretPREPPER" p="0.5" />
-		<e n="zombieSpiderGliderClaretPREPPER" p="0.5" />		
-		<e n="zombieSpiderBomberClaretPREPPER" p="0.5" />		
+		<e n="zombieSpiderGliderClaretPREPPER" p="0.5" />
+		<e n="zombieSpiderBomberClaretPREPPER" p="0.5" />
 		<e n="zombieBogeymanMilitaryPREPPER" p="0.25" />
-		<e n="zombieChuckMilitaryPREPPER" p="0.25" />		
+		<e n="zombieChuckMilitaryPREPPER" p="0.25" />
 		<e n="zombieSpiderBomberMilitaryPREPPER" p="0.25" />
 		<e n="zombieBigRancherMilitaryPREPPER" p="0.25" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.25" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.25" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" p="0.25" />
 		<e n="zombieBogeymanPlasmaPREPPER" p="0.25" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" p="0.25" />
 	</entitygroup>
 	
 	<entitygroup name="PrepperMixedSoldierEntitiesGroupGS200">
-		<e n="zombieMiniSoldier" />		
+		<e n="zombieMiniSoldier" />	
 		<e n="zombieMiniSoldierFeral" />
-		<e n="zombieMiniSoldierRadiated" />		
+		<e n="zombieMiniSoldierRadiated" />
 		<e n="zombieMiniTARifleSoldierPREPPER" />
 		<e n="zombieMiniTARifleSoldierRadiatedPREPPER" />
-		<e n="zombieMiniDemolition" />		
-		<e n="zombieMutated" />		
+		<e n="zombieMiniDemolition" />
+		<e n="zombieMutated" />
 		<e n="zombieMutatedFeral" />
-		<e n="zombieMutatedRadiated" />		
+		<e n="zombieMutatedRadiated" />
 		<e n="zombieTARifleSoldierPREPPER" />
 		<e n="zombieTARifleSoldierRadiatedPREPPER" />
 		<e n="zombieBogeymanPREPPER" />
-		<e n="zombieDemolition" />		
+		<e n="zombieDemolition" />
 		<e n="animalZombieBunnyBomberPREPPER" />
-		<e n="zombieSpiderFeralBomberPREPPER" />		
-		<e n="zombieSpiderFeralGliderPREPPER" />		
+		<e n="zombieSpiderFeralBomberPREPPER" />
+		<e n="zombieSpiderFeralGliderPREPPER" />
 		<e n="zombieBogeymanClaretPREPPER" p="0.5" />
-		<e n="zombieSpiderGliderClaretPREPPER" p="0.5" />		
-		<e n="zombieSpiderBomberClaretPREPPER" p="0.5" />		
+		<e n="zombieSpiderGliderClaretPREPPER" p="0.5" />
+		<e n="zombieSpiderBomberClaretPREPPER" p="0.5" />
 		<e n="zombieBogeymanMilitaryPREPPER" p="0.25" />
-		<e n="zombieChuckMilitaryPREPPER" p="0.25" />		
+		<e n="zombieChuckMilitaryPREPPER" p="0.25" />
 		<e n="zombieSpiderBomberMilitaryPREPPER" p="0.25" />
 		<e n="zombieBigRancherMilitaryPREPPER" p="0.25" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.25" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.25" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" p="0.25" />
 		<e n="zombieBogeymanPlasmaPREPPER" p="0.25" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" p="0.25" />
 	</entitygroup>
 	
 	<entitygroup name="PrepperMixedSoldierEntitiesGroupGS400">
-		<e n="zombieMiniSoldier" />		
+		<e n="zombieMiniSoldier" />	
 		<e n="zombieMiniSoldierFeral" />
-		<e n="zombieMiniSoldierRadiated" />		
+		<e n="zombieMiniSoldierRadiated" />
 		<e n="zombieMiniTARifleSoldierPREPPER" />
 		<e n="zombieMiniTARifleSoldierRadiatedPREPPER" />
-		<e n="zombieMiniDemolition" />		
-		<e n="zombieMutated" />		
+		<e n="zombieMiniDemolition" />
+		<e n="zombieMutated" />
 		<e n="zombieMutatedFeral" />
-		<e n="zombieMutatedRadiated" />		
+		<e n="zombieMutatedRadiated" />
 		<e n="zombieTARifleSoldierPREPPER" />
 		<e n="zombieTARifleSoldierRadiatedPREPPER" />
 		<e n="zombieBogeymanPREPPER" />
-		<e n="zombieDemolition" />		
+		<e n="zombieDemolition" />
 		<e n="animalZombieBunnyBomberPREPPER" />
-		<e n="zombieSpiderFeralBomberPREPPER" />		
-		<e n="zombieSpiderFeralGliderPREPPER" />		
+		<e n="zombieSpiderFeralBomberPREPPER" />
+		<e n="zombieSpiderFeralGliderPREPPER" />
 		<e n="zombieBogeymanClaretPREPPER" p="0.5" />
-		<e n="zombieSpiderGliderClaretPREPPER" p="0.5" />		
-		<e n="zombieSpiderBomberClaretPREPPER" p="0.5" />		
+		<e n="zombieSpiderGliderClaretPREPPER" p="0.5" />
+		<e n="zombieSpiderBomberClaretPREPPER" p="0.5" />
 		<e n="zombieBogeymanMilitaryPREPPER" p="0.25" />
-		<e n="zombieChuckMilitaryPREPPER" p="0.25" />		
+		<e n="zombieChuckMilitaryPREPPER" p="0.25" />
 		<e n="zombieSpiderBomberMilitaryPREPPER" p="0.25" />
 		<e n="zombieBigRancherMilitaryPREPPER" p="0.25" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.25" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.25" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" p="0.25" />
 		<e n="zombieBogeymanPlasmaPREPPER" p="0.25" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" p="0.25" />
 	</entitygroup>
 	
 	<entitygroup name="PrepperMixedSoldierEntitiesGroupGS800">
-		<e n="zombieMiniSoldier" />		
+		<e n="zombieMiniSoldier" />
 		<e n="zombieMiniSoldierFeral" />
-		<e n="zombieMiniSoldierRadiated" />		
+		<e n="zombieMiniSoldierRadiated" />
 		<e n="zombieMiniTARifleSoldierPREPPER" />
 		<e n="zombieMiniTARifleSoldierRadiatedPREPPER" />
-		<e n="zombieMiniDemolition" />		
-		<e n="zombieMutated" />		
+		<e n="zombieMiniDemolition" />
+		<e n="zombieMutated" />
 		<e n="zombieMutatedFeral" />
-		<e n="zombieMutatedRadiated" />		
+		<e n="zombieMutatedRadiated" />
 		<e n="zombieTARifleSoldierPREPPER" />
 		<e n="zombieTARifleSoldierRadiatedPREPPER" />
 		<e n="zombieBogeymanPREPPER" />
-		<e n="zombieDemolition" />		
+		<e n="zombieDemolition" />
 		<e n="animalZombieBunnyBomberPREPPER" />
-		<e n="zombieSpiderFeralBomberPREPPER" />		
-		<e n="zombieSpiderFeralGliderPREPPER" />		
+		<e n="zombieSpiderFeralBomberPREPPER" />
+		<e n="zombieSpiderFeralGliderPREPPER" />
 		<e n="zombieBogeymanClaretPREPPER" p="0.5" />
-		<e n="zombieSpiderGliderClaretPREPPER" p="0.5" />		
-		<e n="zombieSpiderBomberClaretPREPPER" p="0.5" />		
+		<e n="zombieSpiderGliderClaretPREPPER" p="0.5" />
+		<e n="zombieSpiderBomberClaretPREPPER" p="0.5" />
 		<e n="zombieBogeymanMilitaryPREPPER" p="0.5" />
-		<e n="zombieChuckMilitaryPREPPER" p="0.5" />		
+		<e n="zombieChuckMilitaryPREPPER" p="0.5" />
 		<e n="zombieSpiderBomberMilitaryPREPPER" p="0.5" />
 		<e n="zombieBigRancherMilitaryPREPPER" p="0.5" />
 		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.5" />
 		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.5" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" p="0.25" />
 		<e n="zombieBogeymanPlasmaPREPPER" p="0.5" />
 		<e n="zombieMiniBogeymanPlasmaSpitterPREPPER" p="0.5" />
 	</entitygroup>
@@ -2822,26 +2841,27 @@
 		<e n="zombieBigNightSteveCrawlerRadiated" p="0.25" />
 		<e n="zombieBigNightSteveCrawlerPlasmaRadiated" p="0.25" />
 		<e n="zombieBigNightSkateboarderClawHammerRadiated" p="0.25" />
-		<e n="zombieBigNightSkateboarderUndertakerRadiated" p="0.25" />		
+		<e n="zombieBigNightSkateboarderUndertakerRadiated" p="0.25" />
 		<e n="animalDireFireWolf" p="0.25" />
 		<e n="animalMiniDireWolf" p="0.25" />
 		<e n="animalZombieBunnyBomberPREPPER" p="0.25" />
 		<e n="zombieBigNightJetRocketPREPPER" p="0.15" />
 		<e n="zombieBigNightJetRocketRadiatedPREPPER" p="0.15" />
-		<e n="zombieSteelAxeLumberjackChargedPREPPER" p="0.15" />		
+		<e n="zombieSteelAxeLumberjackChargedPREPPER" p="0.15" />
 		<e n="zombieSteelAxeLumberjackInfernalPREPPER" p="0.15" />
 		<e n="zombieMachetePartyGirlChargedPREPPER" p="0.15" />
 		<e n="zombieMachetePartyGirlInfernalPREPPER" p="0.15" />
 		<e n="zombieChainsawMoeChargedPREPPER" p="0.15" />
 		<e n="zombieChainsawMoeInfernalPREPPER" p="0.15" />
-		<e n="animalZombiePlasmaSnakePREPPER" p="0.1" />		
+		<e n="animalZombiePlasmaSnakePREPPER" p="0.1" />
 		<e n="animalZombieFireSnakePREPPER" p="0.1" />
-		<e n="zombieBogeymanMilitaryPREPPER" p="0.1" />
-		<e n="zombieChuckMilitaryPREPPER" p="0.1" />
-		<e n="zombieSpiderBomberMilitaryPREPPER" p="0.1" />
-		<e n="zombieBigRancherMilitaryPREPPER" p="0.1" />
-		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.1" />
-		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.1" />		
+		<e n="zombieBogeymanMilitaryPREPPER" p="0.075" />
+		<e n="zombieChuckMilitaryPREPPER" p="0.075" />
+		<e n="zombieSpiderBomberMilitaryPREPPER" p="0.075" />
+		<e n="zombieBigRancherMilitaryPREPPER" p="0.075" />
+		<e n="zombieAutoShotgunDarleneMilitaryPREPPER" p="0.075" />
+		<e n="zombieDesertVultureTomClarkMilitaryPREPPER" p="0.075" />
+		<e n="zombieSwissVetterliWightMilitaryPREPPER" p="0.075" />
 	</insertAfter> <!-- GS 147 -->	
 	
 	<!-- *** FERAL_HORDE_STAGES -->

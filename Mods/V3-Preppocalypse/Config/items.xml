@@ -726,7 +726,7 @@
 				<property name="Use_time" value="0"/>
 				<property name="Sound_start" value="open_supply_crate"/>
 				<property name="Create_item" value="meleeToolSalvageT1Wrench,resourceWood,resourceRockSmall,resourceYuccaFibers,resourceFeather,meleeWpnBladeT1HuntingKnife,gun22HandgunT0Pistol,ammo22ShortBulletBall,modGunScopeSmall,drinkJarRedTea,foodBaconAndEggsAndAcornBiscuits,questRewardT1SkillMagazineBundle,vehicleBicyclePlaceable,resourceRepairKit,quest_prepperivstandscreamer01,modArmorHelmetLight,modArmorStormBreaker,keystoneBlock"/>
-				<property name="Create_item_count" value="2-3,100,50,50,25,2-3,2-3,222,1,2,1,1,1,3,1,1,1"/>
+				<property name="Create_item_count" value="2-3,100,50,50,25,2-3,2-3,666,1,2,1,1,1,3,1,1,1"/>
 			</property>
 		</item>
 	
@@ -4238,7 +4238,7 @@
 		<passive_effect name="BurstRoundCount" operation="base_set" value="1" tags="perkDeadEye"/>
 		<passive_effect name="MagazineSize" operation="base_set" value="13" tags="perkDeadEye"/><!-- Default 5 -->
 		<passive_effect name="ReloadSpeedMultiplier" operation="base_set" value="1" tags="perkDeadEye"/> <!-- 2.7s -->
-		<passive_effect name="ModSlots" operation="base_set" value="3,3,3,4,4,5" tier="1,2,3,4,5,6"/>
+		<passive_effect name="ModSlots" operation="base_set" value="3,3,3,4,4,5" tier="1,2,3,4,5,6"/> <!-- Default 3,3,3,4,4,4 -->
 		<passive_effect name="ModPowerBonus" operation="perc_add" value=".10" tags="EntityDamage,BlockDamage"/>
 		<passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
 		<passive_effect name="EntityDamage" operation="base_add" value="40" tags="perkDeadEye"/> <!-- Default 29 Lever and 53 Sniper damage offset -->
@@ -4378,7 +4378,7 @@
 		<stat name="DegradationMax" 		value="6,20,.3,.5,.7"/>
 	</stats>
 	
-	<effect_group name="gunHandgunT1Pistol">
+	<effect_group name="gun22HandgunT0Pistol">
 		<passive_effect name="MaxRange" operation="base_set" value="25" tags="perkGunslinger,9mmGun"/> <!-- Default 50 -->
 		<passive_effect name="DamageFalloffRange" operation="base_set" value="9" tags="perkGunslinger,9mmGun"/> <!-- Default 17 -->
 		<passive_effect name="DamageFalloffRange" operation="perc_add" value="-.2,.2" tier="1,6" tags="perkGunslinger,9mmGun"/> <!-- random effective rng -->
@@ -4386,7 +4386,7 @@
 		<passive_effect name="BurstRoundCount" operation="base_set" value="1" tags="perkGunslinger"/> <!-- Default 1 -->
 		<passive_effect name="MagazineSize" operation="base_set" value="22" tags="perkGunslinger"/> <!-- Default 15 -->
 		 <!--<passive_effect name="ReloadSpeedMultiplier" operation="base_set" value="1" tags="perkGunslinger"/> 2s -->
-		<passive_effect name="ModSlots" operation="base_set" value="2,2,2,3,3,4" tier="1,2,3,4,5,6"/>
+		<passive_effect name="ModSlots" operation="base_set" value="3,3,3,4,4,5" tier="1,2,3,4,5,6"/> <!-- Default value 2,2,2,3,3,4 -->
 		<passive_effect name="ModPowerBonus" operation="perc_add" value=".10" tags="EntityDamage,BlockDamage"/>
 		<passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
 		<passive_effect name="EntityDamage" operation="base_add" value="3" tags="perkGunslinger"/> <!-- damage offset --> <!-- Default 5 -->
@@ -4536,7 +4536,7 @@
 		<passive_effect name="DegradationPerUse" operation="base_set" value="1" tags="perkPummelPete"/>
 		<passive_effect name="MaxRange" operation="base_set" value="2.4" tags="perkPummelPete"/>
 		<passive_effect name="BlockRange" operation="base_set" value="3" tags="perkPummelPete"/>
-		<passive_effect name="ModSlots" operation="base_set" value="2,2,2,3,3,4" tier="1,2,3,4,5,6"/>
+		<passive_effect name="ModSlots" operation="base_set" value="3,3,3,4,4,5" tier="1,2,3,4,5,6"/> <!-- Default value 2,2,2,3,3,4 -->
 		<passive_effect name="ModPowerBonus" operation="perc_add" value=".10" tags="EntityDamage,BlockDamage"/>
 		<passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
 		<passive_effect name="EntityDamage" operation="base_set" value="22" tags="perkPummelPete"/> <!-- meleeWpnClubT1BaseballBat --> <!-- Default 20 -->
@@ -4679,7 +4679,7 @@
 		<passive_effect name="DegradationPerUse" operation="base_set" value="1" tags="perkPummelPete"/>
 		<passive_effect name="MaxRange" operation="base_set" value="2.4" tags="perkPummelPete"/>
 		<passive_effect name="BlockRange" operation="base_set" value="3" tags="perkPummelPete"/>
-		<passive_effect name="ModSlots" operation="base_set" value="3,3,3,4,4,5" tier="1,2,3,4,5,6"/>
+		<passive_effect name="ModSlots" operation="base_set" value="3,3,3,4,4,5" tier="1,2,3,4,5,6"/> <!-- Default value 3,3,3,4,4,4 -->
 		<passive_effect name="ModPowerBonus" operation="perc_add" value=".10" tags="EntityDamage,BlockDamage"/>
 		<passive_effect name="ModPowerBonus" operation="base_add" value="300" tags="EconomicValue"/>
 		<passive_effect name="EntityDamage" operation="base_set" value="35.8" tags="perkPummelPete"/> <!-- meleeWpnClubT3SteelClub --> <!-- Default 32.5 -->
@@ -6205,6 +6205,82 @@
 			<property name="Buff" value="buffInfectionCatch"/>
 		</property>
 		<effect_group name="ammoProjectileZombieSniperWightPREPPER" tiered="false">
+			<passive_effect name="ModSlots" operation="base_set" value="0"/>
+			<passive_effect name="DamageModifier" operation="perc_set" value="0" tags="earth"/>
+			<passive_effect name="DamageModifier" operation="perc_set" value="0.5" tags="stone"/>
+			<passive_effect name="DamageModifier" operation="perc_add" value="1.2" tags="metal"/>
+			<passive_effect name="BuffProcChance" operation="base_set" value=".01" tags="buffInfectionCatch"/>
+			<triggered_effect trigger="onSelfAttackedOther" action="ModifyCVar" target="other" cvar="infectionCounter" operation="add" value="10"><!--InfectionRegular-->
+				<requirement name="CVarCompare" target="other" cvar="infectionCounter" operation="GT" value="0"/></triggered_effect>
+			<triggered_effect trigger="onSelfAttackedOther" action="ModifyCVar" target="other" cvar="abrasionZombieHit" operation="set" value="1800"/><!--AbrasionRegular-->
+			<triggered_effect trigger="onSelfDamagedOther" action="PlaySound" sound="lever_action_rifle_fire"/>
+		</effect_group>
+	</item>
+	
+<item name="meleeHandZombieSniperWightMilitaryPREPPER">
+	<property name="Extends" value="meleeHandZombieStrong"/>
+	<property name="CreativeMode" value="None"/>
+	<property name="HoldType" value="9"/>
+	<property class="Action0">
+		<property name="DamageEntity" value="25"/>
+		<property name="DamageBlock" value="100"/>
+	</property>
+		<property class="Action1"> <!-- UseAction -->		
+			<property name="Class" value="Vomit"/>
+			<property name="Hitmask_override" value="Arrow"/>
+			<property name="Delay" value=".3"/> <!-- obsolete if rounds per minute exists -->
+			<property name="Range" value="200"/>
+			<property name="Infinite_ammo" value="true"/>
+			<property name="Magazine_items" value="ammoProjectileZombieSniperWightMilitaryPREPPER"/>
+			<property name="Sound_warning" value="m60_reload"/>
+			<property name="Sound_start" value="lever_action_rifle_fire"/>
+			<property name="Sound_loop" value="smg_fire"/>
+			<property name="Sound_end" value="smg_fire_end"/>
+			<property name="Sound_empty" value="dryfire"/>
+			<property name="Sound_reload" value="m60_reload"/>
+			<property name="Particles_muzzle_fire" value="gunfire_pistol"/>
+			<property name="Particles_muzzle_fire_fpv" value="gunfire_magnum_fpv"/>		
+		</property>
+		<effect_group name="meleeHandZombieSniperWightMilitaryPREPPER" tiered="false">
+			<passive_effect name="ModSlots" operation="base_set" value="0"/>
+			<!--<passive_effect name="AttacksPerMinute" operation="base_set" value="75"/>  A16 .8 -->
+			<passive_effect name="DamageFalloffRange" operation="base_set" value="70"/>
+			<passive_effect name="MaxRange" operation="base_set" value="100"/>
+			<passive_effect name="MagazineSize" operation="base_set" value="20"/>
+			<passive_effect name="BurstRoundCount" operation="base_set" value="2"/>
+			<passive_effect name="SpreadDegreesVertical" operation="base_set" value="0.4"/>
+			<passive_effect name="SpreadDegreesHorizontal" operation="base_set" value="0.4"/>
+			<passive_effect name="SpreadMultiplierIdle" operation="base_set" value="0.4"/>
+
+			<triggered_effect trigger="onSelfAttackedOther" action="AddBuff" target="other" fireOneBuff="true"
+				buff="buffFatiguedTrigger,buffArmSprainedCHTrigger,buffLegSprainedCHTrigger,buffLaceration,buffAbrasionCatch,buffInjuryStunned01CHTrigger,buffInjuryBleedingTwo"
+				weights=".11,.07,.07,.05,.29,.36,.11"/>
+
+			<triggered_effect trigger="onSelfAttackedOther" action="ModifyCVar" target="other" cvar="infectionCounter" operation="add" value="10"><!--InfectionRegular-->
+				<requirement name="CVarCompare" target="other" cvar="infectionCounter" operation="GT" value="0"/></triggered_effect>
+			<triggered_effect trigger="onSelfAttackedOther" action="ModifyCVar" target="other" cvar="abrasionZombieHit" operation="set" value="1800"/><!--AbrasionRegular-->
+		</effect_group>
+	</item>
+	
+	<item name="ammoProjectileZombieSniperWightMilitaryPREPPER">
+		<property name="Meshfile" value="@:Entities/Electrical/steel_dartPrefab.prefab"/>
+		<property name="Material" value="Morganic"/>
+		<property name="CreativeMode" value="None"/>
+		<property class="Action1">
+			<property name="Class" value="Projectile"/>
+			<property name="DamageEntity" value="8"/>
+			<property name="DamageBlock" value="20"/>
+			<!-- property name="Explosion.ParticleIndex" value="7"/ -->
+			<property name="Velocity" value="30"/>
+			<property name="FlyTime" value="2"/>
+			<property name="LifeTime" value="4"/>
+			<property name="CollisionRadius" value=".1"/>
+			<property class="DamageBonus">
+				<property name="earth" value="0"/>
+			</property>
+			<property name="Buff" value="buffInfectionCatch"/>
+		</property>
+		<effect_group name="ammoProjectileZombieSniperWightMilitaryPREPPER" tiered="false">
 			<passive_effect name="ModSlots" operation="base_set" value="0"/>
 			<passive_effect name="DamageModifier" operation="perc_set" value="0" tags="earth"/>
 			<passive_effect name="DamageModifier" operation="perc_set" value="0.5" tags="stone"/>
