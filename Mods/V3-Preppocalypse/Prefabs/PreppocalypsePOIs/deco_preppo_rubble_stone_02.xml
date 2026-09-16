@@ -12,7 +12,7 @@
   <property name="PrefabSize" value="7, 11, 7" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="EditorGroups" value="world/deco/biome" />
-  <property name="Tags" value="biomeonly" />
+  <property name="Tags" value="biomeonly,devonly,part" />
   <property name="Zoning" value="none" />
   <property class="Stats">
     <property name="LightsVolume" value="268.0826" />

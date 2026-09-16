@@ -129,6 +129,12 @@ perkPrepperPlanner8CompleteLongDesc,progression,perk  book,,,,Preppo Trophy and 
 perkPrepperPlanner8CompleteName,progression,perk  book,,,,Prepper Planner - Completion,,Prepper Planner – Vervollständigung,,,,,,,,,,,
 
 carlot_02_prepper,POI,POIName,,x,,Prepper Carl's Cars,,,,,,,,,,,,,
+deco_desertsmallcamp_01,POI,POIName,,x,,Prepper Cactus Wagon Camp,,,,,,,,,,,,,
+deco_desertsmallcamp_02,POI,POIName,,x,,Prepper Broken Wagon Camp,,,,,,,,,,,,,
+deco_forestsmallcamp_01,POI,POIName,,x,,Prepper Wagon Camp,,,,,,,,,,,,,
+deco_forestsmallcamp_02,POI,POIName,,x,,Prepper Construction Camp,,,,,,,,,,,,,
+deco_snowprepper8x8_01,POI,POIName,,x,,Prepper Shelter,,,,,,,,,,,,,
+deco_snowprepper8x8_02,POI,POIName,,x,,Prepper Tent,,,,,,,,,,,,,
 evildeadcabin01_prepper,POI,POIName,,x,,Evil Zed Cabin,,,,,,,,,,,,,
 oldwest_25x50_corn_01_arramus,POI,POIName,,x,,Mr T's Super Special Catacorn,,,,,,,,,,,,,
 oldwest_A19_skyscraper_02,POI,POIName,,x,,Old West Classic Crack-a-Book HQ,,,,,,,,,,,,,

@@ -12,7 +12,7 @@
   <property name="PrefabSize" value="7, 6, 7" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="EditorGroups" value="world/deco/biome" />
-  <property name="Tags" value="biomeonly" />
+  <property name="Tags" value="biomeonly,devonly,part" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="7, 4, 7" />
   <property name="SleeperVolumeStart" value="0, 1, 0" />
