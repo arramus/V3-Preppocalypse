@@ -2,6 +2,9 @@
 
 	<!-- *** HEALER_CHALLENGES -->
 	<append xpath="/challenges/challenge[@name='healerInfection']/objective/@item">,foodChickSticks,foodHoneyComb,foodHoneyBread,foodHoneyPumpkinPie,foodBlueberryBreadPudding,foodHoneyGlazedDonuts,drinkHoneyBeer,foodCatfishNuggetsOnRice,foodAcornFlour,foodAcornBiscuits,foodBaconAndEggsAndAcornBiscuits,foodGritsAndBits,foodPineConeJam,foodPineConeJamGriddleCakes,foodPrepperJerky,foodJerkyAndEggs,foodBoneBrothSpruceStew,foodBoneBrothStew,foodNavezganeHDR,foodSuperHoneyPopcorn,foodSuperCornSupper,foodSuperCornFluffyOmelette,foodRadPastryBake</append>
+	<set xpath="/challenges/challenge[@name='healerDysentery']/objective/@count">1</set><!-- Default is 5 -->
+	<set xpath="/challenges/challenge[@name='healerConcussion']/objective/@count">1</set><!-- Default is 5 -->
+	<set xpath="/challenges/challenge[@name='healerFatigued']/objective/@count">1</set><!-- Default is 5 -->
 	
 	<!-- *** HUNTER_CHALLENGES -->
 	<append xpath="/challenges/challenge[@name='killRabbits']/objective[@type='Kill']/@entity_names">,animalZombieBunnyPREPPER,animalZombieBunnyBomberPREPPER</append>
