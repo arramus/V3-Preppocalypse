@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="406d0c0f-b91e-4f47-b30f-1815a4ad5292" name="New Sign" modified="2026-09-19 15:37:23Z" next_poly_id="4" next_text_id="7" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 0.5010551" color="#161212FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.3499999" rot="0" scale="0.3, 0.3" color="#C1B976FF" mode="ColorOnly" font="Stardos Stencil" text="Notice Board" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.527427, 0.3683226" color="#1B0606FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.2200143" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0.5929142, -0.1150954" rot="0" scale="0.27075, 0.27075" color="#BCBCBCFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 02" type="TextSignLayer" pos="0.5959391, 0.09277918" rot="0" scale="0.162108, 0.162108" color="#AB1757FF" mode="ColorOnly" font="Dancing Script" text="Never" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 03" type="TextSignLayer" pos="0.5929143, -0.02580371" rot="0" scale="0.132038, 0.132038" color="#AB1757FF" mode="ColorOnly" font="Dancing Script" text="cook in the" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 04" type="TextSignLayer" pos="0.6898898, -0.1478743" rot="0" scale="0.132038, 0.132038" color="#AB1757FF" mode="ColorOnly" font="Dancing Script" text="bunker" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 05" type="TextSignLayer" pos="0.58989, -0.309945" rot="0" scale="0.0751032, 0.0751032" color="#AB1757FF" mode="ColorOnly" font="Dancing Script" text="They WILL come!" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Poly 03" type="PolygonSignLayer" pos="-0.3348226, -0.1848499" rot="0" scale="0.584406, 0.27075" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 06" type="TextSignLayer" pos="-0.3278472, 0.01743875" rot="0" scale="0.1463025, 0.1463025" color="#274561FF" mode="ColorOnly" font="Permanent Marker" text="Chores" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 07" type="TextSignLayer" pos="-0.4578195, -0.1185829" rot="0" scale="0.1021685, 0.1021685" color="#612727FF" mode="ColorOnly" font="Permanent Marker" text="- Need some meat" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 07" type="TextSignLayer" pos="-0.3478196, -0.208583" rot="0" scale="0.09220705, 0.09220705" color="#274561FF" mode="ColorOnly" font="Permanent Marker" text="- Clean the septic tank" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 07" type="TextSignLayer" pos="-0.3678196, -0.2985829" rot="0" scale="0.09706005, 0.09706005" color="#466127FF" mode="ColorOnly" font="Permanent Marker" text="- Seed the hydroponics" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Poly 04" type="PolygonSignLayer" pos="-0.8719331, 0.04790186" rot="0" scale="0.0242984, 0.0242984" color="#A29028FF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 04" type="PolygonSignLayer" pos="0.2034603, 0.03651227" rot="0" scale="0.0242984, 0.0242984" color="#A29028FF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 04" type="PolygonSignLayer" pos="0.6033776, 0.1255584" rot="0" scale="0.01786155, 0.01786155" color="#5E2F8EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 07" type="TextSignLayer" pos="-0.3378196, -0.3885829" rot="0" scale="0.0875967, 0.0875967" color="#274561FF" mode="ColorOnly" font="Permanent Marker" text="- Ammo is Low (make 5K)" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+</signs>

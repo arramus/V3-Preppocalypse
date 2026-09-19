@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="685f806e-b440-4131-bc72-e9faef89c520" name="New Sign" modified="2026-09-19 03:06:01Z" next_poly_id="2" next_text_id="1" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 1.027437" color="#2A1717FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.006975466, 0.7961565" rot="0" scale="0.2572125, 0.2572125" color="#FFFFFFFF" mode="ColorOnly" font="Dancing Script" text="Moved to Whiteriver" direction="0" spacing="1" softness="0.1968729" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.006975466, 0.4961568" rot="0" scale="0.2572125, 0.2572125" color="#FFFFFFFF" mode="ColorOnly" font="Dancing Script" text="on a V.I.P. ticket" direction="0" spacing="1" softness="0.1968729" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.006975466, -0.003843071" rot="0" scale="0.2443519, 0.2443519" color="#FFFFFFFF" mode="ColorOnly" font="Dancing Script" text="Use this base well!" direction="0" spacing="1" softness="0.1968729" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.003024548, -0.2638431" rot="0" scale="0.2321343, 0.2321343" color="#FFFFFFFF" mode="ColorOnly" font="Dancing Script" text="We won't be needing it" direction="0" spacing="1" softness="0.1968729" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.4708441, -0.7661311" rot="0" scale="0.2321343, 0.2321343" color="#FFFFFFFF" mode="ColorOnly" font="Dancing Script" text="Dee &amp; Jed" direction="0" spacing="1" softness="0.1968729" dilate="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.1075458, 0.01125723" color="#2A1717FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0.01918995" fade="0.2110875" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.1021685, 0.0230835" color="#3C2727FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0.1023314" fade="0.2031557" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.1021685, 0.02692347" color="#A1937DFF" mode="ColorOnly" seed="0" detail="4" softness="0.1" dilate="-0.3024589" fade="0" />
+  </sign>
+</signs>
