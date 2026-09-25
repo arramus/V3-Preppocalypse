@@ -1,8 +1,5 @@
 <Preppocalypse>
 
-	<!-- Edit player entity to increase inventory size - KhaineGB -->
-	<set xpath="/entity_classes/entity_class[@name='playerMale']/effect_group/triggered_effect[@cvar='.carryCapacityBase'][@value='27']/@value">40</set>
-	<set xpath="/entity_classes/entity_class[@name='playerMale']/effect_group/passive_effect[@name='BagSize'][@value='45']/@value">60</set>
 	<!-- Load out kit with Preppocalypse influence -->
 	<set xpath="/entity_classes/entity_class[contains(@name,'playerMale')]/property/property[contains(@name,'GameModeSurvival')]/@value">PreppocalypseStarterKit,medicalFirstAidBandage,meleeToolTorch,noteDuke01,quest_stunbatonhazmat,quest_eliminatezombies10,quest_eliminateanimals01,quest_prepperstockpile01,quest_preppocommtower</set>	
 	<set xpath="/entity_classes/entity_class[contains(@name,'playerMale')]/property/property[contains(@name,'GameModeSurvivalSP')]/@value">PreppocalypseStarterKit,medicalFirstAidBandage,meleeToolTorch,quest_stunbatonhazmat,quest_eliminatezombies10,quest_eliminateanimals01,quest_prepperstockpile01,quest_preppocommtower</set>	

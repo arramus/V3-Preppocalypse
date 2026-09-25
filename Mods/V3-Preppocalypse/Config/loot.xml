@@ -48,9 +48,6 @@
 		<item group="groupWeaponsT0_PreppoMachinegunner"/>
 	</append>
 	
-    <!-- Make player dropped bags bigger to accomodate new size KhaineGB -->
-	<set xpath="/lootcontainers/lootcontainer[@name='playerBackpack']/@size">10,10</set>
-	
     <!-- Increase Vehicle Container Size +2 except 4x4 at +1 -->
 	<set xpath="/lootcontainers/lootcontainer[@name='vehicleBicycle']/@size">10,3</set> <!-- Default is 10,1 -->
 	<set xpath="/lootcontainers/lootcontainer[@name='vehicleMinibike']/@size">10,5</set> <!-- Default is 10,3 -->
