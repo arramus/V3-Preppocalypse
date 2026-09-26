@@ -1,0 +1,7 @@
+<configs>
+
+	<!-- Adding Preppo green for context -->
+	<set xpath="/styles/style[@name='paging.window.background.border'][@type='sprite']/style_entry[@name='color']/@value">0,45,0,255</set>
+	<set xpath="/styles/style[@name='paging.window.name.background'][@type='sprite']/style_entry[@name='color']/@value">0,45,0,255</set>
+
+</configs>
