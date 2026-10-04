@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="e3f3de88-efc1-431f-b41d-be915f3b1eac" name="New Sign" modified="2026-03-13 17:49:47Z" next_poly_id="0" next_text_id="0" next_noise_id="0" next_group_id="0">
+    <layer name="" type="NoiseSignLayer" pos="0, 0" rot="-7.450581E-08" scale="0.7552608, 0.03140219" color="#FFFFFFFF" mode="PunchOut" seed="0" detail="4" softness="0" dilate="-0.119403" fade="0" />
+    <layer name="" type="TextSignLayer" pos="0, 0" rot="0" scale="0.584406, 0.584406" color="#A3A3A3FF" mode="ColorOnly" font="Stardos Stencil" text="EARL'S" direction="0" spacing="1" softness="0" dilate="0.2089552" />
+    <layer name="" type="NoiseSignLayer" pos="0, 0" rot="-7.450581E-08" scale="0.7552608, 0.03140219" color="#FFFFFFFF" mode="PunchOut" seed="0" detail="4" softness="0" dilate="-0.119403" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.293669, -0.3236349" rot="-7.450581E-08" scale="2.158473, 2.158473" color="#FFFFFFFF" mode="PunchOut" seed="0" detail="6" softness="0" dilate="-0.2089552" fade="0" />
+    <layer name="" type="TextSignLayer" pos="0, 0" rot="0" scale="0.584406, 0.584406" color="#DFE5ECFF" mode="ColorOnly" font="Stardos Stencil" text="EARL'S" direction="0" spacing="1" softness="0" dilate="0.2089552" />
+    <layer name="" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.4295919, 0.4295919" color="#636A45FF" mode="ColorOnly" seed="0" detail="4" softness="0.2164179" dilate="0.1044776" fade="0.5149254" />
+  </sign>
+  <sign guid="0f7dd6ec-3432-4b27-8f2e-e2c7fbd4075a" name="New Sign (1)" modified="2026-04-27 13:16:08Z" next_poly_id="0" next_text_id="0" next_noise_id="1" next_group_id="1">
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="MaskOnly" seed="0" detail="4" softness="0.289268" dilate="0.004975319" fade="0.02" />
+    <layer name="" type="NoiseSignLayer" pos="0, 0" rot="-7.450581E-08" scale="0.7552608, 0.03140219" color="#FFFFFFFF" mode="PunchOut" seed="0" detail="4" softness="0" dilate="-0.1791045" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="1.285547, 0.2547123" rot="90" scale="8.622051, 0.07309805" color="#FFFFFFFF" mode="PunchOut" seed="0" detail="5" softness="0" dilate="-0.1044776" fade="0" />
+    <layer name="" type="GroupSignLayer" pos="0, 0.01198657" rot="0" scale="1, 1" color="#FF0000FF" mode="ColorAndMask" colorMode="Override">
+      <layer name="" type="TextSignLayer" pos="0, 0.2607059" rot="0" scale="0.584406, 0.584406" color="#F3A7A7FF" mode="ColorOnly" font="Stardos Stencil" text="ERIC'S" direction="0" spacing="1" softness="0" dilate="0.2089552" />
+      <layer name="" type="TextSignLayer" pos="0, -0.2607059" rot="0" scale="0.584406, 0.584406" color="#F3A7A7FF" mode="ColorOnly" font="Stardos Stencil" text="STUFF" direction="0" spacing="1" softness="0" dilate="0.2089552" />
+    </layer>
+    <layer name="Group 01" type="GroupSignLayer" pos="0.02022772, 0.01797972" rot="0" scale="1, 1" color="#FFFFFF84" mode="ColorOnly">
+      <layer name="" type="GroupSignLayer" pos="0.02022772, 0.01797972" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+        <layer name="" type="PolygonSignLayer" pos="-0.05244155, 0.03595944" rot="5" scale="1.397699, 1.261423" color="#DAB1B1FF" mode="ColorOnly" sides="4" smoothness="1" starify="0" softness="1" dilate="-1" frequency="5" shapeMode="Normal" />
+        <layer name="" type="GroupSignLayer" pos="0.05244155, 0.01498222" rot="0" scale="1, 1" color="#FFFFFF89" mode="ColorOnly">
+          <layer name="" type="PolygonSignLayer" pos="0, 0" rot="25" scale="3.898898, 3.342817" color="#F4D8D867" mode="ColorOnly" sides="4" smoothness="1" starify="0" softness="1" dilate="-1" frequency="5" shapeMode="Normal" />
+        </layer>
+        <layer name="" type="NoiseSignLayer" pos="-0.04045543, -0.03595944" rot="0" scale="0.07905602, 0.07905602" color="#2C1717FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.2089552" fade="0.4552239" />
+      </layer>
+      <layer name="" type="NoiseSignLayer" pos="-0.02022772, -0.01797972" rot="0" scale="0.4295919, 0.4295919" color="#65665EFF" mode="ColorOnly" seed="0" detail="4" softness="0.2835821" dilate="0.1492537" fade="0.522388" />
+    </layer>
+  </sign>
+  <sign guid="0cfc0675-e581-4a5a-b66a-3d9fe7022820" name="New Sign (2)" modified="2026-04-27 13:27:08Z" next_poly_id="0" next_text_id="0" next_noise_id="1" next_group_id="1">
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="MaskOnly" seed="0" detail="4" softness="0.289268" dilate="0.004975319" fade="0.02" />
+    <layer name="" type="NoiseSignLayer" pos="0, 0" rot="-7.450581E-08" scale="0.7552608, 0.03140219" color="#FFFFFFFF" mode="PunchOut" seed="0" detail="4" softness="0" dilate="-0.1791045" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="1.285547, 0.2547123" rot="90" scale="8.622051, 0.07309805" color="#FFFFFFFF" mode="PunchOut" seed="0" detail="5" softness="0" dilate="-0.1044776" fade="0" />
+    <layer name="" type="GroupSignLayer" pos="0, 0.01198657" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorAndMask" colorMode="Override">
+      <layer name="" type="TextSignLayer" pos="0, 0.2607059" rot="0" scale="0.584406, 0.584406" color="#F3A7A7FF" mode="ColorOnly" font="Stardos Stencil" text="ERIC'S" direction="0" spacing="1" softness="0" dilate="0.2089552" />
+      <layer name="" type="TextSignLayer" pos="0, -0.2607059" rot="0" scale="0.584406, 0.584406" color="#F3A7A7FF" mode="ColorOnly" font="Stardos Stencil" text="STUFF" direction="0" spacing="1" softness="0" dilate="0.2089552" />
+    </layer>
+    <layer name="Group 01" type="GroupSignLayer" pos="0.02022772, 0.01797972" rot="0" scale="1, 1" color="#FFA2A284" mode="ColorOnly">
+      <layer name="" type="GroupSignLayer" pos="0.02022772, 0.01797972" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+        <layer name="" type="PolygonSignLayer" pos="-0.05244155, 0.03595944" rot="5" scale="1.397699, 1.261423" color="#DAB1B1FF" mode="ColorOnly" sides="4" smoothness="1" starify="0" softness="1" dilate="-1" frequency="5" shapeMode="Normal" />
+        <layer name="" type="GroupSignLayer" pos="0.05244155, 0.01498222" rot="0" scale="1, 1" color="#FFFFFF89" mode="ColorOnly">
+          <layer name="" type="PolygonSignLayer" pos="0, 0" rot="25" scale="3.898898, 3.342817" color="#F4D8D867" mode="ColorOnly" sides="4" smoothness="1" starify="0" softness="1" dilate="-1" frequency="5" shapeMode="Normal" />
+        </layer>
+        <layer name="" type="NoiseSignLayer" pos="-0.04045543, -0.03595944" rot="0" scale="0.07905602, 0.07905602" color="#2C1717FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.2089552" fade="0.4552239" />
+      </layer>
+      <layer name="" type="NoiseSignLayer" pos="-0.02022772, -0.01797972" rot="0" scale="0.4295919, 0.4295919" color="#65665EFF" mode="ColorOnly" seed="0" detail="4" softness="0.2835821" dilate="0.1492537" fade="0.522388" />
+    </layer>
+  </sign>
+</signs>

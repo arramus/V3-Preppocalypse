@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="0abfcfaf-4151-4a08-be2e-9cee96bdf2f3" name="old_west_stables_01" modified="2026-03-13 16:39:52Z" next_poly_id="0" next_text_id="0" next_noise_id="0" next_group_id="0">
+    <layer name="" type="PolygonSignLayer" pos="0.02649184, -0.09743124" rot="0" scale="1.630209, 0.3000003" color="#191919FF" mode="ColorAndMask" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="" type="GroupSignLayer" pos="-0.1085982, -0.2370998" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="GroupSignLayer" pos="-0.1179814, 0.03318787" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+        <layer name="" type="GroupSignLayer" pos="0.2230298, -0.1359305" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+          <layer name="" type="GroupSignLayer" pos="0.008365396, 0.09681916" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+            <layer name="" type="GroupSignLayer" pos="0.000984163, 0.09515205" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+              <layer name="" type="GroupSignLayer" pos="0.001968326, 0.09364172" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                <layer name="" type="GroupSignLayer" pos="0.01180998, 0.09062103" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                  <layer name="" type="GroupSignLayer" pos="0.01574663, 0.08457969" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                    <layer name="" type="GroupSignLayer" pos="-0.01180997, 0.07249689" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                      <layer name="" type="GroupSignLayer" pos="-0.00787331, 0.04833125" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                        <layer name="" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.081512, 0.04271873" color="#7C6C5786" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+                      </layer>
+                      <layer name="" type="PolygonSignLayer" pos="0.007873312, -0.04833125" rot="0" scale="1.081512, 0.04271873" color="#70707086" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+                    </layer>
+                    <layer name="" type="PolygonSignLayer" pos="0.01180997, -0.07249689" rot="0" scale="1.081512, 0.04271873" color="#70707086" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+                  </layer>
+                  <layer name="" type="PolygonSignLayer" pos="-0.01574663, -0.08457969" rot="0" scale="1.081512, 0.04271873" color="#70707086" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+                </layer>
+                <layer name="" type="PolygonSignLayer" pos="-0.01180998, -0.09062103" rot="0" scale="1.081512, 0.04271873" color="#70707086" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+              </layer>
+              <layer name="" type="PolygonSignLayer" pos="-0.001968326, -0.09364171" rot="0" scale="1.081512, 0.04271873" color="#70707086" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+            </layer>
+            <layer name="" type="PolygonSignLayer" pos="-0.000984163, -0.09515205" rot="0" scale="1.081512, 0.04271873" color="#70707086" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          </layer>
+          <layer name="" type="PolygonSignLayer" pos="-0.008365396, -0.09681919" rot="0" scale="1.081512, 0.04271873" color="#7C6C5786" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+        </layer>
+        <layer name="" type="NoiseSignLayer" pos="-0.2230298, 0.1359305" rot="-7.450581E-08" scale="0.3157904, 0.08321702" color="#332C2586" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.3283582">
+          <warp type="StretchWarp" offset="-1.432836, -0.1343284" rotation="90.02986" distance="5" width="0.09701493" exponent="1" />
+        </layer>
+      </layer>
+      <layer name="" type="NoiseSignLayer" pos="0.1179814, -0.03318787" rot="0" scale="0.3499058, 0.1132062" color="#4C342371" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.3283582">
+        <warp type="StretchWarp" offset="0, -0.4925373" rotation="89.9567" distance="3.5" width="0.1044776" exponent="1" />
+      </layer>
+    </layer>
+    <layer name="" type="GroupSignLayer" pos="0.2432692, -0.1576021" rot="0" scale="1, 1" color="#010101FF" mode="ColorOnly">
+      <layer name="" type="GroupSignLayer" pos="-0.7533504, 0.07782005" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+        <layer name="" type="GroupSignLayer" pos="0.4839232, 0.07978193" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+          <layer name="" type="GroupSignLayer" pos="-0.02615799, 0.1935692" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+            <layer name="" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.198352, 0.003833781" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          </layer>
+          <layer name="" type="PolygonSignLayer" pos="0.02615799, -0.1935692" rot="0" scale="1.198352, 0.003833781" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+        </layer>
+        <layer name="" type="PolygonSignLayer" pos="-0.4839232, -0.07978192" rot="-90" scale="1.198352, 0.003833781" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      </layer>
+      <layer name="" type="PolygonSignLayer" pos="0.7533504, -0.07782003" rot="-90" scale="1.198352, 0.003833781" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    </layer>
+    <layer name="" type="GroupSignLayer" pos="0.2594546, 0.07324249" rot="0" scale="1, 1" color="#000000FF" mode="ColorOnly">
+      <layer name="" type="GroupSignLayer" pos="-0.2061577, -0.0104631" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+        <layer name="" type="GroupSignLayer" pos="-0.3024518, -0.02354198" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+          <layer name="" type="GroupSignLayer" pos="0.2399996, -0.03923659" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+            <layer name="" type="GroupSignLayer" pos="-0.005442148, 0.08120455" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+              <layer name="" type="TextSignLayer" pos="0, 0" rot="0" scale="0.2572125, 0.2572125" color="#1A1A1AFF" mode="ColorOnly" font="Stardos Stencil" text="LAZY H" direction="0" spacing="1.104478" softness="0" dilate="0.2238806" />
+            </layer>
+            <layer name="" type="TextSignLayer" pos="0.005442148, -0.08120455" rot="0" scale="0.1796211, 0.1796211" color="#1A1A1AFF" mode="ColorOnly" font="Dancing Script" text="livery stables" direction="0" spacing="1" softness="0" dilate="0.07462692" />
+          </layer>
+          <layer name="" type="PolygonSignLayer" pos="-0.2399996, 0.03923658" rot="-90" scale="0.0242984, 0.0242984" color="#1A1A1AFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+            <warp type="KaleidoWarp" offset="-0.4029851, -0.4925373" sides="2" rotation="0" offsetScale="0" />
+          </layer>
+        </layer>
+        <layer name="" type="PolygonSignLayer" pos="0.3024518, 0.02354199" rot="-90" scale="0.0242984, 0.0242984" color="#1A1A1AFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+          <warp type="KaleidoWarp" offset="-0.4029851, -0.4925373" sides="2" rotation="0" offsetScale="0" />
+        </layer>
+      </layer>
+      <layer name="" type="PolygonSignLayer" pos="0.2061577, 0.01046311" rot="-90" scale="0.0242984, 0.0242984" color="#1A1A1AFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+        <warp type="KaleidoWarp" offset="-0.4029851, -0.4925373" sides="2" rotation="0" offsetScale="0" />
+      </layer>
+    </layer>
+    <layer name="" type="PolygonSignLayer" pos="-0.08632141, 0.07324237" rot="-90" scale="0.02557726, 0.02557726" color="#000000FF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+      <warp type="KaleidoWarp" offset="-0.4029851, -0.4925373" sides="2" rotation="0" offsetScale="0" />
+    </layer>
+    <layer name="" type="PolygonSignLayer" pos="0.1020162, 0.07847399" rot="-90" scale="0.02557726, 0.02557726" color="#000000FF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+      <warp type="KaleidoWarp" offset="-0.4029851, -0.4925373" sides="2" rotation="0" offsetScale="0" />
+    </layer>
+    <layer name="" type="PolygonSignLayer" pos="-0.3217435, 0.06277917" rot="-90" scale="0.01612005, 0.01612005" color="#000000FF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+      <warp type="KaleidoWarp" offset="-0.4029851, -0.4925373" sides="2" rotation="0" offsetScale="0" />
+    </layer>
+    <layer name="" type="PolygonSignLayer" pos="-0.2223428, 0.06277919" rot="-90" scale="0.01612005, 0.01612005" color="#000000FF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+      <warp type="KaleidoWarp" offset="-0.4029851, -0.4925373" sides="2" rotation="0" offsetScale="0" />
+    </layer>
+    <layer name="" type="PolygonSignLayer" pos="-0.7601903, 0.0230313" rot="0" scale="0.07905602, 0.09706004" color="#101010FF" mode="PunchOut" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="" type="GroupSignLayer" pos="-0.7525972, -0.05004039" rot="0" scale="0.6302493, 0.6302493" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="GroupSignLayer" pos="-0.07874823, 0.01856603" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+        <layer name="" type="GroupSignLayer" pos="0.02415752, 0.03984126" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+          <layer name="" type="GroupSignLayer" pos="0.08617479, 0.02020877" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+            <layer name="" type="GroupSignLayer" pos="-0.08410048, 0.0400163" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+              <layer name="" type="GroupSignLayer" pos="0.09888053, 0.01418294" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                <layer name="" type="GroupSignLayer" pos="-0.07914943, 0.02531584" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                  <layer name="" type="GroupSignLayer" pos="0.09593332, -0.005824611" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                    <layer name="" type="GroupSignLayer" pos="-0.04753274, -0.007966179" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                      <layer name="" type="GroupSignLayer" pos="-0.112276, 0.004750196" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                        <layer name="" type="GroupSignLayer" pos="0.05241507, 0.00581722" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                          <layer name="" type="GroupSignLayer" pos="0.1005239, -0.02589481" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                            <layer name="" type="GroupSignLayer" pos="-0.068326, -0.04969318" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                              <layer name="" type="PolygonSignLayer" pos="0, 0" rot="0" scale="0.1540026, 0.1540026" color="#1A1A1AFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+                            </layer>
+                            <layer name="" type="PolygonSignLayer" pos="0.068326, 0.04969317" rot="-7.450581E-08" scale="0.03479465, 0.01612005" color="#1A1A1AFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+                          </layer>
+                          <layer name="" type="PolygonSignLayer" pos="-0.1005239, 0.02589481" rot="-7.450581E-08" scale="0.03479465, 0.01612005" color="#1A1A1AFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+                        </layer>
+                        <layer name="" type="PolygonSignLayer" pos="-0.05241507, -0.005817227" rot="-285" scale="0.03662594, 0.01184972" color="#1A1A1AFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+                          <warp type="ArcWarp" rotation="0" radius="2" width="0.1" />
+                        </layer>
+                      </layer>
+                      <layer name="" type="PolygonSignLayer" pos="0.112276, -0.004750196" rot="-80" scale="0.03662594, 0.01184972" color="#1A1A1AFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+                        <warp type="ArcWarp" rotation="0" radius="2" width="0.1" />
+                      </layer>
+                    </layer>
+                    <layer name="" type="PolygonSignLayer" pos="0.0475328, 0.007966176" rot="-60" scale="0.007094863, 0.006082958" color="#1A1A1AFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+                  </layer>
+                  <layer name="" type="PolygonSignLayer" pos="-0.09593332, 0.005824603" rot="-130" scale="0.007094863, 0.006082958" color="#1A1A1AFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+                </layer>
+                <layer name="" type="PolygonSignLayer" pos="0.07914943, -0.02531583" rot="7.450581E-08" scale="0.00674012, 0.01312988" color="#5E5E5EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+              </layer>
+              <layer name="" type="PolygonSignLayer" pos="-0.09888053, -0.01418294" rot="-7.450581E-08" scale="0.00674012, 0.01312988" color="#5E5E5EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+            </layer>
+            <layer name="" type="PolygonSignLayer" pos="0.08410048, -0.0400163" rot="-25" scale="0.00674012, 0.01312988" color="#5E5E5EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          </layer>
+          <layer name="" type="PolygonSignLayer" pos="-0.08617479, -0.02020877" rot="-155" scale="0.00674012, 0.01312988" color="#5E5E5EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+        </layer>
+        <layer name="" type="PolygonSignLayer" pos="-0.02415746, -0.03984126" rot="-135" scale="0.00674012, 0.01312988" color="#5E5E5EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      </layer>
+      <layer name="" type="PolygonSignLayer" pos="0.07874817, -0.01856603" rot="-225" scale="0.00674012, 0.01312988" color="#5E5E5EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    </layer>
+    <layer name="" type="PolygonSignLayer" pos="-0.7609157, -0.08572053" rot="-265" scale="0.006403119, 0.006403119" color="#5E5E5EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="" type="PolygonSignLayer" pos="0.7229682, 0.02564711" rot="0" scale="0.07905602, 0.09706004" color="#101010FF" mode="PunchOut" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="" type="GroupSignLayer" pos="0.7305613, -0.04742458" rot="0" scale="0.6302493, 0.6302493" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="GroupSignLayer" pos="-0.07874823, 0.01856603" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+        <layer name="" type="GroupSignLayer" pos="0.02415752, 0.03984126" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+          <layer name="" type="GroupSignLayer" pos="0.08617479, 0.02020877" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+            <layer name="" type="GroupSignLayer" pos="-0.08410048, 0.0400163" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+              <layer name="" type="GroupSignLayer" pos="0.09888053, 0.01418294" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                <layer name="" type="GroupSignLayer" pos="-0.07914943, 0.02531584" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                  <layer name="" type="GroupSignLayer" pos="0.09593332, -0.005824611" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                    <layer name="" type="GroupSignLayer" pos="-0.04753274, -0.007966179" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                      <layer name="" type="GroupSignLayer" pos="-0.112276, 0.004750196" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                        <layer name="" type="GroupSignLayer" pos="0.05241507, 0.00581722" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                          <layer name="" type="GroupSignLayer" pos="0.1005239, -0.02589481" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                            <layer name="" type="GroupSignLayer" pos="-0.068326, -0.04969318" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+                              <layer name="" type="PolygonSignLayer" pos="0, 0" rot="0" scale="0.1540026, 0.1540026" color="#1A1A1AFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+                            </layer>
+                            <layer name="" type="PolygonSignLayer" pos="0.068326, 0.04969317" rot="-7.450581E-08" scale="0.03479465, 0.01612005" color="#1A1A1AFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+                          </layer>
+                          <layer name="" type="PolygonSignLayer" pos="-0.1005239, 0.02589481" rot="-7.450581E-08" scale="0.03479465, 0.01612005" color="#1A1A1AFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+                        </layer>
+                        <layer name="" type="PolygonSignLayer" pos="-0.05241507, -0.005817227" rot="-285" scale="0.03662594, 0.01184972" color="#1A1A1AFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+                          <warp type="ArcWarp" rotation="0" radius="2" width="0.1" />
+                        </layer>
+                      </layer>
+                      <layer name="" type="PolygonSignLayer" pos="0.112276, -0.004750196" rot="-80" scale="0.03662594, 0.01184972" color="#1A1A1AFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+                        <warp type="ArcWarp" rotation="0" radius="2" width="0.1" />
+                      </layer>
+                    </layer>
+                    <layer name="" type="PolygonSignLayer" pos="0.0475328, 0.007966176" rot="-60" scale="0.007094863, 0.006082958" color="#1A1A1AFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+                  </layer>
+                  <layer name="" type="PolygonSignLayer" pos="-0.09593332, 0.005824603" rot="-130" scale="0.007094863, 0.006082958" color="#1A1A1AFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+                </layer>
+                <layer name="" type="PolygonSignLayer" pos="0.07914943, -0.02531583" rot="7.450581E-08" scale="0.00674012, 0.01312988" color="#5E5E5EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+              </layer>
+              <layer name="" type="PolygonSignLayer" pos="-0.09888053, -0.01418294" rot="-7.450581E-08" scale="0.00674012, 0.01312988" color="#5E5E5EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+            </layer>
+            <layer name="" type="PolygonSignLayer" pos="0.08410048, -0.0400163" rot="-25" scale="0.00674012, 0.01312988" color="#5E5E5EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          </layer>
+          <layer name="" type="PolygonSignLayer" pos="-0.08617479, -0.02020877" rot="-155" scale="0.00674012, 0.01312988" color="#5E5E5EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+        </layer>
+        <layer name="" type="PolygonSignLayer" pos="-0.02415746, -0.03984126" rot="-135" scale="0.00674012, 0.01312988" color="#5E5E5EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      </layer>
+      <layer name="" type="PolygonSignLayer" pos="0.07874817, -0.01856603" rot="-225" scale="0.00674012, 0.01312988" color="#5E5E5EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    </layer>
+    <layer name="" type="PolygonSignLayer" pos="0.7222428, -0.08310472" rot="-265" scale="0.006403119, 0.006403119" color="#5E5E5EFF" mode="ColorOnly" sides="64" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="" type="NoiseSignLayer" pos="0.04970021, -0.0444686" rot="20" scale="0.3, 0.3" color="#4E4E4EFF" mode="ColorOnly" seed="0" detail="4" softness="0.4029851" dilate="0" fade="0.8283582" />
+    <layer name="" type="NoiseSignLayer" pos="-0.0209264, 0.02615802" rot="35" scale="0.2572128, 0.2572128" color="#212121FF" mode="ColorOnly" seed="0" detail="4" softness="0.09701493" dilate="-0.1044776" fade="0.7462686" />
+  </sign>
+</signs>

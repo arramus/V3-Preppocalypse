@@ -14,7 +14,7 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="SleeperVolumeSize" value="21, 4, 15#11, 4, 15" />
   <property name="SleeperVolumeStart" value="2, 0, 7#2, 4, 7" />
-  <property name="SleeperVolumeGroup" value="GroupGhostTown,5,6,GroupGhostTown,3,5" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,5,6,GroupGenericZombie,4,5" />
   <property name="SleeperVolumeGameStageAdjust" value="" />
   <property name="SleeperIsLootVolume" value="False,False" />
   <property name="DistantPOIYOffset" value="0" />
@@ -26,23 +26,25 @@
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="PrefabSize" value="25, 11, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="178195" />
-    <property name="TotalTriangles" value="68464" />
+    <property name="LightsVolume" value="5788.908" />
+    <property name="TotalVertices" value="200918" />
+    <property name="TotalTriangles" value="73183" />
     <property class="BlockEntities">
-      <property name="Vertices" value="144674" />
-      <property name="Triangles" value="49012" />
+      <property name="Vertices" value="167634" />
+      <property name="Triangles" value="53895" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="31694" />
-      <property name="Triangles" value="16536" />
+      <property name="Vertices" value="31434" />
+      <property name="Triangles" value="16372" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="269" />
+      <property name="Vertices" value="292" />
       <property name="Triangles" value="212" />
     </property>
     <property class="ChunkMeshes3">
@@ -61,21 +63,31 @@
   <property class="IndexedBlockOffsets">
     <property class="challenge_polymers">
       <property name="0" value="14, 1, 17" />
+      <property name="1" value="16, 1, 17" />
+      <property name="2" value="20, 1, 19" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="12, 1, 14" />
     </property>
     <property class="POILight">
-      <property name="0" value="13, 3, 14" />
+      <property name="0" value="13, 2, 12" />
+      <property name="1" value="13, 3, 14" />
     </property>
     <property class="challenge_mech_parts">
-      <property name="0" value="4, 1, 9" />
+      <property name="0" value="18, 1, 19" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="14, 1, 21" />
     </property>
-    <property class="Rally">
-      <property name="0" value="20, 2, 2" />
+    <property class="challenge_leather">
+      <property name="0" value="15, 1, 18" />
+      <property name="1" value="18, 1, 18" />
     </property>
-    <property class="TraderOnOff">
-      <property name="0" value="12, 1, 14" />
+    <property class="Rally">
+      <property name="0" value="20, 1, 2" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="13, 1, 12" />
     </property>
   </property>
 </prefab>
