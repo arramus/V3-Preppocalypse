@@ -26,16 +26,18 @@
   <property name="DuplicateRepeatDistance" value="500" />
   <property name="PrefabSize" value="25, 14, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="281006" />
-    <property name="TotalTriangles" value="116339" />
+    <property name="LightsVolume" value="6408.168" />
+    <property name="TotalVertices" value="340503" />
+    <property name="TotalTriangles" value="137254" />
     <property class="BlockEntities">
-      <property name="Vertices" value="233134" />
-      <property name="Triangles" value="87912" />
+      <property name="Vertices" value="292693" />
+      <property name="Triangles" value="109121" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="45542" />
-      <property name="Triangles" value="25323" />
+      <property name="Vertices" value="45478" />
+      <property name="Triangles" value="25021" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -54,8 +56,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="1554" />
-      <property name="Triangles" value="2704" />
+      <property name="Vertices" value="1556" />
+      <property name="Triangles" value="2712" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -64,6 +66,12 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="15, 1, 15" />
+      <property name="1" value="20, 1, 19" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="15, 3, 14" />
+      <property name="1" value="19, 2, 14" />
+      <property name="2" value="15, 3, 16" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="12, 6, 15" />
@@ -73,10 +81,6 @@
       <property name="1" value="16, 1, 17" />
       <property name="2" value="18, 1, 21" />
       <property name="3" value="18, 1, 22" />
-    </property>
-    <property class="POILight">
-      <property name="0" value="19, 2, 14" />
-      <property name="1" value="15, 3, 16" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="2, 1, 8" />

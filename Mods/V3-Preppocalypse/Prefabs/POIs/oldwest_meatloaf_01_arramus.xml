@@ -22,24 +22,26 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="519705" />
-    <property name="TotalTriangles" value="207593" />
+    <property name="LightsVolume" value="6016.15" />
+    <property name="TotalVertices" value="541684" />
+    <property name="TotalTriangles" value="216131" />
     <property class="BlockEntities">
-      <property name="Vertices" value="458982" />
-      <property name="Triangles" value="172281" />
+      <property name="Vertices" value="479262" />
+      <property name="Triangles" value="180505" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="56857" />
-      <property name="Triangles" value="30588" />
+      <property name="Vertices" value="58220" />
+      <property name="Triangles" value="30678" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="1536" />
       <property name="Triangles" value="768" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="96" />
-      <property name="Triangles" value="48" />
+      <property name="Vertices" value="432" />
+      <property name="Triangles" value="272" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="0" />
@@ -72,13 +74,14 @@
     <property class="TraderOnOff">
       <property name="0" value="14, 13, 15" />
       <property name="1" value="16, 10, 15" />
+      <property name="2" value="22, 5, 20" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="7, 4, 20" />
       <property name="1" value="6, 5, 21" />
     </property>
     <property class="Rally">
-      <property name="0" value="15, 6, 1" />
+      <property name="0" value="15, 5, 1" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="12, 7, 12" />
@@ -92,15 +95,15 @@
     <property class="POILight">
       <property name="0" value="19, 5, 16" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="15, 11, 15" />
+    </property>
     <property class="QuestRestorePower">
       <property name="0" value="12, 3, 12" />
       <property name="1" value="15, 13, 14" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="21, 6, 12" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="15, 11, 15" />
     </property>
   </property>
 </prefab>

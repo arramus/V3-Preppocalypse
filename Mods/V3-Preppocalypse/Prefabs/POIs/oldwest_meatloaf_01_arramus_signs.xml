@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="47b8931f-1ce3-4b0e-99e4-851bf74a6b75" name="New Sign" modified="2026-10-07 01:22:05Z" next_poly_id="10" next_text_id="2" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0.05231637, -0.008855788" rot="-15" scale="0.5010551, 0.5010551" color="#2C1F1FFF" mode="ColorOnly" sides="32" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+      <warp type="TwirlWarp" offset="0.1002138, -0.7100208" amount="0.2395168" frequency="0.1947408" />
+    </layer>
+    <layer name="Poly 03" type="PolygonSignLayer" pos="-0.1116074, 0.09997252" rot="0" scale="0.06439161, 0.06439161" color="#000000FF" mode="ColorOnly" sides="37" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 03" type="PolygonSignLayer" pos="0.1383925, 0.09997252" rot="0" scale="0.06439161, 0.06439161" color="#000000FF" mode="ColorOnly" sides="37" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 08" type="PolygonSignLayer" pos="-0.06991736, -0.1895092" rot="160" scale="0.04058277, 0.04058277" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+      <warp type="ArcWarp" rotation="69.97871" radius="6.577826" width="0.08407258" />
+      <warp type="ArcWarp" rotation="0" radius="2.003605" width="0.1" />
+    </layer>
+    <layer name="Poly 08" type="PolygonSignLayer" pos="0.08703087, -0.2034602" rot="180" scale="0.03855362, 0.03855362" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+      <warp type="ArcWarp" rotation="-55.39442" radius="6.577826" width="0.0911728" />
+      <warp type="ArcWarp" rotation="0" radius="2.003605" width="0.1" />
+    </layer>
+    <layer name="Poly 04" type="PolygonSignLayer" pos="0.007439293, -0.1441689" rot="0" scale="0.1320381, 0.1320381" color="#664A4AFF" mode="ColorOnly" sides="24" smoothness="0" starify="0" softness="0" dilate="0.03340459" frequency="5" shapeMode="Normal">
+      <warp type="SkewWarp" amount="0, 0.1" rotation="128.8273" />
+    </layer>
+    <layer name="Poly 09" type="PolygonSignLayer" pos="-0.05836484, -0.1650952" rot="0" scale="0.03305492, 0.03305492" color="#000000FF" mode="ColorOnly" sides="30" smoothness="0" starify="0" softness="0" dilate="0.2750535" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 09" type="PolygonSignLayer" pos="0.07163515, -0.1650952" rot="0" scale="0.03305492, 0.03305492" color="#000000FF" mode="ColorOnly" sides="30" smoothness="0" starify="0" softness="0" dilate="0.2750535" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 09" type="PolygonSignLayer" pos="-0.05836484, -0.1650952" rot="0" scale="0.02983206, 0.02983206" color="#BF3C3CFF" mode="ColorOnly" sides="30" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 09" type="PolygonSignLayer" pos="0.07159999, -0.1651" rot="0" scale="0.02983206, 0.02983206" color="#BF3C3CFF" mode="ColorOnly" sides="30" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 10" type="PolygonSignLayer" pos="-0.2399451, 0.3343589" rot="40" scale="0.1796211, 0.1796211" color="#2C1F1FFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+      <warp type="StretchWarp" offset="0, 0" rotation="0" distance="0" width="0" exponent="1" />
+      <warp type="BulgeWarp" offset="0, 0.8678044" amount="2.547975" />
+    </layer>
+    <layer name="Poly 10" type="PolygonSignLayer" pos="0.2864847, 0.3238961" rot="-40" scale="0.1796211, 0.1796211" color="#2C1F1FFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+      <warp type="StretchWarp" offset="0, 0" rotation="0" distance="0" width="0" exponent="1" />
+      <warp type="BulgeWarp" offset="0, 0.8678044" amount="2.547975" />
+    </layer>
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.08321685, 0.008710631" color="#664A4AFF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.8976973" />
+  </sign>
+</signs>
