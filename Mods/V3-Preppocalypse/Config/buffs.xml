@@ -308,6 +308,12 @@
 			</effect_group>
 		</buff>
 		
+		<buff name="zombieDTPSteveCrawlerPREPPERDeco" hidden="true">
+			<effect_group>
+				<triggered_effect trigger="onSelfBuffStart" action="AttachPrefabToEntity" prefab="@:Other/Items/Weapons/Ranged/Pistol/PistolPrefab.prefab" local_offset="0.18,0.035,-0.038" local_rotation="187,-80,90" local_scale=".65,.65,.65" parent_transform="RightHand"/> <!-- Local Offset Front-Back/Left-Right/Up-Down -->
+			</effect_group>
+		</buff>
+		
 		<buff name="zombieSMGArlenePREPPERDeco" hidden="true">
 			<effect_group>				
 				<triggered_effect trigger="onSelfBuffStart" action="AttachPrefabToEntity" prefab="@:Other/Items/Weapons/Ranged/SMG/smgPrefab.prefab" local_offset="-0.3,-0.045,0.0975" local_rotation="7,-80,-90" parent_transform="LeftHand"/> <!-- Local Offset Front-Back/Left-Right/Up-Down -->

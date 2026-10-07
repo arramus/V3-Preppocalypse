@@ -713,6 +713,7 @@ zombieSpiderBomberMilitaryPREPPER,entityclasses,Entity,,,,Spider Drone Military 
 zombieSpiderFeralGliderPREPPER,entityclasses,Entity,,,,Spider Glider Fire Starter,,,,,,,,,,,,,
 zombieSpiderGliderClaretPREPPER,entityclasses,Entity,,,,Spider Glider Claret Fire Starter,,,,,,,,,,,,,
 zombieM60DemolitionPREPPER,entityclasses,Entity,,,,M60 Demolition,,,,,,,,,,,,,
+zombieDTPSteveCrawlerPREPPER,entityclasses,Entity,,,,Double Trouble Pistol Crawler,,,,,,,,,,,,,
 zombieSMGArlenePREPPER,entityclasses,Entity,,,,SMG Arlene,,,,,,,,,,,,,
 zombieSMGArleneRadiatedPREPPER,entityclasses,Entity,,,,Radiated SMG Arlene,,,,,,,,,,,,,
 zombieTARifleSoldierPREPPER,entityclasses,Entity,,,,Tactical Assault Rifle Soldier,,,,,,,,,,,,,
@@ -1092,6 +1093,13 @@ quest_stunbatonhazmat_offer,Quest,Quest Info,,,,"Accept this quest to eliminate 
 quest_stunbatonhazmat_name,Quest,Quest Info,,,,"10 Stun Baton Hazmats",,,,,,,,,,,,,
 quest_stunbatonhazmat_subtitle,Quest,Quest Info,,,,"10 Stun Baton Hazmats",,,,,,,,,,,,,
 quest_stunbatonhazmat_description,Quest,Quest Info,,,,"Accept this quest to eliminate 10 Stun Baton Hazmat Entities with a Stun Baton. XP and 1 Skill Point for your troubles.",,,,,,,,,,,,,
+
+quest_dtpstevecrawler,items,Quest - Challenge,,,,"Double Trouble - Crawler",,,,,,,,,,,,,
+quest_dtpstevecrawlerDesc,items,Quest - Challenge,,,,"Read this Quest Note, and accept the challenge to find and eliminate 10 Double Trouble Pistol Crawlers with a Double Trouble Pistol. Earn XP and 1 Skill Point upon completion.\n\nAdditional Quest Notes can be found in safes. Scraps to 50 paper, or sell for coin.",,"Lesen Sie diese Questnotiz und nehmen Sie die Herausforderung an, 10 Doppelter Ärger Pistole Crawlers mit einer Doppelter Ärger Pistole zu finden und zu eliminieren. Verdiene nach Abschluss EP und 1 Fertigkeitspunkt.\n\nZusätzliche Questnotizen finden Sie in Safes. Reste auf 50 Papier, oder Verkauf gegen Münzen.",,,,,,,,,,,
+quest_dtpstevecrawler_offer,Quest,Quest Info,,,,"Accept this quest to eliminate 10 Double Trouble Pistol Crawlers with a Double Trouble Pistol. XP and 1 Skill Point for your troubles.",,,,,,,,,,,,,
+quest_dtpstevecrawler_name,Quest,Quest Info,,,,"10 DTP Crawlers",,,,,,,,,,,,,
+quest_dtpstevecrawler_subtitle,Quest,Quest Info,,,,"10 DTP Crawlers",,,,,,,,,,,,,
+quest_dtpstevecrawler_description,Quest,Quest Info,,,,"Accept this quest to eliminate 10 Double Trouble Pistol Crawlers with a Double Trouble Pistol. XP and 1 Skill Point for your troubles.",,,,,,,,,,,,,
 
 quest_smgarlene,items,Quest - Challenge,,,,"SMG Spree - Arlene",,,,,,,,,,,,,
 quest_smgarleneDesc,items,Quest - Challenge,,,,"Read this Quest Note, and accept the challenge to find and eliminate 10 SMG Arlenes with an SMG. Earn XP and 1 Skill Point upon completion.\n\nAdditional Quest Notes can be found in safes. Scraps to 50 paper, or sell for coin.",,"Lesen Sie diese Questnotiz und nehmen Sie die Herausforderung an, 10 SMG Arlenes mit einer SMG zu finden und zu eliminieren. Verdiene nach Abschluss EP und 1 Fertigkeitspunkt.\n\nZusätzliche Questnotizen finden Sie in Safes. Reste auf 50 Papier, oder Verkauf gegen Münzen.",,,,,,,,,,,

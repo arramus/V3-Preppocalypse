@@ -1,9 +1,9 @@
 <Preppocalypse>
 
 	<!-- Load out kit with Preppocalypse influence -->
-	<set xpath="/entity_classes/entity_class[contains(@name,'playerMale')]/property/property[contains(@name,'GameModeSurvival')]/@value">PreppocalypseStarterKit,medicalFirstAidBandage,meleeToolTorch,noteDuke01,quest_stunbatonhazmat,quest_eliminatezombies10,quest_eliminateanimals01,quest_prepperstockpile01,quest_preppocommtower</set>	
-	<set xpath="/entity_classes/entity_class[contains(@name,'playerMale')]/property/property[contains(@name,'GameModeSurvivalSP')]/@value">PreppocalypseStarterKit,medicalFirstAidBandage,meleeToolTorch,quest_stunbatonhazmat,quest_eliminatezombies10,quest_eliminateanimals01,quest_prepperstockpile01,quest_preppocommtower</set>	
-	<set xpath="/entity_classes/entity_class[contains(@name,'playerMale')]/property/property[contains(@name,'GameModeSurvivalMP')]/@value">PreppocalypseStarterKit,medicalFirstAidBandage,meleeToolTorch,quest_stunbatonhazmat,quest_eliminatezombies10,quest_eliminateanimals01,quest_prepperstockpile01,quest_preppocommtower</set>
+	<set xpath="/entity_classes/entity_class[contains(@name,'playerMale')]/property/property[contains(@name,'GameModeSurvival')]/@value">PreppocalypseStarterKit,medicalFirstAidBandage,meleeToolTorch,noteDuke01,quest_dtpstevecrawler,quest_eliminatezombies10,quest_eliminateanimals01,quest_prepperstockpile01,quest_preppocommtower</set>	
+	<set xpath="/entity_classes/entity_class[contains(@name,'playerMale')]/property/property[contains(@name,'GameModeSurvivalSP')]/@value">PreppocalypseStarterKit,medicalFirstAidBandage,meleeToolTorch,quest_dtpstevecrawler,quest_eliminatezombies10,quest_eliminateanimals01,quest_prepperstockpile01,quest_preppocommtower</set>	
+	<set xpath="/entity_classes/entity_class[contains(@name,'playerMale')]/property/property[contains(@name,'GameModeSurvivalMP')]/@value">PreppocalypseStarterKit,medicalFirstAidBandage,meleeToolTorch,quest_dtpstevecrawler,quest_eliminatezombies10,quest_eliminateanimals01,quest_prepperstockpile01,quest_preppocommtower</set>
 
 	<!-- Simple Preppo Supply Crate -->
 	<set xpath="/entity_classes/entity_class[@name='sc_General']/property[@name='Mesh']/@value">#@modfolder:Resources/prepposupplycrate.unity3d?SupplyCrateEntityPrefab</set>
@@ -3875,6 +3875,55 @@
 	</effect_group>
 </entity_class>
 
+		<!-- Double Trouble Pistol Crawler -->
+
+<entity_class name="zombieDTPSteveCrawlerPREPPER" extends="zombieSteveCrawlerFeral"> <!-- + 10% hits and gains -->
+	<property name="UserSpawnType" value="Menu"/>
+	<property name="Tags" value="entity,zombie,crawler,allbiome,feral,strong,radiated,charged"/>
+	<property name="Mesh" value="@:Entities/Zombies/Crawler/ZCrawlerFeral.prefab"/>
+	<property name="Class" value="EntityZombieCop"/> <!-- Required to activate melee audio for gunfire -->
+	
+	<property name="AITask" value="
+	BreakBlock|
+	ApproachDistraction|
+	RangedAttackTarget itemType=1;cooldown=6;duration=6|
+	ApproachAndAttackTarget class=EntityPlayer,0,EntityBandit,0,EntityNPC,0,EntityEnemyAnimal,0|
+	ApproachSpot|
+	Look|
+	Wander|
+	"/>
+
+	<!-- Gameplay -->
+	<property name="ExplodeHealthThreshold" value="0"/>
+	<property name="HandItem" value="meleeHandZombieDTPSteveCrawlerPREPPER"/>
+	<property name="DismemberMultiplierHead" value=".4"/><property name="DismemberMultiplierArms" value=".4"/><property name="DismemberMultiplierLegs" value=".4"/><!-- Radiated -->
+	<property name="SizeScale" value="1.25"/>
+	<property name="MoveSpeed" value="0.85"/>
+	<property name="MoveSpeedAggro" value="1.35, 1.55"/>
+	<property name="CanClimbLadders" value="true"/>
+	<property name="PainResistPerHit" value=".9"/><!-- Radiated -->
+	<property name="ExperienceGain" value="660"/><!-- XP grunt radiated -->
+	<property name="LootDropEntityClass" value="EntityLootContainerStrong"/>
+		<drop event="Harvest" name="foodRawMeat" count="0" tool_category="Butcher"/>
+		<drop event="Harvest" name="foodRottingFlesh" tag="butcherHarvest" count="2,3"/>
+		<drop event="Harvest" name="resourceBone" tag="butcherHarvest" count="1,3"/>
+		<drop event="Harvest" name="resourcePotassiumNitratePowder" count="5,10" tag="butcherHarvest"/>
+		<drop event="Harvest" name="resourceCloth" tag="butcherHarvest" count="1,3"/>
+		<drop event="Harvest" name="resourceBone" tag="allToolsHarvest" count="1"/>
+		<drop event="Harvest" name="ammo22ShortBulletBall" tag="allToolsHarvest" count="5,10"/>
+		<drop event="Harvest" name="foodRottingFlesh" count="1" tag="WasteTreasuresCompleteHarvest"/>
+		<drop event="Harvest" name="resourceBone" count="1" tag="WasteTreasuresCompleteHarvest"/>
+		<drop event="Harvest" name="resourcePotassiumNitratePowder" count="1,2" tag="WasteTreasuresCompleteHarvest"/>
+
+	<effect_group name="Base Effects">
+		<triggered_effect trigger="onSelfFirstSpawn" action="AddBuff" target="self" buff="zombieDTPSteveCrawlerPREPPERDeco"/>
+		<passive_effect name="HealthMax" operation="base_set" value="330"/>
+		<!--<passive_effect name="EntityDamage" operation="perc_add" value="0"/>--> <!-- Feral damage -->
+		<triggered_effect trigger="onOtherDamagedSelf" action="ModifyCVar" target="self" cvar="RadiatedRegenAmount" operation="set" value="4"/>
+		<triggered_effect trigger="onOtherDamagedSelf" action="AddBuff" target="self" buff="buffRadiatedRegen"/>
+	</effect_group>
+</entity_class>
+
 		<!-- SMG Arlene -->
 
 <entity_class name="zombieSMGArlenePREPPER" extends="zombieArleneRadiated"> <!-- + 10% hits and gains -->
@@ -7500,6 +7549,7 @@
 	<property name="DismemberMultiplierHead" value=".4"/><property name="DismemberMultiplierArms" value=".4"/><property name="DismemberMultiplierLegs" value=".4"/><!-- Radiated -->
 	<property name="PainResistPerHit" value=".9"/><!-- Radiated -->
 	<property name="MoveSpeedAggro" value="2.0, 2.35"/>
+	<property name="CanClimbLadders" value="true"/>
 	<property name="ExperienceGain" value="1750"/><!-- XP strong radiated -->
 	<property name="LootDropEntityClass" value="EntityLootContainerBoss"/>
 	<property name="LootDropProb" value=".3"/>
@@ -7550,6 +7600,7 @@
 	<property name="DismemberMultiplierHead" value=".4"/><property name="DismemberMultiplierArms" value=".4"/><property name="DismemberMultiplierLegs" value=".4"/><!-- Radiated -->
 	<property name="PainResistPerHit" value=".9"/><!-- Radiated -->
 	<property name="MoveSpeedAggro" value="2.0, 2.35"/>
+	<property name="CanClimbLadders" value="true"/>
 	<property name="ExperienceGain" value="1750"/><!-- XP strong radiated -->
 	<property name="LootDropEntityClass" value="EntityLootContainerBoss"/>
 	<property name="LootDropProb" value=".3"/>

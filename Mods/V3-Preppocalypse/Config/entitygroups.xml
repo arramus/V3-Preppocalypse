@@ -6,6 +6,7 @@
 		<e n="animalZombieBunnyPREPPER" p="0.05" />
 		<e n="animalZombieSnakePREPPER" p="0.05" />
 		<e n="animalZombieChickenPREPPER" p="0.05" />
+		<e n="zombieDTPSteveCrawlerPREPPER" p="0.05" />
 		<e n="zombieSMGArlenePREPPER" p="0.05" />
 		<e n="zombieTARifleSoldierPREPPER" p="0.05" />
 		<e n="zombieBatonHazmatPREPPER" p="0.05" />
@@ -62,6 +63,7 @@
 		<e n="animalZombieBunnyPREPPER" p="0.085" />
 		<e n="animalZombieSnakePREPPER" p="0.085" />
 		<e n="animalZombieChickenPREPPER" p="0.085" />
+		<e n="zombieDTPSteveCrawlerPREPPER" p="0.085" />
 		<e n="zombieSMGArlenePREPPER" p="0.085" />
 		<e n="zombieTARifleSoldierPREPPER" p="0.085" />
 		<e n="zombieBatonHazmatPREPPER" p="0.085" />
@@ -106,6 +108,7 @@
 		<e n="animalZombieBunnyPREPPER" p="0.05" />
 		<e n="animalZombieSnakePREPPER" p="0.05" />
 		<e n="animalZombieChickenPREPPER" p="0.05" />
+		<e n="zombieDTPSteveCrawlerPREPPER" p="0.05" />
 		<e n="zombieSMGArlenePREPPER" p="0.05" />
 		<e n="zombieTARifleSoldierPREPPER" p="0.05" />
 		<e n="zombieBatonHazmatPREPPER" p="0.05" />
@@ -150,6 +153,7 @@
 		<e n="animalZombieBunnyPREPPER" p="0.05" />
 		<e n="animalZombieSnakePREPPER" p="0.05" />
 		<e n="animalZombieChickenPREPPER" p="0.05" />
+		<e n="zombieDTPSteveCrawlerPREPPER" p="0.05" />
 		<e n="zombieSMGArlenePREPPER" p="0.05" />
 		<e n="zombieTARifleSoldierPREPPER" p="0.05" />
 		<e n="zombieBatonHazmatPREPPER" p="0.05" />
@@ -206,6 +210,7 @@
 		<e n="animalZombieBunnyPREPPER" p="0.085" />
 		<e n="animalZombieSnakePREPPER" p="0.085" />
 		<e n="animalZombieChickenPREPPER" p="0.085" />
+		<e n="zombieDTPSteveCrawlerPREPPER" p="0.085" />
 		<e n="zombieSMGArlenePREPPER" p="0.085" />
 		<e n="zombieTARifleSoldierPREPPER" p="0.085" />
 		<e n="zombieBatonHazmatPREPPER" p="0.085" />
@@ -259,6 +264,7 @@
 		<e n="zombieMiniBurntRadiatedSteelSpear" p="0.05" />
 		<e n="zombieBurntRadiatedSteelSpear" p="0.05" />
 		<e n="zombieSteveCrawlerFeral" p="0.05" />
+		<e n="zombieDTPSteveCrawlerPREPPER" p="0.05" />
 		<e n="zombieBurntRadiated" p="0.05" />
 		<e n="zombieMiniCrispyPREPPER" p="0.05" />
 		<e n="zombieCrispyPREPPER" p="0.01" />
@@ -316,6 +322,7 @@
 		<e n="zombieMiniBurntRadiatedSteelSpear" p="0.05" />
 		<e n="zombieBurntRadiatedSteelSpear" p="0.05" />
 		<e n="zombieSteveCrawlerFeral" p="0.05" />
+		<e n="zombieDTPSteveCrawlerPREPPER" p="0.05" />
 		<e n="zombieBurntRadiated" p="0.05" />
 		<e n="zombieMiniCrispyPREPPER" p="0.05" />
 		<e n="zombieCrispyPREPPER" p="0.01" />
@@ -375,6 +382,7 @@
 		<e n="zombieMiniBurntRadiatedSteelSpear" p="0.05" />
 		<e n="zombieBurntRadiatedSteelSpear" p="0.05" />
 		<e n="zombieSteveCrawlerFeral" p="0.05" />
+		<e n="zombieDTPSteveCrawlerPREPPER" p="0.05" />
 		<e n="zombieBurntRadiated" p="0.05" />
 		<e n="zombieMiniCrispyPREPPER" p="0.05" />
 		<e n="zombieCrispyPREPPER" p="0.025" />
@@ -410,6 +418,7 @@
 		<e n="zombieMiniBurntRadiatedSteelSpear" p="0.075" />
 		<e n="zombieBurntRadiatedSteelSpear" p="0.075" />
 		<e n="zombieSteveCrawlerFeral" p="0.075" />
+		<e n="zombieDTPSteveCrawlerPREPPER" p="0.075" />
 		<e n="zombieBurntRadiated" p="0.075" />
 		<e n="zombieMiniCrispyPREPPER" p="0.075" />
 		<e n="zombieCrispyPREPPER" p="0.05" />
@@ -444,6 +453,7 @@
 		<e n="animalZombieBunnyPREPPER" p="0.05" />
 		<e n="animalZombieSnakePREPPER" p="0.05" />
 		<e n="animalZombieChickenPREPPER" p="0.05" />
+		<e n="zombieDTPSteveCrawlerPREPPER" p="0.05" />
 		<e n="zombieSMGArlenePREPPER" p="0.05" />
 		<e n="zombieTARifleSoldierPREPPER" p="0.05" />
 		<e n="zombieBatonHazmatPREPPER" p="0.05" />
@@ -495,6 +505,7 @@
 		<e n="animalZombieBunnyPREPPER" p="0.05" />
 		<e n="animalZombieSnakePREPPER" p="0.05" />
 		<e n="animalZombieChickenPREPPER" p="0.05" />
+		<e n="zombieDTPSteveCrawlerPREPPER" p="0.05" />
 		<e n="zombieSMGArlenePREPPER" p="0.05" />
 		<e n="zombieTARifleSoldierPREPPER" p="0.05" />
 		<e n="zombieBatonHazmatPREPPER" p="0.05" />
@@ -593,6 +604,7 @@
 		<e n="animalZombiePlasmaSnakePREPPER" p="0.75" />
 		<e n="animalZombieFireSnakePREPPER" p="0.75" />
 		<e n="animalZombieChickenPREPPER" p="0.75" />
+		<e n="zombieDTPSteveCrawlerPREPPER" p="0.075" />
 		<e n="zombieSMGArlenePREPPER" p="0.75" />
 		<e n="zombieSMGArleneRadiatedPREPPER" p="0.75" />
 		<e n="zombieTARifleSoldierPREPPER" p="0.75" />
@@ -684,6 +696,7 @@
 		<e n="animalZombiePlasmaSnakePREPPER" p="1.25" />
 		<e n="animalZombieFireSnakePREPPER" p="1.25" />
 		<e n="animalZombieChickenPREPPER" p="1.25" />
+		<e n="zombieDTPSteveCrawlerPREPPER" p="1.25" />
 		<e n="zombieSMGArlenePREPPER" p="1.25" />
 		<e n="zombieSMGArleneRadiatedPREPPER" p="1.25" />
 		<e n="zombieTARifleSoldierPREPPER" p="1.25" />
@@ -739,6 +752,7 @@
 		<e n="animalZombieBunnyPREPPER" p="0.05" />
 		<e n="animalZombieSnakePREPPER" p="0.05" />
 		<e n="animalZombieChickenPREPPER" p="0.05" />
+		<e n="zombieDTPSteveCrawlerPREPPER" p="0.05" />
 		<e n="zombieSMGArlenePREPPER" p="0.05" />
 		<e n="zombieSMGArleneRadiatedPREPPER" p="0.05" />
 		<e n="zombieTARifleSoldierPREPPER" p="0.05" />
@@ -813,6 +827,7 @@
 		<e n="animalZombieBunnyPREPPER" />
 		<e n="animalZombieSnakePREPPER" />
 		<e n="animalZombieChickenPREPPER" />
+		<e n="zombieDTPSteveCrawlerPREPPER" />
 		<e n="zombieSMGArlenePREPPER" />
 		<e n="zombieSMGArleneRadiatedPREPPER" />
 		<e n="zombieTARifleSoldierPREPPER" />
@@ -890,6 +905,7 @@
 		<e n="animalZombieBunnyPREPPER" />
 		<e n="animalZombieSnakePREPPER" />
 		<e n="animalZombieChickenPREPPER" />
+		<e n="zombieDTPSteveCrawlerPREPPER" />
 		<e n="zombieSMGArlenePREPPER" />
 		<e n="zombieSMGArleneRadiatedPREPPER" />
 		<e n="zombieTARifleSoldierPREPPER" />
@@ -967,6 +983,7 @@
 		<e n="animalZombieBunnyPREPPER" />
 		<e n="animalZombieSnakePREPPER" />
 		<e n="animalZombieChickenPREPPER" />
+		<e n="zombieDTPSteveCrawlerPREPPER" />
 		<e n="zombieSMGArlenePREPPER" />
 		<e n="zombieSMGArleneRadiatedPREPPER" />
 		<e n="zombieTARifleSoldierPREPPER" />
@@ -1044,6 +1061,7 @@
 		<e n="animalZombieBunnyPREPPER" />
 		<e n="animalZombieSnakePREPPER" />
 		<e n="animalZombieChickenPREPPER" />
+		<e n="zombieDTPSteveCrawlerPREPPER" />
 		<e n="zombieSMGArlenePREPPER" />
 		<e n="zombieSMGArleneRadiatedPREPPER" />
 		<e n="zombieTARifleSoldierPREPPER" />
@@ -1121,6 +1139,7 @@
 		<e n="animalZombieBunnyPREPPER" />
 		<e n="animalZombieSnakePREPPER" />
 		<e n="animalZombieChickenPREPPER" />
+		<e n="zombieDTPSteveCrawlerPREPPER" />
 		<e n="zombieSMGArlenePREPPER" />
 		<e n="zombieSMGArleneRadiatedPREPPER" />
 		<e n="zombieTARifleSoldierPREPPER" />
@@ -1198,6 +1217,7 @@
 		<e n="animalZombieBunnyPREPPER" />
 		<e n="animalZombieSnakePREPPER" />
 		<e n="animalZombieChickenPREPPER" />
+		<e n="zombieDTPSteveCrawlerPREPPER" />
 		<e n="zombieSMGArlenePREPPER" />
 		<e n="zombieSMGArleneRadiatedPREPPER" />
 		<e n="zombieTARifleSoldierPREPPER" />
@@ -2159,6 +2179,12 @@
 	</append>
 	
 <!-- *** INTEGRATION FOR SLEEPERS -->
+
+<!-- Double Trouble Pistol - Crawler PREPPER -->
+
+	<append xpath="/entitygroups/entitygroup[@name='ZombiesCrawlers']">
+		<e n="zombieDTPSteveCrawlerPREPPER" p="0.1" />
+	</append>
 
 <!-- SMG Arlene PREPPER -->
 	

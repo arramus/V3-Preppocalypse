@@ -5735,6 +5735,81 @@
 		</effect_group>
 	</item>
 	
+<item name="meleeHandZombieDTPSteveCrawlerPREPPER"> <!-- + 10% hits and gains -->
+	<property name="Extends" value="meleeHandZombie02Feral"/>
+	<property name="CreativeMode" value="None"/>
+	<property class="Action0">
+		<property name="DamageEntity" value="20"/>
+		<property name="DamageBlock" value="25"/>
+	</property>
+		<property class="Action1"> <!-- UseAction -->		
+			<property name="Class" value="Vomit"/>
+			<property name="Hitmask_override" value="Arrow"/>
+			<property name="Delay" value=".3"/> <!-- obsolete if rounds per minute exists -->
+			<property name="Range" value="200"/>
+			<property name="Infinite_ammo" value="true"/>
+			<property name="Magazine_items" value="ammoProjectileZombieDTPSteveCrawlerPREPPER"/>
+			<property name="Sound_warning" value="m60_reload"/>
+			<property name="Sound_start" value="Pistol_Fire"/>
+			<property name="Sound_loop" value="Pistol_Fire"/>
+			<property name="Sound_end" value="smg_fire_end"/>
+			<property name="Sound_empty" value="dryfire"/>
+			<property name="Sound_reload" value="pistol_reload"/>
+			<property name="Particles_muzzle_fire" value="gunfire_pistol"/>
+			<property name="Particles_muzzle_fire_fpv" value="gunfire_pistol_fpv"/>	
+		</property>
+		<effect_group name="meleeHandZombieDTPSteveCrawlerPREPPER" tiered="false">
+			<passive_effect name="ModSlots" operation="base_set" value="0"/>
+			<!--<passive_effect name="AttacksPerMinute" operation="base_set" value="75"/>  A16 .8 -->
+			<passive_effect name="DamageFalloffRange" operation="base_set" value="30"/>
+			<passive_effect name="MaxRange" operation="base_set" value="60"/>
+			<passive_effect name="MagazineSize" operation="base_set" value="6"/>
+			<passive_effect name="BurstRoundCount" operation="base_set" value="2"/>
+			<passive_effect name="SpreadDegreesVertical" operation="base_set" value="2.5"/>
+			<passive_effect name="SpreadDegreesHorizontal" operation="base_set" value="2.5"/>
+			<passive_effect name="SpreadMultiplierIdle" operation="base_set" value="2.5"/>
+
+			<triggered_effect trigger="onSelfAttackedOther" action="AddBuff" target="other" fireOneBuff="true"
+				buff="buffFatiguedTrigger,buffArmSprainedCHTrigger,buffLegSprainedCHTrigger,buffLaceration,buffAbrasionCatch,buffInjuryStunned01CHTrigger,buffInjuryBleedingTwo"
+				weights=".11,.07,.07,.05,.29,.36,.11"/>
+			<triggered_effect trigger="onSelfAttackedOther" action="ModifyCVar" target="other" cvar="infectionCounter" operation="add" value="15"><!--InfectionFeral-->
+				<requirement name="CVarCompare" target="other" cvar="infectionCounter" operation="GT" value="0"/></triggered_effect>
+			<triggered_effect trigger="onSelfAttackedOther" action="ModifyCVar" target="other" cvar="abrasionZombieHit" operation="set" value="2400"/><!--AbrasionFeral-->
+		</effect_group>
+	</item>
+	
+	<item name="ammoProjectileZombieDTPSteveCrawlerPREPPER">
+		<property name="Meshfile" value="@:Entities/Electrical/steel_dartPrefab.prefab"/>	
+		<!-- property name="Meshfile" value="#Other/Items?Weapons/Ranged/Vomit/vomitBulbPrefab.prefab"/ -->
+		<property name="Material" value="Morganic"/>
+		<property name="CreativeMode" value="None"/>
+		<property class="Action1">
+			<property name="Class" value="Projectile"/>
+			<property name="DamageEntity" value="3"/>
+			<property name="DamageBlock" value="5"/>
+			<!-- property name="Explosion.ParticleIndex" value="7"/ -->
+			<property name="Velocity" value="30"/>
+			<property name="FlyTime" value="2"/>
+			<property name="LifeTime" value="4"/>
+			<property name="CollisionRadius" value=".1"/>
+			<property class="DamageBonus">
+				<property name="earth" value="0"/>
+			</property>
+			<property name="Buff" value="buffInfectionCatch"/>
+		</property>
+		<effect_group name="ammoProjectileZombieDTPSteveCrawlerPREPPER" tiered="false">
+			<passive_effect name="ModSlots" operation="base_set" value="0"/>
+			<passive_effect name="DamageModifier" operation="perc_set" value="0" tags="earth"/>
+			<passive_effect name="DamageModifier" operation="perc_set" value="0.5" tags="stone"/>
+			<passive_effect name="DamageModifier" operation="perc_add" value="1.2" tags="metal"/>
+			<passive_effect name="BuffProcChance" operation="base_set" value=".01" tags="buffInfectionCatch"/>
+			<triggered_effect trigger="onSelfAttackedOther" action="ModifyCVar" target="other" cvar="infectionCounter" operation="add" value="10"><!--InfectionRegular-->
+				<requirement name="CVarCompare" target="other" cvar="infectionCounter" operation="GT" value="0"/></triggered_effect>
+			<triggered_effect trigger="onSelfAttackedOther" action="ModifyCVar" target="other" cvar="abrasionZombieHit" operation="set" value="1800"/><!--AbrasionRegular-->
+			<triggered_effect trigger="onSelfDamagedOther" action="PlaySound" sound="smg_fire"/>
+		</effect_group>
+	</item>
+	
 <item name="meleeHandZombieSMGArlenePREPPER"> <!-- + 10% hits and gains -->
 	<property name="Extends" value="meleeHandZombie01"/>
 	<property name="CreativeMode" value="None"/>
@@ -5798,7 +5873,7 @@
 			</property>
 			<property name="Buff" value="buffInfectionCatch"/>
 		</property>
-		<effect_group name="ammoProjectileZombieSMGArlene" tiered="false">
+		<effect_group name="ammoProjectileZombieSMGArlenePREPPER" tiered="false">
 			<passive_effect name="ModSlots" operation="base_set" value="0"/>
 			<passive_effect name="DamageModifier" operation="perc_set" value="0" tags="earth"/>
 			<passive_effect name="DamageModifier" operation="perc_set" value="0.5" tags="stone"/>
@@ -9234,6 +9309,20 @@
 			<property class="Action0">
 				<property name="UseAnimation" value="false"/>
 				<property name="QuestGiven" value="quest_stunbatonhazmat"/>
+			</property>
+		</item>
+		
+	<!-- Double Trouble Pistol - Crawler -->
+		<item name="quest_dtpstevecrawler">
+			<property name="Extends" value="challengeQuestMaster"/>
+			<property name="Material" value="Mpaper"/> <property name="Weight" value="67"/>			
+			<property name="DescriptionKey" value="quest_dtpstevecrawlerDesc"/>
+			<property name="CustomIcon" value="quest_dtpstevecrawler"/>
+			<property name="SellableToTrader" value="true"/>
+			<property name="EconomicValue" value="250"/>
+			<property class="Action0">
+				<property name="UseAnimation" value="false"/>
+				<property name="QuestGiven" value="quest_dtpstevecrawler"/>
 			</property>
 		</item>
 		
