@@ -680,11 +680,11 @@
 		<property name="difficulty" value="hard"/>
 		<property name="shareable" value="false"/>
 
-			<objective type="EntityKill" id="animalMiniDireWolf" value="4"/>
-			<objective type="EntityKill" id="animalDireWolf" value="3"/>
-			<objective type="EntityKill" id="animalDireFireWolf" value="2"/>
-			<objective type="EntityKill" id="animalGiantDireFireWolf" value="1"/>
-			<objective type="EntityKill" id="animalGiantDirePlasmaWolf" value="1"/>
+			<objective type="EntityKill" id="animalMiniDireWolf,stringfiller" value="4"/>
+			<objective type="EntityKill" id="animalDireWolf,stringfiller" value="3"/>
+			<objective type="EntityKill" id="animalDireFireWolf,stringfiller" value="2"/>
+			<objective type="EntityKill" id="animalGiantDireFireWolf,stringfiller" value="1"/>
+			<objective type="EntityKill" id="animalGiantDirePlasmaWolf,stringfiller" value="1"/>
 		<requirement type="Quests.Requirements.Holding" id="gunRifleT2LeverActionRifleSwissVetterli"/>
 		
 		<reward type="SkillPoints" value="3" chainreward="false"/>
@@ -786,9 +786,9 @@
 		<property name="difficulty" value="hard"/>
 		<property name="shareable" value="false"/>
 
-			<objective type="EntityKill" id="zombieBogeymanMegaClaretPREPPER" value="1"/>
-			<objective type="EntityKill" id="zombieBogeymanMegaMilitaryPREPPER" value="1"/>
-			<objective type="EntityKill" id="zombieBogeymanMegaPlasmaPREPPER" value="1"/>
+			<objective type="EntityKill" id="zombieBogeymanMegaClaretPREPPER,stringfiller" value="1"/>
+			<objective type="EntityKill" id="zombieBogeymanMegaMilitaryPREPPER,stringfiller" value="1"/>
+			<objective type="EntityKill" id="zombieBogeymanMegaPlasmaPREPPER,stringfiller" value="1"/>
 		<requirement type="Quests.Requirements.Holding" id="gunExplosivesT3RocketLauncher"/>
 		
 		<reward type="SkillPoints" value="3" chainreward="false"/>
@@ -952,8 +952,8 @@
 	<property name="difficulty" value="medium"/>
 	<property name="shareable" value="false"/>
 	
-			<objective type="EntityKill" id="animalChicken" value="4"/>			
-			<objective type="EntityKill" id="animalRabbit" value="4"/>			
+			<objective type="EntityKill" id="animalChicken,stringfiller" value="4"/>			
+			<objective type="EntityKill" id="animalRabbit,stringfiller" value="4"/>			
 		
 	<reward type="Exp" value="2000"/>
 	<reward type="Quest" id="quest_eliminateanimals02">
@@ -974,10 +974,10 @@
 	<property name="difficulty" value="medium"/>
 	<property name="shareable" value="false"/>
 
-			<objective type="EntityKill" id="animalDoe" value="3"/>
-			<objective type="EntityKill" id="animalBoar" value="3"/>
-			<objective type="EntityKill" id="animalWolf" value="3"/>
-			<objective type="EntityKill" id="animalCoyote" value="3"/>			
+			<objective type="EntityKill" id="animalDoe,stringfiller" value="3"/>
+			<objective type="EntityKill" id="animalBoar,stringfiller" value="3"/>
+			<objective type="EntityKill" id="animalWolf,stringfiller" value="3"/>
+			<objective type="EntityKill" id="animalCoyote,stringfiller" value="3"/>			
 		
 	<reward type="Exp" value="4000"/>
 	<reward type="Quest" id="quest_eliminateanimals03">
@@ -998,10 +998,10 @@
 	<property name="difficulty" value="medium"/>
 	<property name="shareable" value="false"/>
 
-			<objective type="EntityKill" id="animalBear" value="2"/>
-			<objective type="EntityKill" id="animalMountainLion" value="2"/>
-			<objective type="EntityKill" id="animalStag" value="2"/>
-			<objective type="EntityKill" id="animalPaindeerPREPPER" value="2"/>			
+			<objective type="EntityKill" id="animalBear,stringfiller" value="2"/>
+			<objective type="EntityKill" id="animalMountainLion,stringfiller" value="2"/>
+			<objective type="EntityKill" id="animalStag,stringfiller" value="2"/>
+			<objective type="EntityKill" id="animalPaindeerPREPPER,stringfiller" value="2"/>			
 		
 	<reward type="Exp" value="8000"/>
 	<reward type="Quest" id="quest_eliminateanimals04">
@@ -1022,11 +1022,11 @@
 	<property name="difficulty" value="medium"/>
 	<property name="shareable" value="false"/>
 			
-			<objective type="EntityKill" id="animalZombieBear" value="1"/>
-			<objective type="EntityKill" id="animalZombieBunnyPREPPER" value="1"/>
-			<objective type="EntityKill" id="animalZombieChickenPREPPER" value="1"/>
-			<objective type="EntityKill" id="animalDireWolf" value="1"/>
-			<objective type="EntityKill" id="animalBossZombieGracePREPPER" value="1"/>			
+			<objective type="EntityKill" id="animalZombieBear,stringfiller" value="1"/>
+			<objective type="EntityKill" id="animalZombieBunnyPREPPER,stringfiller" value="1"/>
+			<objective type="EntityKill" id="animalZombieChickenPREPPER,stringfiller" value="1"/>
+			<objective type="EntityKill" id="animalDireWolf,stringfiller" value="1"/>
+			<objective type="EntityKill" id="animalBossZombieGracePREPPER,stringfiller" value="1"/>			
 		
 	<reward type="Exp" value="16000"/>
 	<reward type="SkillPoints" value="2" chainreward="false"/>
@@ -1129,7 +1129,7 @@
 		<property name="difficulty" value="medium"/>
 		<property name="shareable" value="false"/>
 		
-		<objective type="EntityKill" id="zombieDTPSteveCrawlerPREPPER" value="10" phase="1"/>
+		<objective type="EntityKill" id="zombieDTPSteveCrawlerPREPPER,stringfiller" value="10" phase="1"/>
 		<requirement type="Quests.Requirements.Holding" id="gun22HandgunT0Pistol"/>
 		
 		<reward type="Exp" value="5000"/>
@@ -1169,7 +1169,7 @@
 		<property name="difficulty" value="medium"/>
 		<property name="shareable" value="false"/>
 		
-		<objective type="EntityKill" id="zombieM60DemolitionPREPPER" value="10" phase="1"/>
+		<objective type="EntityKill" id="zombieM60DemolitionPREPPER,stringfiller" value="10" phase="1"/>
 		<requirement type="Quests.Requirements.Holding" id="gunMGT3M60"/>
 		
 		<reward type="Exp" value="5000"/>
