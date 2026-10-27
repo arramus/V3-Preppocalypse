@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="44096d9d-3f75-4a33-86fb-b2a39ffcca1c" name="New Sign" modified="2026-10-27 21:08:47Z" next_poly_id="2" next_text_id="1" next_noise_id="1" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.2095012, 0.2095012" color="#400934FF" mode="ColorOnly" font="LiberationSans" text="Musical Mam" direction="0" spacing="1.28" softness="0" dilate="0.6" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.2095012, 0.2095012" color="#E346C0FF" mode="ColorOnly" font="LiberationSans" text="Musical Mam" direction="0" spacing="1.28" softness="0" dilate="0.26" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.2095012, 0.2095012" color="#DED2D2FF" mode="ColorOnly" font="LiberationSans" text="Musical Mam" direction="0" spacing="1.28" softness="0" dilate="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.0751032, 0.0751032" color="#790F61FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.5" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0.2213622, -0.01790186" rot="5" scale="0.02308348, 0.01382093" color="#000000FF" mode="ColorOnly" sides="26" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0.2913621, -0.007901864" rot="5" scale="0.02308348, 0.01382093" color="#000000FF" mode="ColorOnly" sides="26" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0.2378745, 0.0309264" rot="0" scale="0.006740123, 0.04982506" color="#000000FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0.3078744, 0.0409264" rot="0" scale="0.006740123, 0.04982506" color="#000000FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0.2778745, 0.08092639" rot="-80" scale="0.006740123, 0.03662599" color="#000000FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+  </sign>
+</signs>
