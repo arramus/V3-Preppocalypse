@@ -1,4 +1,4 @@
-<configs>
+<Preppocalypse>
 
 	<!-- Max player level -->
 	<set xpath="/progression/level/@max_level">400</set> <!-- Default max level is 300 and 400 more than covers extras -->
@@ -413,4 +413,4 @@
 	</book>
 	</insertAfter>
 	
-</configs>
+</Preppocalypse>

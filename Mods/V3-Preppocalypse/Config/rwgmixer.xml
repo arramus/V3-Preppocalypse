@@ -1,4 +1,4 @@
-<configs>
+<Preppocalypse>
 
 	<!-- Preppo Town -->
 	<!-- TINY -->
@@ -141,4 +141,4 @@
 	<prefab_spawn_adjust partial_name="trader_preppo_tech_trio" biomeTags="burntforest,snow,wasteland" bias="21" min_count="2" max_count="2"/>
 	</append>
 
-</configs>
+</Preppocalypse>

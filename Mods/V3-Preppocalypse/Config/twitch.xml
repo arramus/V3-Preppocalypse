@@ -1,4 +1,4 @@
-<configs>
+<Preppocalypse>
 	<append xpath="/twitch">
 	
 	<!-- Single Zombies -->
@@ -308,4 +308,4 @@
 	
 	</append>
 		
-</configs>
+</Preppocalypse>

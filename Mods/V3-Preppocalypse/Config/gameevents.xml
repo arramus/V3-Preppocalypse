@@ -1,4 +1,4 @@
-<configs>
+<Preppocalypse>
 
 	<set xpath="/gameevents/action_sequence[@name='challenge_group_reward_basics']/action/property[@name='skill_points']/@value">7</set>
 	
@@ -176,4 +176,4 @@
 	</action_sequence>
 
 	</append>
-</configs>
+</Preppocalypse>

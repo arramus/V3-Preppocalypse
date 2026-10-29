@@ -1,4 +1,4 @@
-<configs>
+<Preppocalypse>
 	<append xpath="/templates">		
 		<!-- Make cells not look like crap and item icons fit properly - based on KhaineGB's modlet with progressive required updates -->
 		<kh12_craft_queue_stack>		
@@ -14,4 +14,4 @@
 			</rect>
 		</kh12_craft_queue_stack>
 	</append>
-</configs>
+</Preppocalypse>

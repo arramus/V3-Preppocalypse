@@ -1,4 +1,4 @@
-<configs>
+<Preppocalypse>
 
 	<!-- *** ZOMBIES_SCOUT_SCREAMER -->
 	<set xpath="/spawning/entityspawner[@name='Scouts2']/day/property[@name='TotalPerWave']/@value">1</set>
@@ -64,4 +64,4 @@
 		<spawn id="nzpreppo01" maxcount="3" respawndelay="0.002" time="Night" entitygroup="PrepperMixedEntitiesGroupGS800" tags="preppotown" /> <!-- Default is 4 -->
 	</append>
 	
-</configs>
+</Preppocalypse>
