@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="baa4f619-1aa3-4b7c-8d06-9ec28daaeb20" name="New Sign" modified="2026-10-31 22:17:08Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.02" rot="0" scale="0.3499053, 0.3499053" color="#FFFFFFFF" mode="ColorOnly" font="Dancing Script" text="DAPPER" direction="0" spacing="1.36" softness="0" dilate="0.4" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.02" rot="0" scale="0.3499053, 0.3499053" color="#332963FF" mode="ColorOnly" font="Dancing Script" text="DAPPER" direction="0" spacing="1.36" softness="0" dilate="0.2" />
+  </sign>
+  <sign guid="ac863835-93fe-4226-b262-f41cb25a0fa0" name="New Sign" modified="2026-10-31 22:08:01Z" next_poly_id="0" next_text_id="1" next_noise_id="1" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.33241, 0.33241" color="#381D1DFF" mode="ColorOnly" font="LiberationSans" text="CRAPPER" direction="0" spacing="1.14" softness="0" dilate="0.3" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.33241, 0.33241" color="#583939FF" mode="ColorOnly" font="LiberationSans" text="CRAPPER" direction="0" spacing="1.14" softness="0.8358209" dilate="-0.3" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0.1813623, -0.06975466" rot="-90" scale="0.06117202, 0.01015965" color="#AAA4A4FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.1495522" fade="0.7388059" />
+  </sign>
+  <sign guid="8a516682-2e20-4eb5-b718-a052383d8bba" name="New Sign" modified="2026-10-31 22:15:10Z" next_poly_id="1" next_text_id="0" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0.02441392, -0.4115527" rot="0" scale="0.6475413, 0.3000004" color="#381D1DFF" mode="ColorOnly" sides="25" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0.03836463, -0.1383377" rot="0" scale="0.5274265, 0.2443522" color="#381D1DFF" mode="ColorOnly" sides="25" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0.03836463, 0.1023156" rot="0" scale="0.3683215, 0.1706402" color="#381D1DFF" mode="ColorOnly" sides="25" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="-0.002070891, 0.3050674" rot="-35" scale="0.2321344, 0.1075459" color="#381D1DFF" mode="ColorOnly" sides="25" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="-0.09416921, -0.019755" rot="0" scale="0.07510326, 0.09220717" color="#B0A4A3FF" mode="ColorOnly" sides="25" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0.1458308, -0.019755" rot="0" scale="0.07510326, 0.09220717" color="#B0A4A3FF" mode="ColorOnly" sides="25" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0.1458308, -0.019755" rot="0" scale="0.06117207, 0.07510331" color="#000000FF" mode="ColorOnly" sides="25" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="-0.09416921, -0.019755" rot="0" scale="0.06117207, 0.07510331" color="#000000FF" mode="ColorOnly" sides="25" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0.04092575, -0.2808715" rot="0" scale="0.2850003, 0.07905612" color="#0A0101FF" mode="ColorOnly" sides="25" smoothness="0" starify="0" softness="0" dilate="0.1" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0.04092575, -0.2808715" rot="0" scale="0.2850003, 0.06778073" color="#B0A4A3FF" mode="ColorOnly" sides="25" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+  </sign>
+  <sign guid="feb04d5c-0e86-43b6-b689-380b9c172f26" name="New Sign" modified="2026-10-31 22:23:44Z" next_poly_id="0" next_text_id="1" next_noise_id="1" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#332727FF" mode="ColorOnly" font="Stardos Stencil" text="TRAPPER" direction="0" spacing="1.18" softness="0" dilate="0.3" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#664D4DFF" mode="ColorOnly" font="Stardos Stencil" text="TRAPPER" direction="0" spacing="1.18" softness="0" dilate="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.0751032, 0.0242984" color="#7A6A6AFF" mode="ColorOnly" seed="26" detail="4" softness="0" dilate="-0.16" fade="0.5" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="-0.0732424, -0.0941688" rot="0" scale="0.02834046, 0.005489871" color="#7A6A6AFF" mode="ColorOnly" seed="26" detail="4" softness="0" dilate="-0.16" fade="0.5" />
+  </sign>
+</signs>
