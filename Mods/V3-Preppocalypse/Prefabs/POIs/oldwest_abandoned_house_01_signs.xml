@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="8191f39d-ac63-4041-be4f-a90bbae3582f" name="New Sign" modified="2026-11-01 12:53:34Z" next_poly_id="1" next_text_id="1" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 0.3324102" color="#120A03FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.162108, 0.02083284" color="#402509FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.1" fade="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.8808986, 0.8368537" color="#B57532FF" mode="ColorOnly" font="LiberationSans" text="ABA" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.8808986, 0.8368537" color="#402509FF" mode="ColorOnly" font="LiberationSans" text="ABA" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="1.261423, 0.05811346" color="#986D56FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.1" fade="0.5" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="-0.6719336, -0.8485004" rot="0" scale="0.9760653, 0.0230835" color="#452819FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.06" fade="0.8" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="-0.6572196, -0.6179829" rot="0" scale="0.836854, 0.03855367" color="#A16342FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.2238806" fade="0.5" />
+  </sign>
+  <sign guid="6fd24937-60cc-4ebb-9d28-dda0a9c6f61b" name="New Sign" modified="2026-11-01 12:53:56Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 0.3324102" color="#120A03FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.162108, 0.02083284" color="#402509FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.1" fade="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.8808986, 0.8368537" color="#B57532FF" mode="ColorOnly" font="LiberationSans" text="Law" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.8808986, 0.8368537" color="#402509FF" mode="ColorOnly" font="LiberationSans" text="Law" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="-0.03923699, 0.1961849" rot="0" scale="1.630208, 0.07905608" color="#986D56FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.1" fade="0.5" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="-0.6719336, -0.8485004" rot="0" scale="0.9760653, 0.0230835" color="#452819FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.06" fade="0.8" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="-0.6572196, -0.6179829" rot="0" scale="0.836854, 0.03855367" color="#A16342FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.2238806" fade="0.5" />
+  </sign>
+  <sign guid="f105a90b-8b12-4587-a36d-8c587ec0bed8" name="New Sign" modified="2026-11-01 12:53:08Z" next_poly_id="1" next_text_id="1" next_noise_id="1" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.027437, 0.2572128" color="#120A03FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.162108, 0.02083284" color="#402509FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.1" fade="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.01" rot="0" scale="0.6151642, 0.584406" color="#B57532FF" mode="ColorOnly" font="LiberationSans" text="School" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.01" rot="0" scale="0.6151642, 0.584406" color="#402509FF" mode="ColorOnly" font="LiberationSans" text="School" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="-0.6572196, -0.6179829" rot="0" scale="1.716008, 0.07905608" color="#986D56FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.06" fade="0.5" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="-0.6719336, -0.8485004" rot="0" scale="0.9760653, 0.0230835" color="#452819FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.06" fade="0.8" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="-0.6572196, -0.6179829" rot="0" scale="0.836854, 0.03855367" color="#A16342FF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.2238806" fade="0.5" />
+  </sign>
+</signs>
